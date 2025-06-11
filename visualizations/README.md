@@ -1,0 +1,1 @@
+Tableau workbook for visualizing AI job risk and exposure metrics. Contains bar charts and heat maps compiled into an industry-level interactive dashboard which can be filtered based on a variety of specifications.

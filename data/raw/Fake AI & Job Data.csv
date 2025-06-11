@@ -1,0 +1,1001 @@
+Name,Job_Title,Industry,AI_Replacement_Risk,Salary,Years_of_Experience,City,AI_Tool_Threat
+Paul Edwards,Data Analyst,Healthcare,4,119261,27,Austin,Github Copilot
+Stephen Owens,Marketing Manager,Media & Marketing,5,175689,13,San Francisco,Scribe AI
+James Meyer,Copywriter,Tech,2,85007,25,Austin,Writer.com
+Joseph Marquez,Doctor,Healthcare,2,46017,22,San Francisco,Claude
+Mark Owens,Financial Analyst,Finance,1,127452,18,New York,ChatGPT
+Mark Morris,Nurse,Healthcare,1,65400,16,San Francisco,Claude
+Martha Ortiz,Financial Analyst,Finance,2,189603,18,Boston,Perplexity AI
+Alexander Brown,Teacher,Education,2,102422,28,Seattle,Claude
+Tina Gonzalez,Customer Support Agent,Finance,2,149213,34,Chicago,Perplexity AI
+Theresa Lutz,HR Manager,Human Resources,4,169617,19,Austin,ChatGPT
+Cameron Butler,Doctor,Healthcare,3,141645,6,San Francisco,Claude
+Larry Reed,Customer Support Agent,Healthcare,5,148624,24,Austin,ChatGPT
+Martin Frye,Marketing Manager,Media & Marketing,2,142108,9,Chicago,Writer.com
+Mr. Keith Weber Jr.,Customer Support Agent,Tech,2,91717,10,Austin,ChatGPT
+Todd Casey,Financial Analyst,Healthcare,3,132261,10,Austin,None
+Vanessa Alvarez,Technical Recruiter,Tech,1,165164,11,New York,Scribe AI
+Melissa Stevenson,Radiologist,Healthcare,4,116068,29,Boston,MedpaLM
+Scott Smith,Technical Recruiter,Human Resources,3,116707,4,San Francisco,Scribe AI
+Claire Cross,Nurse,Healthcare,4,157805,24,Austin,MedpaLM
+David Watson,Technical Recruiter,Healthcare,4,77252,16,San Francisco,ChatGPT
+Katherine Norris,HR Manager,Human Resources,3,192811,18,New York,ChatGPT
+Anthony Mitchell,HR Manager,Human Resources,3,114069,2,Austin,Scribe AI
+Jamie Jackson,Data Analyst,Media & Marketing,3,173776,23,New York,ChatGPT
+Alexander Santos,Data Analyst,Healthcare,3,41735,18,New York,Claude
+Sandra Campbell,Doctor,Healthcare,1,52429,27,San Francisco,Claude
+Michael Hudson Jr.,Lawyer,Legal,5,73001,22,Austin,Harvey
+Scott Knight,Copywriter,Media & Marketing,1,113979,15,Austin,Writer.com
+Tanya Pennington,Radiologist,Healthcare,5,91045,16,Boston,Claude
+Brittany Berg,HR Manager,Human Resources,5,57962,10,Austin,Scribe AI
+Sean Ibarra,HR Manager,Human Resources,1,77727,31,Boston,Writer.com
+Andrea Allen,Marketing Manager,Media & Marketing,5,46129,0,Chicago,Writer.com
+Walter Butler MD,Paralegal,Legal,1,149449,18,New York,Claude
+Kyle Fisher,Nurse,Healthcare,2,127290,34,Boston,Claude
+Rebekah Campos DVM,Data Analyst,Finance,3,199994,34,San Francisco,Claude
+Joseph Bennett,Financial Analyst,Finance,5,189922,19,San Francisco,Perplexity AI
+Robert Hobbs,Marketing Manager,Media & Marketing,1,59414,4,Boston,ChatGPT
+Gary Friedman,Marketing Manager,Media & Marketing,2,179368,26,Austin,Scribe AI
+Monica Peterson,Paralegal,Legal,4,191014,23,Boston,DoNotPay
+Teresa Wood,Paralegal,Legal,4,145632,15,New York,Claude
+William Valdez,Teacher,Education,3,59018,8,Boston,Google Gemini
+Christine Watts,Data Analyst,Media & Marketing,5,66471,22,Boston,Claude
+Nicole Newman,Nurse,Healthcare,2,110649,30,Boston,MedpaLM
+Bruce May,Radiologist,Healthcare,5,81981,5,Boston,MedpaLM
+Mark Smith,Doctor,Healthcare,5,42724,10,Austin,Claude
+Alex Pham,Technical Recruiter,Human Resources,1,53099,6,Remote,ChatGPT
+Angelica Johnson,Data Analyst,Finance,5,85981,23,San Francisco,Github Copilot
+Sara Hall,Lawyer,Legal,4,136239,7,San Francisco,DoNotPay
+Todd Collins,Paralegal,Legal,3,69607,22,Boston,DoNotPay
+Stephen Young,Nurse,Healthcare,4,131784,28,Chicago,Claude
+Christopher Tapia,Software Engineer,Tech,5,81798,12,San Francisco,Claude
+Patricia Carroll,Nurse,Healthcare,2,123940,14,Boston,Claude
+Erica Bauer,Technical Recruiter,Media & Marketing,5,106724,11,Chicago,Scribe AI
+Samuel Young,Paralegal,Legal,4,130936,8,Remote,DoNotPay
+Taylor Lucas,Paralegal,Legal,4,113709,12,Remote,Claude
+Randy Gilbert,Data Analyst,Tech,4,147872,29,New York,Claude
+Daniel Johnson,Copywriter,Tech,3,104898,30,Seattle,Writer.com
+Robert Cabrera DDS,Software Engineer,Tech,2,107373,8,Austin,Github Copilot
+Scott Scott,Lawyer,Legal,2,108364,35,Remote,Claude
+Beverly Powell,Marketing Manager,Media & Marketing,2,98780,19,Chicago,ChatGPT
+Alexis Torres,HR Manager,Human Resources,4,93939,14,Remote,ChatGPT
+Stephen Morales,HR Manager,Human Resources,1,141182,13,Chicago,Writer.com
+Daniel Walker,HR Manager,Human Resources,2,170851,4,Remote,Scribe AI
+David Phillips,Nurse,Healthcare,1,122897,7,Seattle,Claude
+Ian Knight,Copywriter,Media & Marketing,5,155464,34,Austin,ChatGPT
+Ryan Harris,Radiologist,Healthcare,3,185750,10,Austin,MedpaLM
+Stephanie Rubio,Marketing Manager,Media & Marketing,5,149036,1,Remote,Scribe AI
+Nathan Carlson,Paralegal,Legal,2,170472,21,San Francisco,Harvey
+Anthony Webb,HR Manager,Human Resources,4,46254,13,San Francisco,Scribe AI
+Keith Clark,Nurse,Healthcare,2,178237,9,New York,MedpaLM
+James Savage,Software Engineer,Tech,3,160396,21,New York,Github Copilot
+Janice Flores,Technical Recruiter,Finance,5,167446,19,Chicago,None
+Melvin Ford,Financial Analyst,Finance,2,190047,19,Chicago,None
+Paul Harper,Teacher,Education,3,103168,13,Seattle,Google Gemini
+Blake Hill,HR Manager,Human Resources,4,142244,0,Chicago,ChatGPT
+Kevin King,Financial Analyst,Healthcare,5,187365,2,Austin,ChatGPT
+Maria Contreras,Teacher,Education,3,125628,10,New York,ChatGPT
+David Perry,Copywriter,Media & Marketing,1,86805,24,Boston,ChatGPT
+Sarah Fox,Lawyer,Legal,4,92801,8,San Francisco,DoNotPay
+Jennifer Taylor,Radiologist,Healthcare,4,157105,10,Seattle,MedpaLM
+Jo Miranda,Paralegal,Legal,2,177521,10,Remote,Harvey
+Michael Flynn,Teacher,Education,1,87708,15,Boston,Claude
+Leslie Hobbs,Software Engineer,Tech,1,184779,34,Boston,Claude
+Sarah Miller,Marketing Manager,Media & Marketing,4,116229,14,San Francisco,Scribe AI
+Michelle Brandt,HR Manager,Human Resources,1,178448,15,Remote,Writer.com
+Kimberly Gonzalez,Copywriter,Media & Marketing,2,83134,11,New York,ChatGPT
+Steven Franco,Marketing Manager,Media & Marketing,2,141279,28,San Francisco,Scribe AI
+Kelly Fitzgerald,HR Manager,Human Resources,3,129320,20,Boston,Writer.com
+Cody Shaw,Nurse,Healthcare,5,69557,16,Remote,Claude
+Randy Bartlett,Software Engineer,Tech,2,186972,28,San Francisco,Claude
+Robert Cruz,Radiologist,Healthcare,2,83201,3,Boston,Claude
+April Ramirez,Software Engineer,Tech,1,82656,28,Chicago,ChatGPT
+Amy Ruiz,Data Analyst,Tech,3,184821,8,Austin,Claude
+Sandra Hubbard,Customer Support Agent,Tech,2,72566,23,Seattle,Perplexity AI
+Andrea Davis,Lawyer,Legal,2,146110,9,Seattle,Claude
+Howard Ballard,Paralegal,Legal,2,152604,33,San Francisco,Harvey
+Kristin Spencer,Lawyer,Legal,4,50938,4,Boston,Claude
+Mark Cox,Paralegal,Legal,1,122016,3,New York,Claude
+Anthony Spence,Paralegal,Legal,3,66393,10,Remote,Harvey
+Robert Nash,Paralegal,Legal,3,125286,14,Remote,Harvey
+Emily Jones,HR Manager,Human Resources,5,158228,17,San Francisco,Scribe AI
+Robert Collier,Paralegal,Legal,3,54925,11,Boston,Claude
+Eric Swanson,Software Engineer,Tech,4,55568,26,Austin,Github Copilot
+Brian Carter DDS,Nurse,Healthcare,1,45238,4,Boston,Claude
+Teresa Nixon,Customer Support Agent,Healthcare,3,47672,21,Chicago,Perplexity AI
+Michelle Daniel,Radiologist,Healthcare,3,146907,27,Boston,Claude
+Danielle Vaughn,Copywriter,Tech,2,54716,30,Austin,Writer.com
+Michael Taylor,HR Manager,Human Resources,3,105067,1,Seattle,Writer.com
+Rebecca Mccullough,Radiologist,Healthcare,2,176170,10,Austin,Claude
+Derrick Valencia,Copywriter,Media & Marketing,4,114053,14,Austin,Writer.com
+Adrian Zimmerman,Copywriter,Tech,3,63621,30,San Francisco,Writer.com
+Monica Mendez,Paralegal,Legal,5,83526,27,Chicago,Harvey
+Steven Palmer,Software Engineer,Tech,3,68197,35,New York,ChatGPT
+Mark Henderson,Data Analyst,Tech,1,103894,2,Remote,Github Copilot
+April Humphrey,Paralegal,Legal,5,194940,21,Boston,Claude
+Cynthia Ramirez,Paralegal,Legal,4,114338,17,Austin,DoNotPay
+Kelly Humphrey,Doctor,Healthcare,4,192610,9,Boston,MedpaLM
+Bryan Ferguson,Customer Support Agent,Media & Marketing,5,181327,6,Austin,None
+Susan Bryant,Software Engineer,Tech,1,178741,35,Remote,Claude
+Lori Jackson,Doctor,Healthcare,3,198837,0,Seattle,MedpaLM
+Ann Phillips,Customer Support Agent,Tech,5,77550,19,Chicago,ChatGPT
+Tanner Williams,Nurse,Healthcare,5,70076,19,Chicago,MedpaLM
+Stephanie Smith,Paralegal,Legal,1,130407,21,Chicago,Harvey
+Andrea Hamilton,Teacher,Education,5,162119,29,Chicago,Google Gemini
+Martha Beasley,Lawyer,Legal,4,117569,2,Boston,Harvey
+William Cook,Software Engineer,Tech,5,72053,11,Seattle,Claude
+Michael Kelly,Technical Recruiter,Finance,2,74244,10,Remote,ChatGPT
+Joshua Smith,Copywriter,Tech,1,138950,1,Seattle,Writer.com
+Marie Howard,Nurse,Healthcare,4,187387,20,San Francisco,Claude
+Edgar Le,Radiologist,Healthcare,2,62074,1,San Francisco,Claude
+Kevin Carter,Data Analyst,Tech,3,99986,18,Boston,Claude
+Veronica Fields,Paralegal,Legal,5,93416,26,Boston,Claude
+Anita Jackson,Software Engineer,Tech,5,113252,21,San Francisco,Claude
+Bruce Shaw,Teacher,Education,3,144801,20,Remote,Claude
+Theresa Davis,Customer Support Agent,Media & Marketing,1,146101,20,Boston,Perplexity AI
+Steve Dillon,Financial Analyst,Finance,2,102035,32,San Francisco,ChatGPT
+Kelly Carter,Customer Support Agent,Finance,4,118883,2,Austin,Perplexity AI
+Tammy Richardson,Data Analyst,Healthcare,4,169807,31,San Francisco,Claude
+Carol Mcdowell,Teacher,Education,5,149851,0,Remote,ChatGPT
+Rhonda Tran,Financial Analyst,Finance,3,140591,14,Chicago,ChatGPT
+Jeffery Morrison,Data Analyst,Healthcare,2,194172,32,Austin,ChatGPT
+Briana Adams,Doctor,Healthcare,5,84866,11,Austin,Claude
+Raymond Davidson,Financial Analyst,Healthcare,1,87917,23,Seattle,Perplexity AI
+Pedro Hernandez,Financial Analyst,Finance,3,53284,30,Austin,Perplexity AI
+Michael Johnson,Software Engineer,Tech,4,82301,21,Chicago,Github Copilot
+Kristina Young,Data Analyst,Media & Marketing,1,92441,30,Chicago,Claude
+Timothy Willis,Lawyer,Legal,3,108346,34,Boston,DoNotPay
+Ethan Miller,Lawyer,Legal,2,193167,11,San Francisco,DoNotPay
+Harold Foster,Copywriter,Tech,4,195560,3,Seattle,ChatGPT
+Dawn Anderson,Teacher,Education,4,90366,20,Boston,Google Gemini
+Patrick Leblanc,Financial Analyst,Healthcare,2,123556,8,Boston,Perplexity AI
+Jessica Rogers,Paralegal,Legal,3,177158,6,New York,Claude
+Ryan Howard,Data Analyst,Finance,2,185237,0,San Francisco,ChatGPT
+Keith Howard,Technical Recruiter,Healthcare,2,185370,20,New York,None
+Roberta Crawford,Customer Support Agent,Healthcare,3,97501,2,Seattle,None
+Lisa Dennis,Data Analyst,Media & Marketing,4,185612,17,San Francisco,ChatGPT
+Laura Mckay,Technical Recruiter,Finance,4,94891,9,Seattle,Scribe AI
+Cole Esparza,Radiologist,Healthcare,5,197336,23,New York,Claude
+Cassandra Vazquez,Copywriter,Media & Marketing,1,198153,16,Boston,Writer.com
+Justin Olsen,Nurse,Healthcare,2,83741,18,Chicago,MedpaLM
+Brian Flores,Technical Recruiter,Tech,5,83281,16,New York,None
+Mark Atkins,Paralegal,Legal,1,96446,5,New York,DoNotPay
+Terri Bradley,Customer Support Agent,Finance,3,91271,23,Chicago,Perplexity AI
+Adrian Mcdaniel,Nurse,Healthcare,4,199548,19,New York,MedpaLM
+Haley Barber,Paralegal,Legal,3,129851,32,New York,DoNotPay
+Sherry Brown,Software Engineer,Tech,5,69923,23,Remote,Claude
+Alice Barrett,HR Manager,Human Resources,4,178883,21,Remote,ChatGPT
+Jennifer Rodriguez,Lawyer,Legal,5,48546,5,Seattle,Claude
+Victor Burnett,Teacher,Education,3,76265,35,San Francisco,ChatGPT
+Amanda David,Customer Support Agent,Media & Marketing,5,111368,17,Austin,None
+Devon Coleman,Radiologist,Healthcare,2,135161,1,Seattle,MedpaLM
+John Wong,Doctor,Healthcare,3,89395,2,Boston,MedpaLM
+Lisa Sandoval,Customer Support Agent,Media & Marketing,1,41374,4,Chicago,Perplexity AI
+Mrs. Anne Harris,Doctor,Healthcare,3,160195,34,Seattle,MedpaLM
+Glenn Cook,Financial Analyst,Healthcare,4,113501,20,San Francisco,ChatGPT
+Kristopher Shaw,Software Engineer,Tech,2,99760,29,Boston,ChatGPT
+Brian Michael,Data Analyst,Tech,2,51893,1,Austin,Claude
+John Cruz,Customer Support Agent,Healthcare,4,124071,21,Boston,None
+Benjamin Ward,Marketing Manager,Media & Marketing,3,128463,14,Austin,Scribe AI
+Vincent Harrell,Technical Recruiter,Media & Marketing,5,90677,21,Remote,Scribe AI
+Jeffery Collins,Technical Recruiter,Finance,4,95188,29,New York,ChatGPT
+Robin Moran,Software Engineer,Tech,1,76449,31,Austin,ChatGPT
+Jared Love,Financial Analyst,Healthcare,5,175678,13,Chicago,ChatGPT
+Samantha Carter,Lawyer,Legal,5,120104,9,Chicago,Harvey
+Daniel Gonzalez,HR Manager,Human Resources,1,102091,9,New York,Scribe AI
+Erik Gonzalez,Radiologist,Healthcare,1,100647,10,San Francisco,MedpaLM
+Angela Oliver,Copywriter,Media & Marketing,3,49018,21,San Francisco,Writer.com
+Brian Carey,Doctor,Healthcare,4,158585,10,Austin,MedpaLM
+Charles Wilson,Teacher,Education,5,53838,23,Chicago,Claude
+Emily White,Copywriter,Media & Marketing,3,179613,35,Remote,ChatGPT
+Mary Garcia,Nurse,Healthcare,5,193950,15,Boston,MedpaLM
+Wendy Hernandez,Technical Recruiter,Finance,5,139951,16,Boston,Scribe AI
+Megan Ramirez,Paralegal,Legal,5,171463,12,New York,Claude
+Elizabeth Burton,Doctor,Healthcare,4,184631,22,Austin,Claude
+Patricia Dixon,Data Analyst,Tech,5,174892,12,Remote,Claude
+Stephen Moody,Lawyer,Legal,1,49414,25,Austin,Claude
+Adam Wagner,Technical Recruiter,Media & Marketing,3,42082,32,San Francisco,Scribe AI
+Richard Lopez,Teacher,Education,1,122760,10,Seattle,Claude
+Jacob Carney,Marketing Manager,Media & Marketing,4,55863,23,Remote,ChatGPT
+Tiffany Hess,Technical Recruiter,Human Resources,2,112847,15,New York,ChatGPT
+Stacey Austin,Radiologist,Healthcare,3,164363,6,Remote,Claude
+Julie Shaffer,Financial Analyst,Healthcare,3,190653,13,Seattle,ChatGPT
+Carrie Marsh DDS,Data Analyst,Finance,2,107929,19,San Francisco,Github Copilot
+Jessica Jones,Data Analyst,Media & Marketing,2,183480,14,Seattle,Claude
+Kevin Burns,Data Analyst,Tech,2,111456,4,Austin,ChatGPT
+Tracy Sims,Financial Analyst,Finance,3,71870,2,New York,ChatGPT
+George Miller,Customer Support Agent,Finance,5,198508,1,Seattle,ChatGPT
+Cheyenne Clark,Financial Analyst,Finance,5,70024,8,San Francisco,ChatGPT
+Alejandro Woods,Copywriter,Media & Marketing,2,147275,27,New York,Writer.com
+Alan Castillo,Paralegal,Legal,4,163519,18,Seattle,DoNotPay
+Laurie Walsh,Software Engineer,Tech,4,120740,3,San Francisco,Github Copilot
+Eric Rosales,HR Manager,Human Resources,4,122881,20,Chicago,Scribe AI
+Jacob Taylor,Technical Recruiter,Tech,1,62412,16,New York,ChatGPT
+Bryan Fox,Software Engineer,Tech,2,173455,24,Seattle,Claude
+Gloria Barrett,Financial Analyst,Healthcare,1,167314,1,Chicago,Perplexity AI
+Joseph Oconnor,Marketing Manager,Media & Marketing,5,150125,5,Chicago,Writer.com
+Dana Richardson,Customer Support Agent,Healthcare,3,162667,14,San Francisco,Perplexity AI
+James Gonzalez,Paralegal,Legal,3,45494,16,Austin,Claude
+Cassandra Williams,Data Analyst,Healthcare,5,103069,12,Chicago,ChatGPT
+Ronald Rodriguez,Marketing Manager,Media & Marketing,1,59119,22,San Francisco,Scribe AI
+Theresa Colon,Doctor,Healthcare,2,55456,34,San Francisco,MedpaLM
+William Eaton,Teacher,Education,3,40278,27,Boston,Claude
+Alicia Hall,Customer Support Agent,Finance,4,151079,29,Boston,None
+Jorge Mcdaniel,Financial Analyst,Finance,3,82316,10,Remote,Perplexity AI
+Jason Jackson,Nurse,Healthcare,4,129695,3,San Francisco,MedpaLM
+Alexandra Bryant,Data Analyst,Healthcare,2,46472,30,Seattle,ChatGPT
+Christopher Vang,Nurse,Healthcare,5,60151,4,San Francisco,MedpaLM
+Jessica Dixon,Nurse,Healthcare,4,60072,15,Seattle,Claude
+Danny Mclean,Lawyer,Legal,3,187655,34,Boston,DoNotPay
+Alan Sweeney,Teacher,Education,3,75482,24,Austin,Google Gemini
+Jesse Figueroa,Doctor,Healthcare,4,40218,3,San Francisco,MedpaLM
+Thomas Davis,Paralegal,Legal,2,194163,30,Austin,DoNotPay
+Joseph Reyes,Lawyer,Legal,3,107850,11,Chicago,Harvey
+Paige Moore,Technical Recruiter,Human Resources,1,52131,26,New York,Scribe AI
+Mark Mooney,Radiologist,Healthcare,5,180834,8,Seattle,MedpaLM
+Valerie Wells,Customer Support Agent,Healthcare,2,146132,11,Boston,Perplexity AI
+Megan Smith,Software Engineer,Tech,2,140088,11,New York,Github Copilot
+Joseph Jones,Financial Analyst,Finance,2,168426,27,New York,None
+Heather Williams,Technical Recruiter,Finance,5,58273,1,New York,Scribe AI
+Charles Hernandez,HR Manager,Human Resources,2,143751,3,Boston,Scribe AI
+Kenneth Booth,Lawyer,Legal,3,155317,23,Austin,Harvey
+Christine Matthews,Doctor,Healthcare,3,56641,3,Boston,MedpaLM
+Joseph Howard,Copywriter,Tech,1,133668,0,New York,ChatGPT
+Julia Vasquez,Nurse,Healthcare,1,155154,24,San Francisco,Claude
+Lauren Davenport,Data Analyst,Tech,5,193718,10,San Francisco,Github Copilot
+Omar Jimenez,Teacher,Education,2,199675,23,New York,Google Gemini
+Samantha Barnett,Lawyer,Legal,2,52839,7,Chicago,Harvey
+Jennifer James,Data Analyst,Healthcare,3,87984,10,Seattle,Github Copilot
+Andrew Norris,Teacher,Education,3,135882,24,Seattle,Google Gemini
+Jeffrey Jackson,HR Manager,Human Resources,2,106439,17,San Francisco,ChatGPT
+Andrew Harris,Financial Analyst,Finance,3,127361,29,San Francisco,ChatGPT
+Guy Huffman,HR Manager,Human Resources,5,78378,18,Seattle,Scribe AI
+Erin Swanson,Financial Analyst,Finance,5,66409,10,Seattle,None
+Mary Price,Technical Recruiter,Finance,2,52229,32,Boston,ChatGPT
+Jesus Price,Customer Support Agent,Tech,2,46434,4,San Francisco,Perplexity AI
+Carol Becker,Teacher,Education,5,53725,9,Remote,ChatGPT
+David Perez,HR Manager,Human Resources,1,137646,33,Austin,Scribe AI
+Tammy Perez,Radiologist,Healthcare,5,160195,12,New York,Claude
+Lisa Pacheco,Doctor,Healthcare,4,131435,35,Remote,Claude
+Samantha Moyer,Software Engineer,Tech,4,68209,6,New York,ChatGPT
+Cody Blankenship,Financial Analyst,Healthcare,5,190626,25,San Francisco,ChatGPT
+Kevin Hunt,Customer Support Agent,Healthcare,2,134950,35,San Francisco,Perplexity AI
+Jennifer Fisher,Copywriter,Media & Marketing,2,69135,14,Chicago,ChatGPT
+Amanda Greene,Radiologist,Healthcare,3,96850,8,New York,MedpaLM
+Karen Mccall,Lawyer,Legal,1,141270,10,Seattle,DoNotPay
+Jesse Moore,Paralegal,Legal,2,132245,16,Chicago,Harvey
+Sarah Matthews,Radiologist,Healthcare,5,69173,4,Seattle,MedpaLM
+David Levine,Technical Recruiter,Media & Marketing,2,124972,15,Chicago,Scribe AI
+Daniel Bailey,Financial Analyst,Healthcare,3,81378,2,Chicago,ChatGPT
+Henry Ball,Software Engineer,Tech,5,160183,14,Remote,Claude
+Cody Nash,Radiologist,Healthcare,2,174406,28,Chicago,Claude
+Melissa Bailey,Customer Support Agent,Healthcare,5,137664,31,Boston,None
+Zachary Solis,Doctor,Healthcare,2,131665,19,Austin,MedpaLM
+Tanya Jordan,Teacher,Education,2,74938,21,Austin,Google Gemini
+Courtney French,Doctor,Healthcare,4,182604,15,Boston,MedpaLM
+Douglas Oconnor,Lawyer,Legal,1,141266,2,Remote,Harvey
+Mark Perry,Customer Support Agent,Healthcare,5,96617,1,Chicago,ChatGPT
+William Hudson,Lawyer,Legal,4,103448,15,Boston,Claude
+Lisa Curry,Nurse,Healthcare,4,176907,33,Seattle,Claude
+Jeffrey Powell,Financial Analyst,Healthcare,2,130110,9,Boston,None
+Crystal Mclaughlin,Radiologist,Healthcare,3,44430,32,San Francisco,Claude
+Valerie Shea,Lawyer,Legal,1,121640,14,Boston,Claude
+Kristina West MD,Marketing Manager,Media & Marketing,4,111171,12,Remote,Writer.com
+Ariel Henderson,Marketing Manager,Media & Marketing,2,198107,7,San Francisco,Scribe AI
+Andrea Price,Teacher,Education,3,150624,13,Austin,Google Gemini
+Carla Davidson,Customer Support Agent,Healthcare,5,151733,11,Remote,Perplexity AI
+Eric Schmitt,Marketing Manager,Media & Marketing,4,178120,13,San Francisco,Writer.com
+Jason Davis,Lawyer,Legal,1,157248,30,Seattle,Claude
+Timothy Wise,Customer Support Agent,Finance,4,197562,12,Seattle,Perplexity AI
+Christine Villa,Radiologist,Healthcare,1,98470,22,Austin,Claude
+Yvonne Taylor,Technical Recruiter,Healthcare,5,70653,20,Chicago,ChatGPT
+Heather Sullivan,Marketing Manager,Media & Marketing,3,131290,31,Boston,ChatGPT
+Crystal Wall,Lawyer,Legal,1,80546,9,New York,Harvey
+Deborah Rose,Data Analyst,Finance,3,44369,3,Chicago,ChatGPT
+Julie Joseph,Financial Analyst,Healthcare,4,195843,32,Seattle,None
+Jennifer Rodriguez,Data Analyst,Media & Marketing,3,131891,23,Chicago,Claude
+Charles Green,Software Engineer,Tech,4,76558,13,Seattle,ChatGPT
+Mercedes Robles,Software Engineer,Tech,2,132707,2,San Francisco,Github Copilot
+Angela Reese,Financial Analyst,Healthcare,2,70242,22,Remote,ChatGPT
+Evan Haney,Teacher,Education,1,76911,15,Boston,Google Gemini
+Sean Melton,Paralegal,Legal,2,131248,21,San Francisco,Claude
+Maria Hartman,Software Engineer,Tech,3,40168,30,Chicago,ChatGPT
+Jason Sullivan,Paralegal,Legal,2,125878,13,San Francisco,DoNotPay
+Angela Smith,Lawyer,Legal,1,44214,10,New York,Claude
+Julie Campbell,Nurse,Healthcare,3,118343,5,Austin,MedpaLM
+Megan Smith,Radiologist,Healthcare,4,165726,10,San Francisco,Claude
+Wendy Baird,HR Manager,Human Resources,3,80310,19,Austin,Scribe AI
+Jeremiah Koch,Customer Support Agent,Healthcare,2,68405,27,Chicago,None
+Gregory Griffin,Data Analyst,Tech,4,111578,13,Chicago,Github Copilot
+Hannah Sanchez,Nurse,Healthcare,5,192093,14,San Francisco,Claude
+Dr. Crystal Mcdonald MD,HR Manager,Human Resources,5,122598,29,Austin,Scribe AI
+Tonya Shepherd,Nurse,Healthcare,2,110799,34,Remote,Claude
+Justin Hayden,Financial Analyst,Finance,5,134796,16,Chicago,ChatGPT
+Stacie Porter,Data Analyst,Healthcare,2,105561,5,Remote,Github Copilot
+David Elliott,Doctor,Healthcare,3,137720,32,New York,MedpaLM
+Kurt Lindsey,HR Manager,Human Resources,1,194411,8,Seattle,Writer.com
+Anthony Cardenas,Lawyer,Legal,1,70648,17,Boston,Claude
+Ms. Megan Macdonald,Nurse,Healthcare,5,83189,2,Boston,Claude
+Jennifer Sexton,Nurse,Healthcare,2,191843,7,Seattle,Claude
+James Nelson,Technical Recruiter,Finance,2,153589,31,Chicago,Scribe AI
+Jeremy Wheeler,Lawyer,Legal,1,104273,4,Seattle,Harvey
+Jennifer Beck,Data Analyst,Media & Marketing,1,186568,5,Chicago,Claude
+James Levine,Technical Recruiter,Human Resources,5,112140,34,Austin,ChatGPT
+Steven Davis,HR Manager,Human Resources,2,163324,15,Chicago,Writer.com
+Mrs. Cassandra Hurley,Financial Analyst,Finance,3,123998,6,San Francisco,ChatGPT
+Katelyn Everett,Copywriter,Media & Marketing,1,58209,13,Austin,ChatGPT
+Erica Edwards,Lawyer,Legal,3,181780,12,Boston,Claude
+Katherine Rios,Marketing Manager,Media & Marketing,2,56304,14,Austin,ChatGPT
+Sean Luna,Data Analyst,Media & Marketing,4,175238,12,Chicago,Claude
+Shari Saunders,HR Manager,Human Resources,1,195519,8,Chicago,Writer.com
+Jessica Cohen,Financial Analyst,Finance,5,129327,27,Remote,Perplexity AI
+Terry Lee,Financial Analyst,Finance,4,119301,12,Remote,None
+Caitlin Hill,Customer Support Agent,Tech,1,91646,2,Boston,None
+Melissa Bailey,Doctor,Healthcare,1,133529,8,Chicago,Claude
+Cheryl Sims,Marketing Manager,Media & Marketing,5,80315,18,Remote,Writer.com
+David Smith,Financial Analyst,Healthcare,4,125234,5,Remote,Perplexity AI
+Brooke Goodman,Data Analyst,Healthcare,3,80875,15,Remote,Claude
+Rachel Johnson,HR Manager,Human Resources,5,148639,24,Austin,ChatGPT
+Andrew Espinoza,Nurse,Healthcare,2,61298,20,Remote,Claude
+Jasmine Hernandez,Customer Support Agent,Tech,5,58450,35,Chicago,Perplexity AI
+Holly Taylor,Software Engineer,Tech,1,72894,34,Seattle,ChatGPT
+Jessica Cruz,Lawyer,Legal,5,100941,12,Remote,Harvey
+Scott Anderson,Paralegal,Legal,1,126525,13,Austin,Claude
+Keith Banks,Teacher,Education,2,120284,1,Austin,ChatGPT
+James Collier Jr.,Teacher,Education,5,53540,7,Austin,Google Gemini
+Thomas Wilkerson,Software Engineer,Tech,2,87713,9,Chicago,Github Copilot
+Nathan Preston,Financial Analyst,Finance,5,100418,31,Austin,None
+Sara Henry,Data Analyst,Tech,4,145672,34,Seattle,Github Copilot
+Joshua Brown,Lawyer,Legal,3,97683,4,Austin,Harvey
+James Walker,Teacher,Education,3,130036,21,Remote,Google Gemini
+Rose Garcia,Paralegal,Legal,3,158453,24,San Francisco,Harvey
+Kimberly Anderson,HR Manager,Human Resources,4,102071,18,Boston,ChatGPT
+Micheal Snyder,Data Analyst,Healthcare,1,157269,8,Chicago,Github Copilot
+Desiree Moore,Paralegal,Legal,1,188387,16,San Francisco,Harvey
+Elizabeth Parks,Copywriter,Media & Marketing,4,45857,10,Austin,Writer.com
+Jasmin Randall,Technical Recruiter,Finance,3,57422,24,Chicago,Scribe AI
+Sandra Wood,Financial Analyst,Finance,1,159730,10,Remote,ChatGPT
+Kelsey Harper,Radiologist,Healthcare,4,156989,7,San Francisco,MedpaLM
+Brandy Beard,Doctor,Healthcare,3,122633,16,Austin,Claude
+Sharon Lucas,Doctor,Healthcare,5,133662,11,Seattle,MedpaLM
+Billy Johnson,Teacher,Education,2,154549,18,Chicago,Google Gemini
+Cole Ramirez MD,Nurse,Healthcare,5,54704,31,New York,Claude
+William Woods,HR Manager,Human Resources,3,109778,1,Chicago,Writer.com
+Glenn Morris,Marketing Manager,Media & Marketing,4,161875,0,New York,Writer.com
+Thomas Owens,Financial Analyst,Healthcare,3,109260,6,New York,ChatGPT
+Mark Campbell,Technical Recruiter,Healthcare,3,69875,12,Seattle,Scribe AI
+Anthony Page,HR Manager,Human Resources,4,70745,17,Boston,Scribe AI
+Benjamin Skinner,Teacher,Education,1,138213,2,Boston,ChatGPT
+William Clayton,Marketing Manager,Media & Marketing,2,108181,33,Remote,Writer.com
+George Lewis,Financial Analyst,Finance,2,122237,2,Chicago,None
+Jesus Bates,Customer Support Agent,Media & Marketing,4,173266,13,Chicago,None
+Michael Velez,Doctor,Healthcare,2,63890,28,Seattle,Claude
+Christina Graves,Software Engineer,Tech,5,106336,18,San Francisco,Claude
+Samantha Smith,Paralegal,Legal,5,100939,6,Boston,Claude
+Thomas Garcia,Lawyer,Legal,5,196170,6,Chicago,Claude
+Jessica Howard,Financial Analyst,Finance,3,44793,13,New York,ChatGPT
+Roger Walsh,Nurse,Healthcare,5,75803,26,Seattle,MedpaLM
+Cynthia Macias,Technical Recruiter,Media & Marketing,4,56158,0,New York,None
+Andrea Solomon,Lawyer,Legal,5,109899,32,New York,Harvey
+Misty Brown,HR Manager,Human Resources,4,158128,29,Boston,Scribe AI
+Jennifer Payne,Teacher,Education,5,157167,14,Seattle,ChatGPT
+Corey Zhang,Financial Analyst,Finance,5,116923,17,Boston,Perplexity AI
+Dennis Reed,Customer Support Agent,Healthcare,4,50078,32,San Francisco,ChatGPT
+Leslie Perry,Technical Recruiter,Healthcare,4,108074,21,Seattle,Scribe AI
+Jillian Thomas,Teacher,Education,4,82819,22,Remote,Google Gemini
+Dr. Jerry Tapia,Data Analyst,Media & Marketing,2,187653,20,New York,ChatGPT
+Teresa Williams,Copywriter,Media & Marketing,4,189994,15,San Francisco,ChatGPT
+Monica Waller,Copywriter,Tech,4,174478,6,New York,Writer.com
+Rachel Ramirez,Teacher,Education,2,195088,29,San Francisco,Google Gemini
+Brittany Hicks,Paralegal,Legal,1,188669,29,Seattle,Claude
+Andres Gardner,Paralegal,Legal,4,98854,26,New York,DoNotPay
+Derek Petersen,Radiologist,Healthcare,3,87595,15,Chicago,MedpaLM
+Kim Middleton,HR Manager,Human Resources,3,64175,5,Chicago,Writer.com
+Edward Franklin,HR Manager,Human Resources,3,150049,11,Austin,Scribe AI
+Kenneth Scott,Marketing Manager,Media & Marketing,4,40523,24,Austin,Scribe AI
+Chad Cook,Marketing Manager,Media & Marketing,3,90222,13,Seattle,ChatGPT
+Jill Klein,Data Analyst,Healthcare,5,196824,22,Seattle,ChatGPT
+Paul Montes,Financial Analyst,Healthcare,4,78549,14,Chicago,Perplexity AI
+James Rodriguez,Doctor,Healthcare,4,125756,0,Boston,MedpaLM
+Stephanie Sexton,Copywriter,Media & Marketing,1,192837,10,Seattle,Writer.com
+Angela Jackson,Lawyer,Legal,1,114093,15,Chicago,Claude
+Sara Gordon,Copywriter,Tech,2,154637,13,Seattle,Writer.com
+Lori Lee,Data Analyst,Healthcare,4,147093,35,Remote,ChatGPT
+Jared Pollard,Radiologist,Healthcare,4,70045,24,San Francisco,MedpaLM
+Douglas Wright,Doctor,Healthcare,1,44168,34,Austin,MedpaLM
+William Glover,Nurse,Healthcare,5,117317,20,Remote,MedpaLM
+Amy Walker,Technical Recruiter,Media & Marketing,2,135548,1,Chicago,ChatGPT
+Nathan Morales,Copywriter,Tech,2,147144,12,Chicago,Writer.com
+Jane Meadows,HR Manager,Human Resources,4,150383,35,New York,Writer.com
+Daniel Ryan,Customer Support Agent,Healthcare,4,177843,31,Austin,Perplexity AI
+Justin Flores,Radiologist,Healthcare,5,47818,8,Austin,Claude
+Joshua Ochoa,Radiologist,Healthcare,5,150991,31,Boston,Claude
+Mary Jacobs,Teacher,Education,4,107490,14,Chicago,Google Gemini
+Kristie Medina,Radiologist,Healthcare,1,160978,32,San Francisco,Claude
+Jonathan Smith,Radiologist,Healthcare,2,120098,5,Chicago,Claude
+Raymond Walter,HR Manager,Human Resources,4,135101,4,Chicago,Writer.com
+Anthony Thompson,Data Analyst,Finance,2,126065,4,Chicago,ChatGPT
+Kendra Morales,Teacher,Education,3,103533,29,Remote,Claude
+Taylor Jones,Marketing Manager,Media & Marketing,2,177643,29,Austin,Writer.com
+John Berg,Software Engineer,Tech,5,49006,35,Austin,Github Copilot
+Craig Carlson,Doctor,Healthcare,5,171710,17,Remote,Claude
+Jane Gilmore DDS,Data Analyst,Finance,3,110258,2,Boston,ChatGPT
+Eric Lawrence,Software Engineer,Tech,2,142744,8,Seattle,ChatGPT
+Pamela Walker,Doctor,Healthcare,4,112929,18,Chicago,MedpaLM
+Tonya Williams,Data Analyst,Media & Marketing,4,84722,4,Seattle,ChatGPT
+Amber Kennedy,Data Analyst,Finance,4,63000,34,Seattle,Github Copilot
+Leah Palmer,Lawyer,Legal,3,191644,14,Boston,DoNotPay
+Patricia Marshall,Radiologist,Healthcare,2,46558,19,Chicago,Claude
+Lisa Mcdaniel,Lawyer,Legal,1,148530,21,Chicago,Claude
+Charles Gibson,HR Manager,Human Resources,2,165491,4,Boston,Scribe AI
+Robert Morris,Marketing Manager,Media & Marketing,2,192568,27,Remote,ChatGPT
+Ryan Dean,Radiologist,Healthcare,4,177912,33,Remote,MedpaLM
+Brandon Sullivan,Doctor,Healthcare,2,76744,17,Seattle,Claude
+Kayla White,Doctor,Healthcare,4,173662,17,Boston,MedpaLM
+Justin Spears,Nurse,Healthcare,1,54913,27,Remote,Claude
+Francis Walker,HR Manager,Human Resources,4,160573,21,Boston,ChatGPT
+Jose Silva,Technical Recruiter,Finance,4,86890,27,Austin,Scribe AI
+Laura Hunt DDS,Teacher,Education,1,144208,24,Seattle,Claude
+Paige Allison,Copywriter,Media & Marketing,4,75010,32,New York,ChatGPT
+Ryan Smith,Customer Support Agent,Healthcare,1,105673,25,New York,Perplexity AI
+Mr. Stephen Frye,Financial Analyst,Finance,1,48841,24,San Francisco,None
+Jaime Phillips,Customer Support Agent,Tech,2,70076,15,San Francisco,ChatGPT
+Karen Stone,Teacher,Education,5,112995,9,Boston,ChatGPT
+Janice Parker,Customer Support Agent,Finance,5,86033,28,Boston,Perplexity AI
+Mark Rosales II,Lawyer,Legal,3,163598,27,New York,Harvey
+Jerry Weaver,Paralegal,Legal,2,110142,25,Seattle,Harvey
+Ryan Reed,Lawyer,Legal,1,195311,25,Austin,Claude
+Christina Sharp,Doctor,Healthcare,1,199436,24,San Francisco,MedpaLM
+Cynthia Phillips,HR Manager,Human Resources,3,171202,27,Austin,Scribe AI
+Grant Schmidt,Radiologist,Healthcare,5,67560,18,Chicago,Claude
+Luke Reed,Teacher,Education,2,124054,12,Chicago,Claude
+Jennifer Harmon,Marketing Manager,Media & Marketing,4,90098,27,San Francisco,ChatGPT
+Anna Martinez,Customer Support Agent,Finance,5,165996,2,San Francisco,None
+Charles Nichols,Marketing Manager,Media & Marketing,4,83918,24,Boston,ChatGPT
+Nancy Thompson,Radiologist,Healthcare,3,138486,26,San Francisco,MedpaLM
+Jennifer Coleman,Software Engineer,Tech,2,88899,12,Chicago,ChatGPT
+Benjamin Jones,Customer Support Agent,Media & Marketing,2,156381,0,Boston,ChatGPT
+John Harris,Doctor,Healthcare,5,46620,13,San Francisco,MedpaLM
+Jimmy Kane,Radiologist,Healthcare,3,138681,33,San Francisco,MedpaLM
+Heather Scott,Lawyer,Legal,4,85538,21,Remote,DoNotPay
+Ricardo Olson,Nurse,Healthcare,5,180912,26,San Francisco,MedpaLM
+Jeremy Harris,Financial Analyst,Finance,4,163403,21,San Francisco,ChatGPT
+James Guerrero,Financial Analyst,Healthcare,2,156712,33,Austin,ChatGPT
+Ann Welch,Data Analyst,Finance,1,79791,23,Boston,ChatGPT
+Jonathan Martinez,Customer Support Agent,Healthcare,4,102312,20,New York,Perplexity AI
+Claudia Green,Financial Analyst,Finance,4,160315,32,Boston,None
+Richard Michael,Marketing Manager,Media & Marketing,5,53954,15,Chicago,ChatGPT
+Kenneth Schwartz MD,Financial Analyst,Finance,4,198608,18,Austin,Perplexity AI
+Kevin Mitchell,HR Manager,Human Resources,4,85417,1,Austin,ChatGPT
+Nancy Thomas,Software Engineer,Tech,2,128443,15,New York,ChatGPT
+Timothy Hill,Nurse,Healthcare,5,117010,6,Seattle,Claude
+Reginald Ritter,Financial Analyst,Healthcare,5,70437,11,Seattle,None
+Daniel Williams,Copywriter,Tech,5,172247,12,Seattle,ChatGPT
+Alexis Tran,Financial Analyst,Healthcare,3,148089,15,Chicago,ChatGPT
+Beth Jackson,Data Analyst,Healthcare,5,173980,23,Chicago,Claude
+Alicia Jackson,Data Analyst,Healthcare,3,115650,28,New York,Claude
+Julie Singh,Paralegal,Legal,3,146715,18,New York,Harvey
+Brian Kim,Nurse,Healthcare,4,58003,18,Chicago,Claude
+David Fields,Nurse,Healthcare,5,189242,3,Austin,MedpaLM
+Leslie Bridges,Data Analyst,Tech,3,142863,32,Remote,Github Copilot
+Veronica Gillespie,HR Manager,Human Resources,5,171088,10,New York,Scribe AI
+Jennifer Morales,Teacher,Education,2,41567,18,Boston,Google Gemini
+Jennifer Thompson,Software Engineer,Tech,3,154635,21,Chicago,Claude
+Megan Christensen,Financial Analyst,Finance,1,176967,24,Boston,None
+Shannon Campbell,Teacher,Education,4,146877,2,San Francisco,Claude
+Robert Reed,Customer Support Agent,Healthcare,4,69595,12,Boston,None
+Cindy Mckinney,HR Manager,Human Resources,3,176450,4,Austin,Writer.com
+Manuel Barnett,HR Manager,Human Resources,1,175115,15,Boston,Writer.com
+Brian Anderson,Software Engineer,Tech,3,96027,9,San Francisco,ChatGPT
+Diana Owens,HR Manager,Human Resources,4,87561,11,San Francisco,ChatGPT
+Brian Juarez MD,Lawyer,Legal,3,113959,23,New York,Claude
+Olivia Bowen,Doctor,Healthcare,4,89750,28,Boston,MedpaLM
+James Fuller,Paralegal,Legal,4,127095,17,Chicago,Harvey
+Darlene Lee,Doctor,Healthcare,2,191218,30,Remote,MedpaLM
+Alexandra Ware,Data Analyst,Finance,4,74968,5,New York,Claude
+Casey Clark,Marketing Manager,Media & Marketing,1,111652,6,New York,Scribe AI
+Michael Chaney,Paralegal,Legal,4,50202,29,Remote,DoNotPay
+Richard Thomas,HR Manager,Human Resources,4,94095,34,Boston,Writer.com
+Jose Giles,Lawyer,Legal,1,123170,17,San Francisco,Claude
+Fernando Smith,Software Engineer,Tech,4,189188,9,Austin,Github Copilot
+Stephanie Hernandez,Teacher,Education,1,85394,5,Seattle,Claude
+Alison Hayes,Data Analyst,Media & Marketing,2,180775,27,Chicago,Github Copilot
+Monica Cardenas,Nurse,Healthcare,4,124967,15,Seattle,Claude
+James Hicks,Software Engineer,Tech,3,192044,4,Chicago,Github Copilot
+Joseph Murray,Doctor,Healthcare,4,147909,20,New York,Claude
+Amy Walker,Paralegal,Legal,2,81897,29,Austin,Harvey
+Jeffrey Savage,Copywriter,Media & Marketing,5,85590,7,Remote,ChatGPT
+Michael Rodgers,Marketing Manager,Media & Marketing,5,63756,13,Remote,Writer.com
+Heidi Evans,Radiologist,Healthcare,5,108100,15,Austin,Claude
+John Peterson,Lawyer,Legal,5,147078,32,Seattle,DoNotPay
+Emily Williams,Radiologist,Healthcare,1,176064,26,Seattle,Claude
+Michael Price,Customer Support Agent,Finance,5,60245,27,New York,ChatGPT
+Valerie Mitchell,Nurse,Healthcare,3,104806,20,Boston,MedpaLM
+Melissa Stewart,Technical Recruiter,Human Resources,3,148744,15,Remote,Scribe AI
+David Macdonald,Lawyer,Legal,1,145932,32,Austin,Harvey
+Daniel Walsh,Data Analyst,Finance,2,64369,16,Remote,Github Copilot
+Manuel Paul,Doctor,Healthcare,1,133054,11,Boston,MedpaLM
+Andrew Donaldson,Software Engineer,Tech,3,42067,8,New York,Github Copilot
+Joshua Duran,Software Engineer,Tech,4,176688,2,Seattle,Claude
+Jamie Patterson,Nurse,Healthcare,1,85202,12,San Francisco,MedpaLM
+Kevin Jackson,Copywriter,Media & Marketing,5,62027,16,Austin,Writer.com
+Andrew Edwards,HR Manager,Human Resources,4,131925,10,Chicago,ChatGPT
+Susan King,HR Manager,Human Resources,1,177480,5,New York,Scribe AI
+Tina Martinez,Software Engineer,Tech,5,99773,0,Seattle,ChatGPT
+Lindsey Garrett,Technical Recruiter,Media & Marketing,1,71557,35,San Francisco,ChatGPT
+Lisa Martinez,Financial Analyst,Healthcare,4,176812,19,Chicago,Perplexity AI
+Andrew Clark,Doctor,Healthcare,5,46837,25,Remote,MedpaLM
+Ryan Hall,Nurse,Healthcare,2,154221,18,New York,Claude
+Joseph Johnson,Doctor,Healthcare,5,151219,10,San Francisco,Claude
+Timothy Odom,Doctor,Healthcare,4,53481,18,Remote,Claude
+Megan Long DVM,Customer Support Agent,Finance,2,73051,3,Austin,None
+Rebecca Ross,Technical Recruiter,Finance,2,194033,10,Boston,Scribe AI
+Annette Boyd,Radiologist,Healthcare,5,142463,19,Austin,Claude
+Jackie Fuller,Lawyer,Legal,5,167486,9,Austin,Harvey
+Ms. Jillian Mcdonald,Customer Support Agent,Media & Marketing,2,182341,15,Seattle,ChatGPT
+Paul Buchanan,Customer Support Agent,Media & Marketing,1,48770,24,Remote,Perplexity AI
+Patrick Hayes,HR Manager,Human Resources,5,116176,25,New York,Scribe AI
+Gregg Castro,Nurse,Healthcare,4,131937,10,San Francisco,MedpaLM
+Ronald Santiago,Software Engineer,Tech,1,116002,28,New York,ChatGPT
+Donald Morgan,HR Manager,Human Resources,4,113813,15,Seattle,Writer.com
+Mathew Andersen,Customer Support Agent,Media & Marketing,4,53835,23,Chicago,ChatGPT
+Gregory Thompson,Teacher,Education,2,182850,29,Austin,Google Gemini
+Jason Pena,Paralegal,Legal,5,132332,8,Chicago,DoNotPay
+Bailey Jones,Software Engineer,Tech,4,196525,20,Chicago,Claude
+Kimberly Haynes,Data Analyst,Finance,4,85194,6,Austin,Claude
+Joshua Baker,Customer Support Agent,Healthcare,5,81190,34,San Francisco,None
+Katherine Curry,Doctor,Healthcare,4,49340,16,Boston,Claude
+Andrew Ramos,Copywriter,Media & Marketing,1,171468,34,Seattle,Writer.com
+Charles King,HR Manager,Human Resources,4,115647,15,Seattle,Writer.com
+John Taylor,Customer Support Agent,Finance,1,43641,33,Austin,Perplexity AI
+Michael Mitchell,Teacher,Education,2,103023,21,Boston,ChatGPT
+Joel Simmons,Paralegal,Legal,3,196266,24,Seattle,Claude
+Amber Crawford,HR Manager,Human Resources,4,139156,21,Seattle,Writer.com
+Angelica Barr,Nurse,Healthcare,2,183271,34,Chicago,Claude
+Jennifer Mueller,Radiologist,Healthcare,5,112202,32,San Francisco,MedpaLM
+Bobby Cantrell,Copywriter,Tech,1,109225,2,Chicago,Writer.com
+Tyler Peck MD,Marketing Manager,Media & Marketing,2,41838,26,New York,Scribe AI
+Brian Avila,Software Engineer,Tech,1,52680,3,Chicago,ChatGPT
+Michelle White,Paralegal,Legal,2,197122,11,San Francisco,Harvey
+Caitlin Williams,Doctor,Healthcare,3,199407,25,Seattle,MedpaLM
+Dana Griffin,Data Analyst,Finance,3,141566,7,Boston,ChatGPT
+Ashley Bender,Paralegal,Legal,3,43566,24,Seattle,DoNotPay
+Erin Ward,Radiologist,Healthcare,4,72412,18,Remote,Claude
+Rachael Peck,Radiologist,Healthcare,1,139472,24,Boston,MedpaLM
+Douglas Thomas,Marketing Manager,Media & Marketing,1,111504,35,San Francisco,Writer.com
+Chelsey Huffman,Financial Analyst,Finance,4,103906,4,Chicago,Perplexity AI
+Steven Rodriguez,Customer Support Agent,Healthcare,4,43013,30,Remote,Perplexity AI
+Emily Hernandez,Radiologist,Healthcare,3,48244,7,Boston,MedpaLM
+Kiara Le,Data Analyst,Media & Marketing,1,199137,28,Chicago,Claude
+Anthony Davis,Customer Support Agent,Finance,5,123042,31,Boston,None
+Justin Marshall,Lawyer,Legal,5,197308,3,New York,Claude
+Peggy Blanchard,Paralegal,Legal,2,199933,5,New York,Claude
+Kyle Gutierrez,Marketing Manager,Media & Marketing,2,125145,11,Remote,ChatGPT
+Alison Nguyen,Software Engineer,Tech,5,159630,10,Seattle,ChatGPT
+Jeffrey Malone,Marketing Manager,Media & Marketing,1,189575,13,Remote,Writer.com
+Carrie Shea,Technical Recruiter,Human Resources,4,104808,8,Remote,ChatGPT
+Sabrina Mayer,Software Engineer,Tech,5,141146,6,San Francisco,ChatGPT
+Kathleen Ball,Nurse,Healthcare,3,139240,29,San Francisco,MedpaLM
+James Morris,Teacher,Education,1,186092,4,San Francisco,Google Gemini
+Christopher Mccormick Jr.,Financial Analyst,Healthcare,3,190793,29,Chicago,Perplexity AI
+Brandon Turner,Lawyer,Legal,4,94282,25,Boston,DoNotPay
+Kelly Heath,Lawyer,Legal,5,60121,6,New York,Claude
+Dana Savage,Copywriter,Media & Marketing,4,83693,18,San Francisco,Writer.com
+Denise Morales,Software Engineer,Tech,4,79861,24,Boston,ChatGPT
+Cameron Martinez,Paralegal,Legal,2,66301,34,San Francisco,DoNotPay
+Laura Wilson,Data Analyst,Media & Marketing,4,191076,1,Chicago,Claude
+Laura Lee,HR Manager,Human Resources,5,179914,3,Seattle,Writer.com
+Nicholas Rogers,Copywriter,Media & Marketing,2,82200,9,Seattle,ChatGPT
+Ryan King,Copywriter,Media & Marketing,2,132277,28,Boston,Writer.com
+Nathaniel Jarvis,Customer Support Agent,Media & Marketing,3,185377,34,Austin,Perplexity AI
+Lisa Simpson,Financial Analyst,Healthcare,3,139065,12,Boston,Perplexity AI
+Alyssa Cook,Financial Analyst,Finance,3,113182,27,Seattle,None
+John Garcia,Doctor,Healthcare,1,196268,33,Boston,MedpaLM
+Erica Marquez,Teacher,Education,1,61465,13,Seattle,Google Gemini
+Tom Garza,Marketing Manager,Media & Marketing,2,149145,4,Chicago,Writer.com
+Katherine Hughes,Doctor,Healthcare,1,84824,16,Boston,MedpaLM
+Stephen Moore,Data Analyst,Healthcare,2,177053,10,San Francisco,Claude
+Sarah Proctor,Lawyer,Legal,3,54060,24,Chicago,Claude
+Tara Sharp,Software Engineer,Tech,5,171395,14,San Francisco,ChatGPT
+Ashley Shaffer,Lawyer,Legal,4,148667,34,New York,Harvey
+Alexander Lozano,Software Engineer,Tech,5,72801,24,Seattle,Claude
+Jared Ellis,Lawyer,Legal,2,186487,26,Austin,DoNotPay
+Melinda Holmes,Data Analyst,Finance,3,141338,1,Boston,ChatGPT
+Edgar Rodriguez,Paralegal,Legal,2,78842,16,New York,Harvey
+George Neal,Technical Recruiter,Human Resources,2,167500,5,Chicago,None
+Brett Owens,Radiologist,Healthcare,3,88736,7,Remote,MedpaLM
+Anthony Smith,Doctor,Healthcare,2,92031,19,Boston,Claude
+Ashley Jones,Radiologist,Healthcare,5,93092,10,Remote,MedpaLM
+Austin Smith,Radiologist,Healthcare,5,115425,4,Seattle,MedpaLM
+Wendy Green,Radiologist,Healthcare,4,95838,12,Seattle,MedpaLM
+Angela Wilkinson,Teacher,Education,2,108057,7,Boston,Claude
+Audrey Brown,Radiologist,Healthcare,4,119826,32,Austin,Claude
+Holly Lozano,Paralegal,Legal,2,82856,15,Seattle,Harvey
+Chad Jimenez,Financial Analyst,Healthcare,2,80035,2,Remote,None
+Joseph Johnson Jr.,Doctor,Healthcare,2,41297,0,Boston,MedpaLM
+Katie Smith,Technical Recruiter,Healthcare,1,131198,0,Austin,Scribe AI
+Jordan Montgomery,Teacher,Education,5,76262,29,Austin,Claude
+Shawn Ruiz,Copywriter,Media & Marketing,4,156486,4,Boston,ChatGPT
+Brittany Smith,Radiologist,Healthcare,3,165683,26,Austin,MedpaLM
+Patricia Sparks,Software Engineer,Tech,4,138660,17,Boston,Claude
+Angela Chavez,Marketing Manager,Media & Marketing,4,167256,29,New York,ChatGPT
+Mathew Lozano,HR Manager,Human Resources,2,122867,21,Boston,Writer.com
+Colin Russell,Lawyer,Legal,5,145786,28,San Francisco,DoNotPay
+Tony Lee,Technical Recruiter,Healthcare,3,173231,9,Boston,ChatGPT
+Susan Reed,Financial Analyst,Healthcare,1,135815,6,Chicago,Perplexity AI
+Clifford Diaz,Data Analyst,Finance,3,43868,21,New York,ChatGPT
+David Stephenson,Nurse,Healthcare,3,178578,33,Chicago,MedpaLM
+Robert Pearson,Teacher,Education,2,129706,9,Austin,Google Gemini
+Darrell Reed,Copywriter,Media & Marketing,1,98675,8,Austin,Writer.com
+Eric Bullock,Marketing Manager,Media & Marketing,3,179994,21,New York,ChatGPT
+Kevin Ruiz,Radiologist,Healthcare,1,169724,16,Chicago,Claude
+Tammy Berry PhD,Marketing Manager,Media & Marketing,5,154904,4,Seattle,Writer.com
+Jonathan Patterson,Software Engineer,Tech,5,101169,15,Austin,Github Copilot
+Steve White,HR Manager,Human Resources,5,69284,31,Seattle,Writer.com
+Caroline Young,Radiologist,Healthcare,1,186311,12,Seattle,Claude
+Jessica Barnes,Radiologist,Healthcare,1,58179,9,Boston,Claude
+Natasha Lopez,Marketing Manager,Media & Marketing,3,95354,18,San Francisco,Writer.com
+Mary Sims,Doctor,Healthcare,5,42767,7,Seattle,MedpaLM
+Carly Farmer,Doctor,Healthcare,4,159828,5,Chicago,MedpaLM
+Richard Mccullough,Financial Analyst,Finance,1,193028,19,Seattle,Perplexity AI
+Julian Johnson,Paralegal,Legal,3,159734,31,New York,Harvey
+Jessica Reynolds,Customer Support Agent,Tech,2,163819,12,Chicago,ChatGPT
+Beverly Cannon,Teacher,Education,5,141085,31,Austin,ChatGPT
+William Taylor,HR Manager,Human Resources,2,142916,11,Chicago,ChatGPT
+Anita Bradford,Teacher,Education,3,65366,2,Boston,ChatGPT
+Michael Cooper,Doctor,Healthcare,5,82049,10,New York,MedpaLM
+James Krause,Paralegal,Legal,3,115707,24,San Francisco,Claude
+Matthew Carter,Doctor,Healthcare,3,88802,26,New York,Claude
+Krista Smith,Technical Recruiter,Tech,1,172481,28,Chicago,Scribe AI
+Ricardo Morris,Data Analyst,Finance,2,67528,19,New York,Github Copilot
+Shannon Levine,Doctor,Healthcare,4,44655,26,New York,MedpaLM
+David Burns MD,Radiologist,Healthcare,4,54824,17,New York,MedpaLM
+Gail Middleton,Financial Analyst,Finance,5,159896,7,Austin,None
+Stephanie Adkins,HR Manager,Human Resources,5,115291,27,Seattle,ChatGPT
+Miguel House,Technical Recruiter,Finance,5,93491,0,Remote,ChatGPT
+Adam Shaw,Copywriter,Tech,1,118569,25,San Francisco,ChatGPT
+Andrew Fletcher,Software Engineer,Tech,2,86646,22,Boston,ChatGPT
+Bryan Jackson,Doctor,Healthcare,3,74078,10,Chicago,Claude
+Fred Vasquez,Lawyer,Legal,3,112622,20,New York,DoNotPay
+Paul Knight,Marketing Manager,Media & Marketing,5,106087,27,Chicago,Writer.com
+Kristi Williams,HR Manager,Human Resources,2,175508,8,New York,Writer.com
+James Hogan,Marketing Manager,Media & Marketing,4,146549,10,Chicago,Scribe AI
+Julie Clark,Copywriter,Tech,3,73412,8,Seattle,ChatGPT
+Penny Meyers,Data Analyst,Media & Marketing,4,131346,6,Boston,Claude
+Brianna Nolan,Teacher,Education,5,129675,35,Seattle,ChatGPT
+Austin Tucker,Technical Recruiter,Finance,1,112003,16,Chicago,ChatGPT
+Ellen Luna,Paralegal,Legal,5,164982,7,Chicago,Claude
+Hunter Collins,Doctor,Healthcare,3,137615,14,Chicago,Claude
+Samuel George,Nurse,Healthcare,2,163833,22,Chicago,Claude
+Amanda Chang,Teacher,Education,2,151824,10,New York,Claude
+Sarah Morrison,Lawyer,Legal,2,164187,25,Remote,Claude
+William Sparks,Doctor,Healthcare,1,196720,29,Austin,Claude
+Virginia Young,Copywriter,Media & Marketing,2,168888,19,Seattle,ChatGPT
+Michelle Adams,Nurse,Healthcare,5,135414,16,San Francisco,MedpaLM
+Kelly Hammond,HR Manager,Human Resources,3,92113,8,San Francisco,ChatGPT
+Jessica Hopkins,HR Manager,Human Resources,3,184475,13,Boston,ChatGPT
+Jason Heath,Copywriter,Media & Marketing,1,121158,27,Chicago,Writer.com
+Lisa Gentry,Lawyer,Legal,3,174322,27,Boston,DoNotPay
+Bradley Baker,Radiologist,Healthcare,2,90239,17,Chicago,MedpaLM
+Jennifer Tucker,Marketing Manager,Media & Marketing,4,81152,29,Remote,ChatGPT
+Donald Hudson,Doctor,Healthcare,1,146463,30,Chicago,MedpaLM
+Christy Castro,Customer Support Agent,Tech,3,90204,32,Boston,Perplexity AI
+James Newman,Radiologist,Healthcare,3,74334,14,Boston,MedpaLM
+Alicia Jordan DVM,Nurse,Healthcare,4,127429,6,Chicago,MedpaLM
+Cory Young,Technical Recruiter,Media & Marketing,5,128758,11,Seattle,None
+Cheryl Morton,Marketing Manager,Media & Marketing,3,192809,8,Remote,Scribe AI
+Amber White,Customer Support Agent,Tech,4,70824,5,New York,Perplexity AI
+Melanie Medina,Marketing Manager,Media & Marketing,3,98264,6,San Francisco,Writer.com
+Kristine Gonzalez,Data Analyst,Media & Marketing,2,62934,22,Chicago,ChatGPT
+Stephen Wiley,Customer Support Agent,Healthcare,2,56632,4,San Francisco,ChatGPT
+Daniel Nelson,Paralegal,Legal,5,104575,33,San Francisco,Harvey
+Joe Jimenez,Software Engineer,Tech,5,79421,20,New York,Claude
+Leah Richardson,Teacher,Education,1,95472,19,New York,Google Gemini
+Francisco Wilson,Software Engineer,Tech,1,66795,1,Austin,Github Copilot
+Mr. William Dean,Marketing Manager,Media & Marketing,4,198021,22,Austin,Scribe AI
+Ronald Hill,Teacher,Education,4,183724,27,Chicago,Google Gemini
+Mackenzie Stanley,Customer Support Agent,Healthcare,5,193052,22,Boston,None
+Nicole Wood,Data Analyst,Healthcare,3,132903,18,Remote,Github Copilot
+Nathaniel Clark,Copywriter,Media & Marketing,2,159632,11,Seattle,ChatGPT
+Maureen Giles,Lawyer,Legal,2,194902,11,New York,Harvey
+Crystal Smith,Software Engineer,Tech,4,90649,13,Boston,Github Copilot
+Sharon Orozco,HR Manager,Human Resources,5,43481,4,Chicago,Writer.com
+William King,Doctor,Healthcare,5,124064,16,Austin,Claude
+Paul Smith,Lawyer,Legal,2,161214,4,Austin,Harvey
+John Lee,Software Engineer,Tech,4,144795,27,San Francisco,ChatGPT
+Donna Bryant,Doctor,Healthcare,2,75732,17,Chicago,Claude
+Diane Thomas,Customer Support Agent,Healthcare,2,41345,30,New York,None
+George Snyder,Radiologist,Healthcare,1,173202,1,Remote,Claude
+Jessica Woods,Technical Recruiter,Healthcare,2,158298,31,Remote,None
+Brandi Brewer,Financial Analyst,Finance,5,133085,24,Seattle,None
+Michael Scott,Software Engineer,Tech,5,85172,23,Boston,Github Copilot
+William Richards,Financial Analyst,Healthcare,3,193930,1,New York,ChatGPT
+Evan Mitchell,Nurse,Healthcare,4,139225,34,Remote,MedpaLM
+David Snyder,Technical Recruiter,Human Resources,5,85428,27,San Francisco,ChatGPT
+Angela Clark,Customer Support Agent,Media & Marketing,5,44407,33,Austin,Perplexity AI
+Martin Cobb,Lawyer,Legal,5,76832,23,Seattle,Harvey
+Ashley Yates,Doctor,Healthcare,3,167366,35,Remote,MedpaLM
+Mr. Jordan Choi Jr.,Marketing Manager,Media & Marketing,1,186683,35,New York,Writer.com
+Edwin Moore,Paralegal,Legal,1,131887,18,New York,DoNotPay
+Joshua Watson,Lawyer,Legal,2,117106,28,Boston,Harvey
+Jamie Williams,Financial Analyst,Healthcare,5,58076,11,Remote,None
+Crystal Villa,Nurse,Healthcare,2,60597,20,San Francisco,Claude
+Linda Leon,Data Analyst,Tech,4,138365,13,Seattle,Claude
+Stephen Howe,Customer Support Agent,Tech,5,97028,2,Seattle,Perplexity AI
+Patricia Norton,Marketing Manager,Media & Marketing,4,49038,0,San Francisco,ChatGPT
+Nicholas Conley,Customer Support Agent,Healthcare,5,61523,8,Boston,ChatGPT
+Deborah Greene,Paralegal,Legal,1,107396,30,San Francisco,Harvey
+Ralph Sullivan,Teacher,Education,1,128389,14,New York,Claude
+Lance Ingram,Technical Recruiter,Human Resources,5,183329,25,Austin,ChatGPT
+Tammy Ewing,Copywriter,Media & Marketing,2,168789,0,Remote,ChatGPT
+Michelle Small,Nurse,Healthcare,4,184161,25,Chicago,MedpaLM
+Teresa Liu,Customer Support Agent,Healthcare,2,72602,26,Austin,None
+Vincent Rogers,Lawyer,Legal,4,111052,15,San Francisco,Claude
+Stephen Mccoy,HR Manager,Human Resources,2,78689,3,Seattle,Writer.com
+Andrew Randall,Copywriter,Tech,1,132168,27,Chicago,Writer.com
+Ashley Parsons,Software Engineer,Tech,5,144159,13,San Francisco,Claude
+Rachel Banks,Doctor,Healthcare,1,188804,7,Austin,Claude
+Derek Huffman,Nurse,Healthcare,2,100491,34,San Francisco,Claude
+Brian Peterson,Doctor,Healthcare,2,101572,15,Austin,Claude
+Christopher Smith,Paralegal,Legal,3,169179,17,Chicago,Harvey
+Tiffany Olson,Software Engineer,Tech,5,130974,34,Chicago,ChatGPT
+Janet Morse,Radiologist,Healthcare,1,174901,15,Chicago,Claude
+David Ferguson,Customer Support Agent,Healthcare,2,176469,5,New York,ChatGPT
+Tammy Davis,Financial Analyst,Finance,4,56867,25,Austin,ChatGPT
+Nicole Lee,Data Analyst,Finance,5,171553,33,Remote,Claude
+Virginia Thomas,Copywriter,Tech,1,75126,34,Boston,ChatGPT
+Sarah Sullivan,Radiologist,Healthcare,4,67769,27,San Francisco,MedpaLM
+Amy Martin,Customer Support Agent,Media & Marketing,3,57565,29,Seattle,None
+Shawn Becker,Financial Analyst,Finance,5,122893,11,Boston,ChatGPT
+Darren Sherman,Financial Analyst,Healthcare,2,74875,10,New York,ChatGPT
+Rebecca Simon,HR Manager,Human Resources,1,51642,6,San Francisco,ChatGPT
+Nicole Bradley,Data Analyst,Finance,5,56176,22,Seattle,ChatGPT
+Amanda Golden,Financial Analyst,Healthcare,5,134904,14,Boston,None
+Donald Freeman,Copywriter,Tech,1,80944,21,Austin,ChatGPT
+Jeffery Miller,Doctor,Healthcare,2,74559,15,Chicago,Claude
+Denise Day DVM,Doctor,Healthcare,5,91072,16,New York,MedpaLM
+Vickie Soto,Radiologist,Healthcare,5,131624,20,Boston,Claude
+Lori Hudson,Lawyer,Legal,4,157616,29,Remote,Claude
+Chad Lopez,HR Manager,Human Resources,3,73391,32,New York,Writer.com
+Matthew Sweeney,Customer Support Agent,Tech,1,54552,0,Remote,None
+Carl Walker,Technical Recruiter,Finance,1,81572,10,Remote,None
+Jason Wade,Financial Analyst,Healthcare,1,156068,15,San Francisco,ChatGPT
+Jennifer Rodriguez,Data Analyst,Finance,2,53232,0,Remote,ChatGPT
+Sandra Maxwell,HR Manager,Human Resources,2,93409,29,Chicago,Scribe AI
+Brian Mitchell,Lawyer,Legal,3,156362,33,San Francisco,DoNotPay
+Philip Mata,Financial Analyst,Healthcare,3,182037,18,Boston,Perplexity AI
+James Castro,Software Engineer,Tech,2,127567,27,Austin,Github Copilot
+Jason Lopez,Financial Analyst,Healthcare,4,144441,14,Boston,Perplexity AI
+Felicia Miles,Nurse,Healthcare,1,129528,10,New York,MedpaLM
+Valerie Newman,Paralegal,Legal,1,137200,6,Chicago,DoNotPay
+Katie Bailey,Data Analyst,Finance,2,157337,15,Boston,Github Copilot
+Steven Brown,Copywriter,Tech,2,46261,13,Boston,ChatGPT
+Barbara Carr,Software Engineer,Tech,2,77195,29,Seattle,ChatGPT
+Shirley Brandt,HR Manager,Human Resources,4,139209,13,Chicago,ChatGPT
+Nancy Johnson,Marketing Manager,Media & Marketing,1,97082,23,Chicago,ChatGPT
+Lisa Alvarez,HR Manager,Human Resources,4,194024,31,Boston,Writer.com
+Timothy Frye,Teacher,Education,3,129059,18,New York,Google Gemini
+Gerald Keith,Nurse,Healthcare,1,152147,21,San Francisco,Claude
+Dennis Mitchell,Data Analyst,Finance,3,183941,19,Austin,Claude
+Christopher Roberts,Financial Analyst,Finance,4,108578,23,Austin,Perplexity AI
+Jennifer Wagner,Teacher,Education,4,146012,32,Austin,ChatGPT
+Robert Johnson,Data Analyst,Finance,1,180562,15,New York,ChatGPT
+William Wilkerson,Paralegal,Legal,3,100065,13,San Francisco,Claude
+Matthew Estrada,Teacher,Education,5,159907,3,Chicago,ChatGPT
+Kimberly Banks,Financial Analyst,Healthcare,3,57776,25,Chicago,None
+David Jensen,Software Engineer,Tech,2,83703,18,Boston,Claude
+Theresa Boone PhD,Radiologist,Healthcare,4,144591,15,Seattle,MedpaLM
+Adam Hammond,Software Engineer,Tech,2,187026,8,Austin,Github Copilot
+Mallory Miller,Copywriter,Media & Marketing,5,109842,18,Boston,Writer.com
+Linda Richards,Customer Support Agent,Finance,3,128303,1,San Francisco,None
+Ricky Nelson,Teacher,Education,4,153764,18,San Francisco,Claude
+Kenneth Lynn,Radiologist,Healthcare,3,146040,10,Chicago,Claude
+Tamara Blair,Financial Analyst,Healthcare,2,192246,23,Austin,Perplexity AI
+William Mcgee,Software Engineer,Tech,2,118220,17,San Francisco,Github Copilot
+Anthony Nelson,Data Analyst,Tech,1,136122,31,Chicago,Github Copilot
+Kara Paul,Financial Analyst,Healthcare,5,48440,11,Remote,ChatGPT
+Angel Brown,HR Manager,Human Resources,4,97623,31,Chicago,ChatGPT
+Manuel Hendrix,Financial Analyst,Healthcare,4,144399,7,Seattle,None
+Lisa Evans,Lawyer,Legal,2,165231,0,New York,Claude
+Sheena Myers,Paralegal,Legal,2,71980,5,Remote,Harvey
+Cody Chaney,Doctor,Healthcare,2,179134,18,Boston,Claude
+Suzanne White,Marketing Manager,Media & Marketing,5,124170,20,New York,Writer.com
+Peter Taylor,Financial Analyst,Finance,5,174705,20,New York,None
+John Mercado,Software Engineer,Tech,3,98042,21,Seattle,ChatGPT
+Tony Nicholson,Doctor,Healthcare,5,114517,9,Remote,MedpaLM
+Michael Sutton,Teacher,Education,4,101086,13,Remote,Claude
+Alyssa Douglas,Copywriter,Tech,1,127284,11,Chicago,Writer.com
+John Sims,Marketing Manager,Media & Marketing,2,75864,35,Austin,Writer.com
+Mark Freeman,Doctor,Healthcare,5,88262,14,Austin,Claude
+Melissa Bryan,Copywriter,Media & Marketing,1,144817,29,Chicago,ChatGPT
+Sarah Evans,HR Manager,Human Resources,2,157856,22,San Francisco,Scribe AI
+Benjamin Ramirez,Copywriter,Media & Marketing,2,161745,35,Austin,ChatGPT
+Michael Silva,Doctor,Healthcare,4,182984,34,Remote,MedpaLM
+Elizabeth Nunez,Financial Analyst,Healthcare,1,121923,16,New York,Perplexity AI
+William Cruz,Radiologist,Healthcare,1,70059,33,Chicago,MedpaLM
+David Castro,Marketing Manager,Media & Marketing,5,67713,31,New York,Scribe AI
+Kimberly Juarez,Paralegal,Legal,3,162948,29,San Francisco,Harvey
+Stephen Luna,Copywriter,Media & Marketing,3,108914,5,Seattle,ChatGPT
+Jonathan Anderson,Customer Support Agent,Tech,3,154174,4,Chicago,Perplexity AI
+Christopher Larson,Customer Support Agent,Tech,1,151621,21,Austin,Perplexity AI
+Kimberly Williams,Radiologist,Healthcare,2,199200,12,Seattle,MedpaLM
+Amanda Morris MD,Lawyer,Legal,4,138425,26,New York,Claude
+Brianna Wood,Copywriter,Tech,2,157494,9,Austin,ChatGPT
+Joseph Reese,Marketing Manager,Media & Marketing,4,58713,0,Remote,Writer.com
+Tommy Byrd,Paralegal,Legal,3,66646,2,New York,DoNotPay
+Ronald Dean,Customer Support Agent,Media & Marketing,1,138695,13,Boston,Perplexity AI
+Matthew Anderson,Technical Recruiter,Tech,4,89758,3,New York,ChatGPT
+Christopher Levine,Financial Analyst,Healthcare,3,158944,22,Chicago,None
+Samantha Bowen,Teacher,Education,2,46183,2,Seattle,Google Gemini
+Elizabeth Rivera,Nurse,Healthcare,3,125372,14,San Francisco,MedpaLM
+Traci Reid,Teacher,Education,3,59748,29,Remote,ChatGPT
+Nicole Parrish,Teacher,Education,1,92029,6,Chicago,Claude
+Christian Hernandez,Data Analyst,Finance,3,188955,3,Chicago,ChatGPT
+Kimberly Thornton,Lawyer,Legal,1,155232,1,Seattle,DoNotPay
+Travis Parks,Copywriter,Media & Marketing,2,56962,9,Remote,ChatGPT
+Nichole Jones,Copywriter,Media & Marketing,1,114645,13,Seattle,Writer.com
+Taylor Parsons,Marketing Manager,Media & Marketing,3,176038,11,Chicago,Writer.com
+Jennifer Anderson,Customer Support Agent,Healthcare,5,120782,33,Chicago,Perplexity AI
+Kevin Scott,Software Engineer,Tech,1,116159,5,Remote,Github Copilot
+Kevin Parker,Customer Support Agent,Healthcare,3,154844,4,Remote,None
+Carol Ward,Lawyer,Legal,4,145518,6,Chicago,Harvey
+Beth Rice,Software Engineer,Tech,5,136802,1,Remote,Github Copilot
+Ryan Bailey,Financial Analyst,Finance,2,178261,14,New York,None
+Jennifer Hart,Teacher,Education,5,41959,6,New York,Claude
+David Wolfe,Software Engineer,Tech,5,148281,20,Remote,ChatGPT
+Johnny Vang,Radiologist,Healthcare,5,98353,7,New York,MedpaLM
+Douglas Sanchez,Radiologist,Healthcare,2,150556,23,Remote,Claude
+Casey Herring,Copywriter,Media & Marketing,5,129354,11,Seattle,ChatGPT
+Brenda Schmidt,Software Engineer,Tech,4,123484,8,Remote,Github Copilot
+Tiffany Pena,Financial Analyst,Healthcare,4,45967,17,San Francisco,Perplexity AI
+Kimberly Lopez,Customer Support Agent,Media & Marketing,2,123624,35,San Francisco,None
+Kelsey Ramirez,Nurse,Healthcare,1,124351,2,Boston,Claude
+Crystal Hansen,Financial Analyst,Finance,1,142667,1,New York,None
+Joshua Burgess,Data Analyst,Media & Marketing,1,100669,18,Seattle,ChatGPT
+Casey Schwartz,Nurse,Healthcare,1,123585,10,Seattle,MedpaLM
+Morgan Li,Copywriter,Tech,5,128080,17,Remote,ChatGPT
+Emily Collins,Radiologist,Healthcare,5,109513,20,New York,Claude
+Christopher Gordon,Customer Support Agent,Healthcare,3,186682,29,Boston,ChatGPT
+Lauren Williams DDS,Customer Support Agent,Healthcare,2,64251,7,San Francisco,Perplexity AI
+Whitney Acosta,Doctor,Healthcare,1,110372,12,San Francisco,Claude
+Todd Hernandez,Financial Analyst,Finance,1,195358,15,Seattle,Perplexity AI
+Mr. Angel Espinoza,Copywriter,Tech,4,76080,30,Boston,Writer.com
+Lorraine Yoder,Teacher,Education,3,79951,22,New York,Claude
+Shannon Lawrence,Nurse,Healthcare,1,76765,34,Remote,MedpaLM
+Calvin Donovan,Doctor,Healthcare,3,132729,24,Austin,MedpaLM
+Jacob Watkins,Copywriter,Tech,5,160216,28,Seattle,ChatGPT
+Dr. Charlene Ward,HR Manager,Human Resources,1,99800,27,Remote,Writer.com
+Sherri Jones,Teacher,Education,5,95807,6,New York,ChatGPT
+Tanya Martinez,Copywriter,Tech,4,179103,14,Remote,Writer.com
+Mrs. Brenda Duncan DVM,Copywriter,Tech,4,158624,22,Boston,Writer.com
+Ryan Gonzalez,Customer Support Agent,Finance,2,182959,31,Remote,Perplexity AI
+Kimberly Eaton,Software Engineer,Tech,3,78670,19,Austin,Github Copilot
+Lisa Gay,Radiologist,Healthcare,1,189088,1,Chicago,Claude
+Yvonne Baker,Teacher,Education,1,144346,23,Boston,Google Gemini
+Dana Anderson,Paralegal,Legal,3,40323,15,Remote,DoNotPay
+Edward Murphy,Copywriter,Tech,5,198837,11,Boston,ChatGPT
+Melissa Wong,Data Analyst,Media & Marketing,1,94956,2,Seattle,Claude
+Nina Perez,Marketing Manager,Media & Marketing,4,47442,14,New York,Scribe AI
+Alexandria Bass,Paralegal,Legal,1,156238,30,New York,DoNotPay
+Carol Williams,Nurse,Healthcare,2,171517,10,San Francisco,Claude
+Kathleen Taylor,Copywriter,Media & Marketing,5,194545,12,Chicago,Writer.com
+Megan Hill,Financial Analyst,Finance,4,156907,31,Remote,Perplexity AI
+Charles Harmon,Doctor,Healthcare,2,62777,16,Boston,MedpaLM
+Thomas Mooney,Teacher,Education,1,46592,0,New York,Google Gemini
+Steven Moss,Lawyer,Legal,1,74213,15,Boston,Claude
+Lorraine Hernandez,Marketing Manager,Media & Marketing,5,157128,25,Chicago,Scribe AI
+Rodney Smith,Teacher,Education,1,44127,9,New York,Google Gemini
+Lori Robertson,Doctor,Healthcare,2,177179,14,Chicago,Claude
+Bryan Costa,Doctor,Healthcare,5,127256,33,Boston,MedpaLM
+Ann Meadows,Data Analyst,Media & Marketing,2,151816,20,San Francisco,ChatGPT
+Teresa Steele,HR Manager,Human Resources,5,168723,11,Austin,Scribe AI
+Kathleen Welch,Teacher,Education,1,180718,25,San Francisco,Claude
+Jeffrey Taylor,Data Analyst,Healthcare,3,187805,8,Boston,Github Copilot
+Michelle Hopkins,HR Manager,Human Resources,2,126539,34,Boston,Writer.com
+Frederick Evans,Copywriter,Media & Marketing,2,156541,6,Chicago,Writer.com
+Joseph Miller,Technical Recruiter,Human Resources,3,142840,25,Remote,None
+Kiara Kelly,HR Manager,Human Resources,5,68726,19,Seattle,Scribe AI
+Anthony Stone,Copywriter,Media & Marketing,5,167358,12,Seattle,Writer.com
+Julie Flores,Customer Support Agent,Finance,4,78013,17,San Francisco,None
+Crystal Vasquez,Lawyer,Legal,4,49791,11,New York,Claude
+Amy Brown,Software Engineer,Tech,1,196912,20,San Francisco,Github Copilot
+Mr. Jacob Matthews,Teacher,Education,5,140469,31,Chicago,Claude
+Mikayla Turner,Copywriter,Tech,1,122272,26,Chicago,Writer.com
+Christopher Sandoval,Financial Analyst,Finance,5,121298,32,New York,ChatGPT
+Tom Farrell,Copywriter,Media & Marketing,5,62678,10,Remote,Writer.com
+Michele Turner,Lawyer,Legal,1,129730,21,Boston,DoNotPay
+Deanna Gray,Marketing Manager,Media & Marketing,5,64203,21,Boston,ChatGPT
+Ashley Valdez,Data Analyst,Healthcare,3,154202,28,Austin,Claude
+Scott Warren,HR Manager,Human Resources,5,109817,13,Remote,Scribe AI
+Taylor Wells,Radiologist,Healthcare,5,55734,29,Chicago,MedpaLM
+Eric Thomas,Customer Support Agent,Media & Marketing,4,130429,14,New York,None
+Teresa Tran,HR Manager,Human Resources,3,182177,3,New York,ChatGPT
+Jermaine Ross,Marketing Manager,Media & Marketing,4,157676,12,New York,Writer.com
+Brian Guzman,Radiologist,Healthcare,2,94605,7,Seattle,Claude
+Daniel Blair,Lawyer,Legal,2,174593,12,Boston,Harvey
+Timothy Patterson,Teacher,Education,2,183356,34,Remote,ChatGPT
+Benjamin Campos,Doctor,Healthcare,4,192210,30,San Francisco,MedpaLM
+Jasmine Parks,Lawyer,Legal,4,127177,15,San Francisco,DoNotPay
+Jorge Heath,Technical Recruiter,Human Resources,1,153387,16,San Francisco,ChatGPT
+Sabrina Sanchez,Paralegal,Legal,1,143591,12,San Francisco,Claude
+Benjamin Kim,Paralegal,Legal,4,170350,32,Austin,Harvey
+Daniel Shepherd,HR Manager,Human Resources,4,114005,22,Remote,ChatGPT
+Richard Johnson,Software Engineer,Tech,4,143593,28,Austin,ChatGPT
+Amy Jones,Technical Recruiter,Human Resources,1,182124,27,Remote,Scribe AI
+Tiffany Harris,Nurse,Healthcare,5,170709,20,Chicago,Claude
+Donna Fuller,Teacher,Education,2,76395,16,Boston,Google Gemini
+Ellen Thompson,Financial Analyst,Healthcare,1,56454,3,Boston,None
+Katie Rios,Doctor,Healthcare,4,61976,33,Boston,Claude
+Katherine Morgan,Data Analyst,Media & Marketing,4,143739,22,New York,Claude
+Andre Brown,Radiologist,Healthcare,5,105237,1,Austin,Claude
+Mrs. Melanie Smith,Teacher,Education,1,118925,19,San Francisco,Google Gemini
+Laura Oneal,Nurse,Healthcare,3,110307,13,Chicago,Claude
+Kenneth Martinez,Radiologist,Healthcare,2,136894,1,San Francisco,Claude
+Eileen Bishop,Financial Analyst,Finance,5,166633,9,Seattle,None
+Mrs. Wendy King,Teacher,Education,2,103004,12,San Francisco,Google Gemini
+Benjamin Odonnell,Paralegal,Legal,1,130308,33,New York,Harvey
+Michelle Lam,Technical Recruiter,Human Resources,5,88140,30,San Francisco,None
+Betty Wolfe,Doctor,Healthcare,1,91205,11,San Francisco,Claude
+Lauren Dudley,Teacher,Education,2,92533,13,Austin,Google Gemini
+April Atkinson,Software Engineer,Tech,1,81028,1,Austin,ChatGPT
+Clayton Ortiz Jr.,Lawyer,Legal,4,52080,15,Remote,Claude
+Matthew Chung,Radiologist,Healthcare,3,102211,18,Chicago,Claude
+Tanya Fields,Technical Recruiter,Tech,5,85728,29,Chicago,None
+Robert Kent,Financial Analyst,Finance,4,131665,10,Boston,Perplexity AI
+Julie Hall,Radiologist,Healthcare,2,80770,35,Austin,Claude
+John Ward,Paralegal,Legal,1,73488,22,Remote,DoNotPay
+Erin Simmons,Customer Support Agent,Healthcare,2,128567,15,Remote,None
+Anthony Walker,Marketing Manager,Media & Marketing,1,134263,35,Chicago,ChatGPT
+Lisa Clark,Software Engineer,Tech,2,129653,25,Boston,Claude
+Gregory Long,Technical Recruiter,Media & Marketing,3,42680,15,Remote,Scribe AI
+Jessica Henry MD,Copywriter,Media & Marketing,5,122468,12,Austin,ChatGPT
+Jennifer Sanchez,Marketing Manager,Media & Marketing,2,136632,30,Chicago,ChatGPT
+Carrie Garcia,Radiologist,Healthcare,5,192588,12,Remote,MedpaLM
+Jeremy Marshall,Software Engineer,Tech,1,45308,2,San Francisco,Github Copilot
+Beverly Foster,Customer Support Agent,Tech,5,97817,13,New York,None
+Richard Guerrero,HR Manager,Human Resources,3,159373,22,Boston,Scribe AI
+Michael Pacheco,Teacher,Education,2,113156,23,New York,Claude
+Kevin Delacruz,Data Analyst,Healthcare,4,54816,22,Seattle,Claude
+Mario Ferguson,Nurse,Healthcare,2,63549,11,Boston,Claude
+Lori Barron,Radiologist,Healthcare,4,47870,13,Seattle,Claude
+Kerry Johnson,Teacher,Education,5,193530,13,Chicago,ChatGPT
+Karen Gilbert,Software Engineer,Tech,2,197995,13,Austin,Github Copilot
+Anthony Santos,Marketing Manager,Media & Marketing,3,69650,10,Boston,Scribe AI
+Donna Stevens,Lawyer,Legal,1,167451,21,Chicago,DoNotPay
+Victoria Bell,Financial Analyst,Healthcare,2,136840,13,Austin,None
+Jacqueline Parker,Paralegal,Legal,3,70533,8,Austin,Harvey
+Monica Burch,Copywriter,Media & Marketing,1,199523,11,Boston,Writer.com
+Vanessa Edwards,Teacher,Education,4,53490,22,New York,Claude
+Megan Nelson,Nurse,Healthcare,4,154869,21,Seattle,MedpaLM
+Christopher Wagner,Customer Support Agent,Tech,5,150764,12,Boston,Perplexity AI
+Danny Hamilton,Technical Recruiter,Media & Marketing,5,177213,13,Remote,ChatGPT
+David Hayden,Teacher,Education,4,86910,8,Chicago,Google Gemini
+Henry Bailey,Radiologist,Healthcare,4,136202,27,Boston,MedpaLM
+Victor Nash,Financial Analyst,Finance,5,154063,27,Boston,ChatGPT
+Susan Collins,Financial Analyst,Finance,3,40175,26,Chicago,None
+Jose Hughes,Data Analyst,Healthcare,4,117963,23,Boston,ChatGPT
+Courtney Jones,Financial Analyst,Finance,2,67239,31,Chicago,None
+David Carter,Software Engineer,Tech,5,54032,6,Chicago,Claude
+Deborah Diaz,Technical Recruiter,Media & Marketing,3,136573,22,Boston,Scribe AI
+Alyssa Nelson,Radiologist,Healthcare,3,197076,6,Seattle,Claude
+Caleb Carr,Paralegal,Legal,2,84086,1,New York,Claude
+John Williams,HR Manager,Human Resources,2,171973,13,New York,ChatGPT
+Ryan Kelley,Nurse,Healthcare,4,194033,19,New York,Claude
+Paul Moore,Paralegal,Legal,4,135939,3,New York,Harvey
+Caitlyn Weiss,Lawyer,Legal,5,49743,13,Remote,DoNotPay
+Jonathan Owens,Lawyer,Legal,2,169361,34,Chicago,Harvey
+Kristine Smith,Copywriter,Tech,5,40537,6,Seattle,ChatGPT
+David Lopez,Technical Recruiter,Finance,1,45558,26,Remote,Scribe AI
+Eric Lee,Doctor,Healthcare,1,124296,21,Boston,Claude
+Douglas White,Customer Support Agent,Healthcare,3,178552,19,New York,Perplexity AI
+Kyle Woods,Copywriter,Tech,1,152191,22,New York,Writer.com
+Andrea Logan,Technical Recruiter,Human Resources,3,57420,22,Seattle,None
+Jill Carroll,Copywriter,Tech,3,124048,8,Seattle,Writer.com
+Vicki Johns,Data Analyst,Tech,3,175365,2,Boston,Github Copilot
+Grace Elliott,Doctor,Healthcare,4,105176,28,New York,MedpaLM
+Lonnie Davis,Doctor,Healthcare,3,176997,23,Remote,MedpaLM
+Timothy Thomas,Technical Recruiter,Media & Marketing,3,82513,17,New York,None
+Barbara Stephens,Data Analyst,Tech,3,86954,9,New York,Github Copilot
+Brandon Williams,Nurse,Healthcare,4,191463,11,Seattle,MedpaLM
+Michael Adams,Data Analyst,Tech,4,199462,6,Remote,ChatGPT
+Patrick King,Doctor,Healthcare,4,150853,4,Boston,Claude

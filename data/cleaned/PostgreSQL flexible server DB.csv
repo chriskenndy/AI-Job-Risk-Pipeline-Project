@@ -1,0 +1,1001 @@
+name,job_title,industry,ai_replacement_risk,salary,years_of_experience,city,ai_tool_threat,salary_group,experience_level,work_type
+Paul Edwards,Data Analyst,Healthcare,4,119261,27,Austin,Github Copilot,High,Veteran,In-Office
+Stephen Owens,Marketing Manager,Media & Marketing,5,175689,13,San Francisco,Scribe AI,Very High,Senior,In-Office
+James Meyer,Copywriter,Tech,2,85007,25,Austin,Writer.com,Medium,Veteran,In-Office
+Joseph Marquez,Doctor,Healthcare,2,46017,22,San Francisco,Claude,Low,Senior,In-Office
+Mark Owens,Financial Analyst,Finance,1,127452,18,New York,ChatGPT,High,Senior,In-Office
+Mark Morris,Nurse,Healthcare,1,65400,16,San Francisco,Claude,Medium,Senior,In-Office
+Martha Ortiz,Financial Analyst,Finance,2,189603,18,Boston,Perplexity AI,Very High,Senior,In-Office
+Alexander Brown,Teacher,Education,2,102422,28,Seattle,Claude,High,Veteran,In-Office
+Tina Gonzalez,Customer Support Agent,Finance,2,149213,34,Chicago,Perplexity AI,High,Veteran,In-Office
+Theresa Lutz,HR Manager,Human Resources,4,169617,19,Austin,ChatGPT,Very High,Senior,In-Office
+Cameron Butler,Doctor,Healthcare,3,141645,6,San Francisco,Claude,High,Mid,In-Office
+Larry Reed,Customer Support Agent,Healthcare,5,148624,24,Austin,ChatGPT,High,Senior,In-Office
+Martin Frye,Marketing Manager,Media & Marketing,2,142108,9,Chicago,Writer.com,High,Mid,In-Office
+Mr. Keith Weber Jr.,Customer Support Agent,Tech,2,91717,10,Austin,ChatGPT,Medium,Senior,In-Office
+Vanessa Alvarez,Technical Recruiter,Tech,1,165164,11,New York,Scribe AI,Very High,Senior,In-Office
+Melissa Stevenson,Radiologist,Healthcare,4,116068,29,Boston,MedpaLM,High,Veteran,In-Office
+Scott Smith,Technical Recruiter,Human Resources,3,116707,4,San Francisco,Scribe AI,High,Mid,In-Office
+Claire Cross,Nurse,Healthcare,4,157805,24,Austin,MedpaLM,Very High,Senior,In-Office
+David Watson,Technical Recruiter,Healthcare,4,77252,16,San Francisco,ChatGPT,Medium,Senior,In-Office
+Katherine Norris,HR Manager,Human Resources,3,192811,18,New York,ChatGPT,Very High,Senior,In-Office
+Anthony Mitchell,HR Manager,Human Resources,3,114069,2,Austin,Scribe AI,High,Entry,In-Office
+Jamie Jackson,Data Analyst,Media & Marketing,3,173776,23,New York,ChatGPT,Very High,Senior,In-Office
+Alexander Santos,Data Analyst,Healthcare,3,41735,18,New York,Claude,Low,Senior,In-Office
+Sandra Campbell,Doctor,Healthcare,1,52429,27,San Francisco,Claude,Low,Veteran,In-Office
+Michael Hudson Jr.,Lawyer,Legal,5,73001,22,Austin,Harvey,Medium,Senior,In-Office
+Scott Knight,Copywriter,Media & Marketing,1,113979,15,Austin,Writer.com,High,Senior,In-Office
+Tanya Pennington,Radiologist,Healthcare,5,91045,16,Boston,Claude,Medium,Senior,In-Office
+Brittany Berg,HR Manager,Human Resources,5,57962,10,Austin,Scribe AI,Low,Senior,In-Office
+Sean Ibarra,HR Manager,Human Resources,1,77727,31,Boston,Writer.com,Medium,Veteran,In-Office
+Andrea Allen,Marketing Manager,Media & Marketing,5,46129,0,Chicago,Writer.com,Low,Entry,In-Office
+Walter Butler MD,Paralegal,Legal,1,149449,18,New York,Claude,High,Senior,In-Office
+Kyle Fisher,Nurse,Healthcare,2,127290,34,Boston,Claude,High,Veteran,In-Office
+Rebekah Campos DVM,Data Analyst,Finance,3,199994,34,San Francisco,Claude,Very High,Veteran,In-Office
+Joseph Bennett,Financial Analyst,Finance,5,189922,19,San Francisco,Perplexity AI,Very High,Senior,In-Office
+Robert Hobbs,Marketing Manager,Media & Marketing,1,59414,4,Boston,ChatGPT,Low,Mid,In-Office
+Gary Friedman,Marketing Manager,Media & Marketing,2,179368,26,Austin,Scribe AI,Very High,Veteran,In-Office
+Monica Peterson,Paralegal,Legal,4,191014,23,Boston,DoNotPay,Very High,Senior,In-Office
+Teresa Wood,Paralegal,Legal,4,145632,15,New York,Claude,High,Senior,In-Office
+William Valdez,Teacher,Education,3,59018,8,Boston,Google Gemini,Low,Mid,In-Office
+Christine Watts,Data Analyst,Media & Marketing,5,66471,22,Boston,Claude,Medium,Senior,In-Office
+Nicole Newman,Nurse,Healthcare,2,110649,30,Boston,MedpaLM,High,Veteran,In-Office
+Bruce May,Radiologist,Healthcare,5,81981,5,Boston,MedpaLM,Medium,Mid,In-Office
+Mark Smith,Doctor,Healthcare,5,42724,10,Austin,Claude,Low,Senior,In-Office
+Alex Pham,Technical Recruiter,Human Resources,1,53099,6,Remote,ChatGPT,Low,Mid,Remote
+Angelica Johnson,Data Analyst,Finance,5,85981,23,San Francisco,Github Copilot,Medium,Senior,In-Office
+Sara Hall,Lawyer,Legal,4,136239,7,San Francisco,DoNotPay,High,Mid,In-Office
+Todd Collins,Paralegal,Legal,3,69607,22,Boston,DoNotPay,Medium,Senior,In-Office
+Stephen Young,Nurse,Healthcare,4,131784,28,Chicago,Claude,High,Veteran,In-Office
+Christopher Tapia,Software Engineer,Tech,5,81798,12,San Francisco,Claude,Medium,Senior,In-Office
+Patricia Carroll,Nurse,Healthcare,2,123940,14,Boston,Claude,High,Senior,In-Office
+Erica Bauer,Technical Recruiter,Media & Marketing,5,106724,11,Chicago,Scribe AI,High,Senior,In-Office
+Samuel Young,Paralegal,Legal,4,130936,8,Remote,DoNotPay,High,Mid,Remote
+Taylor Lucas,Paralegal,Legal,4,113709,12,Remote,Claude,High,Senior,Remote
+Randy Gilbert,Data Analyst,Tech,4,147872,29,New York,Claude,High,Veteran,In-Office
+Daniel Johnson,Copywriter,Tech,3,104898,30,Seattle,Writer.com,High,Veteran,In-Office
+Robert Cabrera DDS,Software Engineer,Tech,2,107373,8,Austin,Github Copilot,High,Mid,In-Office
+Scott Scott,Lawyer,Legal,2,108364,35,Remote,Claude,High,Veteran,Remote
+Beverly Powell,Marketing Manager,Media & Marketing,2,98780,19,Chicago,ChatGPT,Medium,Senior,In-Office
+Alexis Torres,HR Manager,Human Resources,4,93939,14,Remote,ChatGPT,Medium,Senior,Remote
+Stephen Morales,HR Manager,Human Resources,1,141182,13,Chicago,Writer.com,High,Senior,In-Office
+Daniel Walker,HR Manager,Human Resources,2,170851,4,Remote,Scribe AI,Very High,Mid,Remote
+David Phillips,Nurse,Healthcare,1,122897,7,Seattle,Claude,High,Mid,In-Office
+Ian Knight,Copywriter,Media & Marketing,5,155464,34,Austin,ChatGPT,Very High,Veteran,In-Office
+Ryan Harris,Radiologist,Healthcare,3,185750,10,Austin,MedpaLM,Very High,Senior,In-Office
+Stephanie Rubio,Marketing Manager,Media & Marketing,5,149036,1,Remote,Scribe AI,High,Entry,Remote
+Nathan Carlson,Paralegal,Legal,2,170472,21,San Francisco,Harvey,Very High,Senior,In-Office
+Anthony Webb,HR Manager,Human Resources,4,46254,13,San Francisco,Scribe AI,Low,Senior,In-Office
+Keith Clark,Nurse,Healthcare,2,178237,9,New York,MedpaLM,Very High,Mid,In-Office
+James Savage,Software Engineer,Tech,3,160396,21,New York,Github Copilot,Very High,Senior,In-Office
+Paul Harper,Teacher,Education,3,103168,13,Seattle,Google Gemini,High,Senior,In-Office
+Blake Hill,HR Manager,Human Resources,4,142244,0,Chicago,ChatGPT,High,Entry,In-Office
+Kevin King,Financial Analyst,Healthcare,5,187365,2,Austin,ChatGPT,Very High,Entry,In-Office
+Maria Contreras,Teacher,Education,3,125628,10,New York,ChatGPT,High,Senior,In-Office
+David Perry,Copywriter,Media & Marketing,1,86805,24,Boston,ChatGPT,Medium,Senior,In-Office
+Sarah Fox,Lawyer,Legal,4,92801,8,San Francisco,DoNotPay,Medium,Mid,In-Office
+Jennifer Taylor,Radiologist,Healthcare,4,157105,10,Seattle,MedpaLM,Very High,Senior,In-Office
+Jo Miranda,Paralegal,Legal,2,177521,10,Remote,Harvey,Very High,Senior,Remote
+Michael Flynn,Teacher,Education,1,87708,15,Boston,Claude,Medium,Senior,In-Office
+Leslie Hobbs,Software Engineer,Tech,1,184779,34,Boston,Claude,Very High,Veteran,In-Office
+Sarah Miller,Marketing Manager,Media & Marketing,4,116229,14,San Francisco,Scribe AI,High,Senior,In-Office
+Michelle Brandt,HR Manager,Human Resources,1,178448,15,Remote,Writer.com,Very High,Senior,Remote
+Kimberly Gonzalez,Copywriter,Media & Marketing,2,83134,11,New York,ChatGPT,Medium,Senior,In-Office
+Steven Franco,Marketing Manager,Media & Marketing,2,141279,28,San Francisco,Scribe AI,High,Veteran,In-Office
+Kelly Fitzgerald,HR Manager,Human Resources,3,129320,20,Boston,Writer.com,High,Senior,In-Office
+Cody Shaw,Nurse,Healthcare,5,69557,16,Remote,Claude,Medium,Senior,Remote
+Randy Bartlett,Software Engineer,Tech,2,186972,28,San Francisco,Claude,Very High,Veteran,In-Office
+Robert Cruz,Radiologist,Healthcare,2,83201,3,Boston,Claude,Medium,Mid,In-Office
+April Ramirez,Software Engineer,Tech,1,82656,28,Chicago,ChatGPT,Medium,Veteran,In-Office
+Amy Ruiz,Data Analyst,Tech,3,184821,8,Austin,Claude,Very High,Mid,In-Office
+Sandra Hubbard,Customer Support Agent,Tech,2,72566,23,Seattle,Perplexity AI,Medium,Senior,In-Office
+Andrea Davis,Lawyer,Legal,2,146110,9,Seattle,Claude,High,Mid,In-Office
+Howard Ballard,Paralegal,Legal,2,152604,33,San Francisco,Harvey,Very High,Veteran,In-Office
+Kristin Spencer,Lawyer,Legal,4,50938,4,Boston,Claude,Low,Mid,In-Office
+Mark Cox,Paralegal,Legal,1,122016,3,New York,Claude,High,Mid,In-Office
+Anthony Spence,Paralegal,Legal,3,66393,10,Remote,Harvey,Medium,Senior,Remote
+Robert Nash,Paralegal,Legal,3,125286,14,Remote,Harvey,High,Senior,Remote
+Emily Jones,HR Manager,Human Resources,5,158228,17,San Francisco,Scribe AI,Very High,Senior,In-Office
+Robert Collier,Paralegal,Legal,3,54925,11,Boston,Claude,Low,Senior,In-Office
+Eric Swanson,Software Engineer,Tech,4,55568,26,Austin,Github Copilot,Low,Veteran,In-Office
+Brian Carter DDS,Nurse,Healthcare,1,45238,4,Boston,Claude,Low,Mid,In-Office
+Teresa Nixon,Customer Support Agent,Healthcare,3,47672,21,Chicago,Perplexity AI,Low,Senior,In-Office
+Michelle Daniel,Radiologist,Healthcare,3,146907,27,Boston,Claude,High,Veteran,In-Office
+Danielle Vaughn,Copywriter,Tech,2,54716,30,Austin,Writer.com,Low,Veteran,In-Office
+Michael Taylor,HR Manager,Human Resources,3,105067,1,Seattle,Writer.com,High,Entry,In-Office
+Rebecca Mccullough,Radiologist,Healthcare,2,176170,10,Austin,Claude,Very High,Senior,In-Office
+Derrick Valencia,Copywriter,Media & Marketing,4,114053,14,Austin,Writer.com,High,Senior,In-Office
+Adrian Zimmerman,Copywriter,Tech,3,63621,30,San Francisco,Writer.com,Medium,Veteran,In-Office
+Monica Mendez,Paralegal,Legal,5,83526,27,Chicago,Harvey,Medium,Veteran,In-Office
+Steven Palmer,Software Engineer,Tech,3,68197,35,New York,ChatGPT,Medium,Veteran,In-Office
+Mark Henderson,Data Analyst,Tech,1,103894,2,Remote,Github Copilot,High,Entry,Remote
+April Humphrey,Paralegal,Legal,5,194940,21,Boston,Claude,Very High,Senior,In-Office
+Cynthia Ramirez,Paralegal,Legal,4,114338,17,Austin,DoNotPay,High,Senior,In-Office
+Kelly Humphrey,Doctor,Healthcare,4,192610,9,Boston,MedpaLM,Very High,Mid,In-Office
+Susan Bryant,Software Engineer,Tech,1,178741,35,Remote,Claude,Very High,Veteran,Remote
+Lori Jackson,Doctor,Healthcare,3,198837,0,Seattle,MedpaLM,Very High,Entry,In-Office
+Ann Phillips,Customer Support Agent,Tech,5,77550,19,Chicago,ChatGPT,Medium,Senior,In-Office
+Tanner Williams,Nurse,Healthcare,5,70076,19,Chicago,MedpaLM,Medium,Senior,In-Office
+Stephanie Smith,Paralegal,Legal,1,130407,21,Chicago,Harvey,High,Senior,In-Office
+Andrea Hamilton,Teacher,Education,5,162119,29,Chicago,Google Gemini,Very High,Veteran,In-Office
+Martha Beasley,Lawyer,Legal,4,117569,2,Boston,Harvey,High,Entry,In-Office
+William Cook,Software Engineer,Tech,5,72053,11,Seattle,Claude,Medium,Senior,In-Office
+Michael Kelly,Technical Recruiter,Finance,2,74244,10,Remote,ChatGPT,Medium,Senior,Remote
+Joshua Smith,Copywriter,Tech,1,138950,1,Seattle,Writer.com,High,Entry,In-Office
+Marie Howard,Nurse,Healthcare,4,187387,20,San Francisco,Claude,Very High,Senior,In-Office
+Edgar Le,Radiologist,Healthcare,2,62074,1,San Francisco,Claude,Medium,Entry,In-Office
+Kevin Carter,Data Analyst,Tech,3,99986,18,Boston,Claude,Medium,Senior,In-Office
+Veronica Fields,Paralegal,Legal,5,93416,26,Boston,Claude,Medium,Veteran,In-Office
+Anita Jackson,Software Engineer,Tech,5,113252,21,San Francisco,Claude,High,Senior,In-Office
+Bruce Shaw,Teacher,Education,3,144801,20,Remote,Claude,High,Senior,Remote
+Theresa Davis,Customer Support Agent,Media & Marketing,1,146101,20,Boston,Perplexity AI,High,Senior,In-Office
+Steve Dillon,Financial Analyst,Finance,2,102035,32,San Francisco,ChatGPT,High,Veteran,In-Office
+Kelly Carter,Customer Support Agent,Finance,4,118883,2,Austin,Perplexity AI,High,Entry,In-Office
+Tammy Richardson,Data Analyst,Healthcare,4,169807,31,San Francisco,Claude,Very High,Veteran,In-Office
+Carol Mcdowell,Teacher,Education,5,149851,0,Remote,ChatGPT,High,Entry,Remote
+Rhonda Tran,Financial Analyst,Finance,3,140591,14,Chicago,ChatGPT,High,Senior,In-Office
+Jeffery Morrison,Data Analyst,Healthcare,2,194172,32,Austin,ChatGPT,Very High,Veteran,In-Office
+Briana Adams,Doctor,Healthcare,5,84866,11,Austin,Claude,Medium,Senior,In-Office
+Raymond Davidson,Financial Analyst,Healthcare,1,87917,23,Seattle,Perplexity AI,Medium,Senior,In-Office
+Pedro Hernandez,Financial Analyst,Finance,3,53284,30,Austin,Perplexity AI,Low,Veteran,In-Office
+Michael Johnson,Software Engineer,Tech,4,82301,21,Chicago,Github Copilot,Medium,Senior,In-Office
+Kristina Young,Data Analyst,Media & Marketing,1,92441,30,Chicago,Claude,Medium,Veteran,In-Office
+Timothy Willis,Lawyer,Legal,3,108346,34,Boston,DoNotPay,High,Veteran,In-Office
+Ethan Miller,Lawyer,Legal,2,193167,11,San Francisco,DoNotPay,Very High,Senior,In-Office
+Harold Foster,Copywriter,Tech,4,195560,3,Seattle,ChatGPT,Very High,Mid,In-Office
+Dawn Anderson,Teacher,Education,4,90366,20,Boston,Google Gemini,Medium,Senior,In-Office
+Patrick Leblanc,Financial Analyst,Healthcare,2,123556,8,Boston,Perplexity AI,High,Mid,In-Office
+Jessica Rogers,Paralegal,Legal,3,177158,6,New York,Claude,Very High,Mid,In-Office
+Ryan Howard,Data Analyst,Finance,2,185237,0,San Francisco,ChatGPT,Very High,Entry,In-Office
+Lisa Dennis,Data Analyst,Media & Marketing,4,185612,17,San Francisco,ChatGPT,Very High,Senior,In-Office
+Laura Mckay,Technical Recruiter,Finance,4,94891,9,Seattle,Scribe AI,Medium,Mid,In-Office
+Cole Esparza,Radiologist,Healthcare,5,197336,23,New York,Claude,Very High,Senior,In-Office
+Cassandra Vazquez,Copywriter,Media & Marketing,1,198153,16,Boston,Writer.com,Very High,Senior,In-Office
+Justin Olsen,Nurse,Healthcare,2,83741,18,Chicago,MedpaLM,Medium,Senior,In-Office
+Mark Atkins,Paralegal,Legal,1,96446,5,New York,DoNotPay,Medium,Mid,In-Office
+Terri Bradley,Customer Support Agent,Finance,3,91271,23,Chicago,Perplexity AI,Medium,Senior,In-Office
+Adrian Mcdaniel,Nurse,Healthcare,4,199548,19,New York,MedpaLM,Very High,Senior,In-Office
+Haley Barber,Paralegal,Legal,3,129851,32,New York,DoNotPay,High,Veteran,In-Office
+Sherry Brown,Software Engineer,Tech,5,69923,23,Remote,Claude,Medium,Senior,Remote
+Alice Barrett,HR Manager,Human Resources,4,178883,21,Remote,ChatGPT,Very High,Senior,Remote
+Jennifer Rodriguez,Lawyer,Legal,5,48546,5,Seattle,Claude,Low,Mid,In-Office
+Victor Burnett,Teacher,Education,3,76265,35,San Francisco,ChatGPT,Medium,Veteran,In-Office
+Devon Coleman,Radiologist,Healthcare,2,135161,1,Seattle,MedpaLM,High,Entry,In-Office
+John Wong,Doctor,Healthcare,3,89395,2,Boston,MedpaLM,Medium,Entry,In-Office
+Lisa Sandoval,Customer Support Agent,Media & Marketing,1,41374,4,Chicago,Perplexity AI,Low,Mid,In-Office
+Mrs. Anne Harris,Doctor,Healthcare,3,160195,34,Seattle,MedpaLM,Very High,Veteran,In-Office
+Glenn Cook,Financial Analyst,Healthcare,4,113501,20,San Francisco,ChatGPT,High,Senior,In-Office
+Kristopher Shaw,Software Engineer,Tech,2,99760,29,Boston,ChatGPT,Medium,Veteran,In-Office
+Brian Michael,Data Analyst,Tech,2,51893,1,Austin,Claude,Low,Entry,In-Office
+Benjamin Ward,Marketing Manager,Media & Marketing,3,128463,14,Austin,Scribe AI,High,Senior,In-Office
+Vincent Harrell,Technical Recruiter,Media & Marketing,5,90677,21,Remote,Scribe AI,Medium,Senior,Remote
+Jeffery Collins,Technical Recruiter,Finance,4,95188,29,New York,ChatGPT,Medium,Veteran,In-Office
+Robin Moran,Software Engineer,Tech,1,76449,31,Austin,ChatGPT,Medium,Veteran,In-Office
+Jared Love,Financial Analyst,Healthcare,5,175678,13,Chicago,ChatGPT,Very High,Senior,In-Office
+Samantha Carter,Lawyer,Legal,5,120104,9,Chicago,Harvey,High,Mid,In-Office
+Daniel Gonzalez,HR Manager,Human Resources,1,102091,9,New York,Scribe AI,High,Mid,In-Office
+Erik Gonzalez,Radiologist,Healthcare,1,100647,10,San Francisco,MedpaLM,High,Senior,In-Office
+Angela Oliver,Copywriter,Media & Marketing,3,49018,21,San Francisco,Writer.com,Low,Senior,In-Office
+Brian Carey,Doctor,Healthcare,4,158585,10,Austin,MedpaLM,Very High,Senior,In-Office
+Charles Wilson,Teacher,Education,5,53838,23,Chicago,Claude,Low,Senior,In-Office
+Emily White,Copywriter,Media & Marketing,3,179613,35,Remote,ChatGPT,Very High,Veteran,Remote
+Mary Garcia,Nurse,Healthcare,5,193950,15,Boston,MedpaLM,Very High,Senior,In-Office
+Wendy Hernandez,Technical Recruiter,Finance,5,139951,16,Boston,Scribe AI,High,Senior,In-Office
+Megan Ramirez,Paralegal,Legal,5,171463,12,New York,Claude,Very High,Senior,In-Office
+Elizabeth Burton,Doctor,Healthcare,4,184631,22,Austin,Claude,Very High,Senior,In-Office
+Patricia Dixon,Data Analyst,Tech,5,174892,12,Remote,Claude,Very High,Senior,Remote
+Stephen Moody,Lawyer,Legal,1,49414,25,Austin,Claude,Low,Veteran,In-Office
+Adam Wagner,Technical Recruiter,Media & Marketing,3,42082,32,San Francisco,Scribe AI,Low,Veteran,In-Office
+Richard Lopez,Teacher,Education,1,122760,10,Seattle,Claude,High,Senior,In-Office
+Jacob Carney,Marketing Manager,Media & Marketing,4,55863,23,Remote,ChatGPT,Low,Senior,Remote
+Tiffany Hess,Technical Recruiter,Human Resources,2,112847,15,New York,ChatGPT,High,Senior,In-Office
+Stacey Austin,Radiologist,Healthcare,3,164363,6,Remote,Claude,Very High,Mid,Remote
+Julie Shaffer,Financial Analyst,Healthcare,3,190653,13,Seattle,ChatGPT,Very High,Senior,In-Office
+Carrie Marsh DDS,Data Analyst,Finance,2,107929,19,San Francisco,Github Copilot,High,Senior,In-Office
+Jessica Jones,Data Analyst,Media & Marketing,2,183480,14,Seattle,Claude,Very High,Senior,In-Office
+Kevin Burns,Data Analyst,Tech,2,111456,4,Austin,ChatGPT,High,Mid,In-Office
+Tracy Sims,Financial Analyst,Finance,3,71870,2,New York,ChatGPT,Medium,Entry,In-Office
+George Miller,Customer Support Agent,Finance,5,198508,1,Seattle,ChatGPT,Very High,Entry,In-Office
+Cheyenne Clark,Financial Analyst,Finance,5,70024,8,San Francisco,ChatGPT,Medium,Mid,In-Office
+Alejandro Woods,Copywriter,Media & Marketing,2,147275,27,New York,Writer.com,High,Veteran,In-Office
+Alan Castillo,Paralegal,Legal,4,163519,18,Seattle,DoNotPay,Very High,Senior,In-Office
+Laurie Walsh,Software Engineer,Tech,4,120740,3,San Francisco,Github Copilot,High,Mid,In-Office
+Eric Rosales,HR Manager,Human Resources,4,122881,20,Chicago,Scribe AI,High,Senior,In-Office
+Jacob Taylor,Technical Recruiter,Tech,1,62412,16,New York,ChatGPT,Medium,Senior,In-Office
+Bryan Fox,Software Engineer,Tech,2,173455,24,Seattle,Claude,Very High,Senior,In-Office
+Gloria Barrett,Financial Analyst,Healthcare,1,167314,1,Chicago,Perplexity AI,Very High,Entry,In-Office
+Joseph Oconnor,Marketing Manager,Media & Marketing,5,150125,5,Chicago,Writer.com,Very High,Mid,In-Office
+Dana Richardson,Customer Support Agent,Healthcare,3,162667,14,San Francisco,Perplexity AI,Very High,Senior,In-Office
+James Gonzalez,Paralegal,Legal,3,45494,16,Austin,Claude,Low,Senior,In-Office
+Cassandra Williams,Data Analyst,Healthcare,5,103069,12,Chicago,ChatGPT,High,Senior,In-Office
+Ronald Rodriguez,Marketing Manager,Media & Marketing,1,59119,22,San Francisco,Scribe AI,Low,Senior,In-Office
+Theresa Colon,Doctor,Healthcare,2,55456,34,San Francisco,MedpaLM,Low,Veteran,In-Office
+William Eaton,Teacher,Education,3,40278,27,Boston,Claude,Low,Veteran,In-Office
+Jorge Mcdaniel,Financial Analyst,Finance,3,82316,10,Remote,Perplexity AI,Medium,Senior,Remote
+Jason Jackson,Nurse,Healthcare,4,129695,3,San Francisco,MedpaLM,High,Mid,In-Office
+Alexandra Bryant,Data Analyst,Healthcare,2,46472,30,Seattle,ChatGPT,Low,Veteran,In-Office
+Christopher Vang,Nurse,Healthcare,5,60151,4,San Francisco,MedpaLM,Medium,Mid,In-Office
+Jessica Dixon,Nurse,Healthcare,4,60072,15,Seattle,Claude,Medium,Senior,In-Office
+Danny Mclean,Lawyer,Legal,3,187655,34,Boston,DoNotPay,Very High,Veteran,In-Office
+Alan Sweeney,Teacher,Education,3,75482,24,Austin,Google Gemini,Medium,Senior,In-Office
+Jesse Figueroa,Doctor,Healthcare,4,40218,3,San Francisco,MedpaLM,Low,Mid,In-Office
+Thomas Davis,Paralegal,Legal,2,194163,30,Austin,DoNotPay,Very High,Veteran,In-Office
+Joseph Reyes,Lawyer,Legal,3,107850,11,Chicago,Harvey,High,Senior,In-Office
+Paige Moore,Technical Recruiter,Human Resources,1,52131,26,New York,Scribe AI,Low,Veteran,In-Office
+Mark Mooney,Radiologist,Healthcare,5,180834,8,Seattle,MedpaLM,Very High,Mid,In-Office
+Valerie Wells,Customer Support Agent,Healthcare,2,146132,11,Boston,Perplexity AI,High,Senior,In-Office
+Megan Smith,Software Engineer,Tech,2,140088,11,New York,Github Copilot,High,Senior,In-Office
+Heather Williams,Technical Recruiter,Finance,5,58273,1,New York,Scribe AI,Low,Entry,In-Office
+Charles Hernandez,HR Manager,Human Resources,2,143751,3,Boston,Scribe AI,High,Mid,In-Office
+Kenneth Booth,Lawyer,Legal,3,155317,23,Austin,Harvey,Very High,Senior,In-Office
+Christine Matthews,Doctor,Healthcare,3,56641,3,Boston,MedpaLM,Low,Mid,In-Office
+Joseph Howard,Copywriter,Tech,1,133668,0,New York,ChatGPT,High,Entry,In-Office
+Julia Vasquez,Nurse,Healthcare,1,155154,24,San Francisco,Claude,Very High,Senior,In-Office
+Lauren Davenport,Data Analyst,Tech,5,193718,10,San Francisco,Github Copilot,Very High,Senior,In-Office
+Omar Jimenez,Teacher,Education,2,199675,23,New York,Google Gemini,Very High,Senior,In-Office
+Samantha Barnett,Lawyer,Legal,2,52839,7,Chicago,Harvey,Low,Mid,In-Office
+Jennifer James,Data Analyst,Healthcare,3,87984,10,Seattle,Github Copilot,Medium,Senior,In-Office
+Andrew Norris,Teacher,Education,3,135882,24,Seattle,Google Gemini,High,Senior,In-Office
+Jeffrey Jackson,HR Manager,Human Resources,2,106439,17,San Francisco,ChatGPT,High,Senior,In-Office
+Andrew Harris,Financial Analyst,Finance,3,127361,29,San Francisco,ChatGPT,High,Veteran,In-Office
+Guy Huffman,HR Manager,Human Resources,5,78378,18,Seattle,Scribe AI,Medium,Senior,In-Office
+Mary Price,Technical Recruiter,Finance,2,52229,32,Boston,ChatGPT,Low,Veteran,In-Office
+Jesus Price,Customer Support Agent,Tech,2,46434,4,San Francisco,Perplexity AI,Low,Mid,In-Office
+Carol Becker,Teacher,Education,5,53725,9,Remote,ChatGPT,Low,Mid,Remote
+David Perez,HR Manager,Human Resources,1,137646,33,Austin,Scribe AI,High,Veteran,In-Office
+Tammy Perez,Radiologist,Healthcare,5,160195,12,New York,Claude,Very High,Senior,In-Office
+Lisa Pacheco,Doctor,Healthcare,4,131435,35,Remote,Claude,High,Veteran,Remote
+Samantha Moyer,Software Engineer,Tech,4,68209,6,New York,ChatGPT,Medium,Mid,In-Office
+Cody Blankenship,Financial Analyst,Healthcare,5,190626,25,San Francisco,ChatGPT,Very High,Veteran,In-Office
+Kevin Hunt,Customer Support Agent,Healthcare,2,134950,35,San Francisco,Perplexity AI,High,Veteran,In-Office
+Jennifer Fisher,Copywriter,Media & Marketing,2,69135,14,Chicago,ChatGPT,Medium,Senior,In-Office
+Amanda Greene,Radiologist,Healthcare,3,96850,8,New York,MedpaLM,Medium,Mid,In-Office
+Karen Mccall,Lawyer,Legal,1,141270,10,Seattle,DoNotPay,High,Senior,In-Office
+Jesse Moore,Paralegal,Legal,2,132245,16,Chicago,Harvey,High,Senior,In-Office
+Sarah Matthews,Radiologist,Healthcare,5,69173,4,Seattle,MedpaLM,Medium,Mid,In-Office
+David Levine,Technical Recruiter,Media & Marketing,2,124972,15,Chicago,Scribe AI,High,Senior,In-Office
+Daniel Bailey,Financial Analyst,Healthcare,3,81378,2,Chicago,ChatGPT,Medium,Entry,In-Office
+Henry Ball,Software Engineer,Tech,5,160183,14,Remote,Claude,Very High,Senior,Remote
+Cody Nash,Radiologist,Healthcare,2,174406,28,Chicago,Claude,Very High,Veteran,In-Office
+Zachary Solis,Doctor,Healthcare,2,131665,19,Austin,MedpaLM,High,Senior,In-Office
+Tanya Jordan,Teacher,Education,2,74938,21,Austin,Google Gemini,Medium,Senior,In-Office
+Courtney French,Doctor,Healthcare,4,182604,15,Boston,MedpaLM,Very High,Senior,In-Office
+Douglas Oconnor,Lawyer,Legal,1,141266,2,Remote,Harvey,High,Entry,Remote
+Mark Perry,Customer Support Agent,Healthcare,5,96617,1,Chicago,ChatGPT,Medium,Entry,In-Office
+William Hudson,Lawyer,Legal,4,103448,15,Boston,Claude,High,Senior,In-Office
+Lisa Curry,Nurse,Healthcare,4,176907,33,Seattle,Claude,Very High,Veteran,In-Office
+Crystal Mclaughlin,Radiologist,Healthcare,3,44430,32,San Francisco,Claude,Low,Veteran,In-Office
+Valerie Shea,Lawyer,Legal,1,121640,14,Boston,Claude,High,Senior,In-Office
+Kristina West MD,Marketing Manager,Media & Marketing,4,111171,12,Remote,Writer.com,High,Senior,Remote
+Ariel Henderson,Marketing Manager,Media & Marketing,2,198107,7,San Francisco,Scribe AI,Very High,Mid,In-Office
+Andrea Price,Teacher,Education,3,150624,13,Austin,Google Gemini,Very High,Senior,In-Office
+Carla Davidson,Customer Support Agent,Healthcare,5,151733,11,Remote,Perplexity AI,Very High,Senior,Remote
+Eric Schmitt,Marketing Manager,Media & Marketing,4,178120,13,San Francisco,Writer.com,Very High,Senior,In-Office
+Jason Davis,Lawyer,Legal,1,157248,30,Seattle,Claude,Very High,Veteran,In-Office
+Timothy Wise,Customer Support Agent,Finance,4,197562,12,Seattle,Perplexity AI,Very High,Senior,In-Office
+Christine Villa,Radiologist,Healthcare,1,98470,22,Austin,Claude,Medium,Senior,In-Office
+Yvonne Taylor,Technical Recruiter,Healthcare,5,70653,20,Chicago,ChatGPT,Medium,Senior,In-Office
+Heather Sullivan,Marketing Manager,Media & Marketing,3,131290,31,Boston,ChatGPT,High,Veteran,In-Office
+Crystal Wall,Lawyer,Legal,1,80546,9,New York,Harvey,Medium,Mid,In-Office
+Deborah Rose,Data Analyst,Finance,3,44369,3,Chicago,ChatGPT,Low,Mid,In-Office
+Jennifer Rodriguez,Data Analyst,Media & Marketing,3,131891,23,Chicago,Claude,High,Senior,In-Office
+Charles Green,Software Engineer,Tech,4,76558,13,Seattle,ChatGPT,Medium,Senior,In-Office
+Mercedes Robles,Software Engineer,Tech,2,132707,2,San Francisco,Github Copilot,High,Entry,In-Office
+Angela Reese,Financial Analyst,Healthcare,2,70242,22,Remote,ChatGPT,Medium,Senior,Remote
+Evan Haney,Teacher,Education,1,76911,15,Boston,Google Gemini,Medium,Senior,In-Office
+Sean Melton,Paralegal,Legal,2,131248,21,San Francisco,Claude,High,Senior,In-Office
+Maria Hartman,Software Engineer,Tech,3,40168,30,Chicago,ChatGPT,Low,Veteran,In-Office
+Jason Sullivan,Paralegal,Legal,2,125878,13,San Francisco,DoNotPay,High,Senior,In-Office
+Angela Smith,Lawyer,Legal,1,44214,10,New York,Claude,Low,Senior,In-Office
+Julie Campbell,Nurse,Healthcare,3,118343,5,Austin,MedpaLM,High,Mid,In-Office
+Megan Smith,Radiologist,Healthcare,4,165726,10,San Francisco,Claude,Very High,Senior,In-Office
+Wendy Baird,HR Manager,Human Resources,3,80310,19,Austin,Scribe AI,Medium,Senior,In-Office
+Gregory Griffin,Data Analyst,Tech,4,111578,13,Chicago,Github Copilot,High,Senior,In-Office
+Hannah Sanchez,Nurse,Healthcare,5,192093,14,San Francisco,Claude,Very High,Senior,In-Office
+Dr. Crystal Mcdonald MD,HR Manager,Human Resources,5,122598,29,Austin,Scribe AI,High,Veteran,In-Office
+Tonya Shepherd,Nurse,Healthcare,2,110799,34,Remote,Claude,High,Veteran,Remote
+Justin Hayden,Financial Analyst,Finance,5,134796,16,Chicago,ChatGPT,High,Senior,In-Office
+Stacie Porter,Data Analyst,Healthcare,2,105561,5,Remote,Github Copilot,High,Mid,Remote
+David Elliott,Doctor,Healthcare,3,137720,32,New York,MedpaLM,High,Veteran,In-Office
+Kurt Lindsey,HR Manager,Human Resources,1,194411,8,Seattle,Writer.com,Very High,Mid,In-Office
+Anthony Cardenas,Lawyer,Legal,1,70648,17,Boston,Claude,Medium,Senior,In-Office
+Ms. Megan Macdonald,Nurse,Healthcare,5,83189,2,Boston,Claude,Medium,Entry,In-Office
+Jennifer Sexton,Nurse,Healthcare,2,191843,7,Seattle,Claude,Very High,Mid,In-Office
+James Nelson,Technical Recruiter,Finance,2,153589,31,Chicago,Scribe AI,Very High,Veteran,In-Office
+Jeremy Wheeler,Lawyer,Legal,1,104273,4,Seattle,Harvey,High,Mid,In-Office
+Jennifer Beck,Data Analyst,Media & Marketing,1,186568,5,Chicago,Claude,Very High,Mid,In-Office
+James Levine,Technical Recruiter,Human Resources,5,112140,34,Austin,ChatGPT,High,Veteran,In-Office
+Steven Davis,HR Manager,Human Resources,2,163324,15,Chicago,Writer.com,Very High,Senior,In-Office
+Mrs. Cassandra Hurley,Financial Analyst,Finance,3,123998,6,San Francisco,ChatGPT,High,Mid,In-Office
+Katelyn Everett,Copywriter,Media & Marketing,1,58209,13,Austin,ChatGPT,Low,Senior,In-Office
+Erica Edwards,Lawyer,Legal,3,181780,12,Boston,Claude,Very High,Senior,In-Office
+Katherine Rios,Marketing Manager,Media & Marketing,2,56304,14,Austin,ChatGPT,Low,Senior,In-Office
+Sean Luna,Data Analyst,Media & Marketing,4,175238,12,Chicago,Claude,Very High,Senior,In-Office
+Shari Saunders,HR Manager,Human Resources,1,195519,8,Chicago,Writer.com,Very High,Mid,In-Office
+Jessica Cohen,Financial Analyst,Finance,5,129327,27,Remote,Perplexity AI,High,Veteran,Remote
+Melissa Bailey,Doctor,Healthcare,1,133529,8,Chicago,Claude,High,Mid,In-Office
+Cheryl Sims,Marketing Manager,Media & Marketing,5,80315,18,Remote,Writer.com,Medium,Senior,Remote
+David Smith,Financial Analyst,Healthcare,4,125234,5,Remote,Perplexity AI,High,Mid,Remote
+Brooke Goodman,Data Analyst,Healthcare,3,80875,15,Remote,Claude,Medium,Senior,Remote
+Rachel Johnson,HR Manager,Human Resources,5,148639,24,Austin,ChatGPT,High,Senior,In-Office
+Andrew Espinoza,Nurse,Healthcare,2,61298,20,Remote,Claude,Medium,Senior,Remote
+Jasmine Hernandez,Customer Support Agent,Tech,5,58450,35,Chicago,Perplexity AI,Low,Veteran,In-Office
+Holly Taylor,Software Engineer,Tech,1,72894,34,Seattle,ChatGPT,Medium,Veteran,In-Office
+Jessica Cruz,Lawyer,Legal,5,100941,12,Remote,Harvey,High,Senior,Remote
+Scott Anderson,Paralegal,Legal,1,126525,13,Austin,Claude,High,Senior,In-Office
+Keith Banks,Teacher,Education,2,120284,1,Austin,ChatGPT,High,Entry,In-Office
+James Collier Jr.,Teacher,Education,5,53540,7,Austin,Google Gemini,Low,Mid,In-Office
+Thomas Wilkerson,Software Engineer,Tech,2,87713,9,Chicago,Github Copilot,Medium,Mid,In-Office
+Sara Henry,Data Analyst,Tech,4,145672,34,Seattle,Github Copilot,High,Veteran,In-Office
+Joshua Brown,Lawyer,Legal,3,97683,4,Austin,Harvey,Medium,Mid,In-Office
+James Walker,Teacher,Education,3,130036,21,Remote,Google Gemini,High,Senior,Remote
+Rose Garcia,Paralegal,Legal,3,158453,24,San Francisco,Harvey,Very High,Senior,In-Office
+Kimberly Anderson,HR Manager,Human Resources,4,102071,18,Boston,ChatGPT,High,Senior,In-Office
+Micheal Snyder,Data Analyst,Healthcare,1,157269,8,Chicago,Github Copilot,Very High,Mid,In-Office
+Desiree Moore,Paralegal,Legal,1,188387,16,San Francisco,Harvey,Very High,Senior,In-Office
+Elizabeth Parks,Copywriter,Media & Marketing,4,45857,10,Austin,Writer.com,Low,Senior,In-Office
+Jasmin Randall,Technical Recruiter,Finance,3,57422,24,Chicago,Scribe AI,Low,Senior,In-Office
+Sandra Wood,Financial Analyst,Finance,1,159730,10,Remote,ChatGPT,Very High,Senior,Remote
+Kelsey Harper,Radiologist,Healthcare,4,156989,7,San Francisco,MedpaLM,Very High,Mid,In-Office
+Brandy Beard,Doctor,Healthcare,3,122633,16,Austin,Claude,High,Senior,In-Office
+Sharon Lucas,Doctor,Healthcare,5,133662,11,Seattle,MedpaLM,High,Senior,In-Office
+Billy Johnson,Teacher,Education,2,154549,18,Chicago,Google Gemini,Very High,Senior,In-Office
+Cole Ramirez MD,Nurse,Healthcare,5,54704,31,New York,Claude,Low,Veteran,In-Office
+William Woods,HR Manager,Human Resources,3,109778,1,Chicago,Writer.com,High,Entry,In-Office
+Glenn Morris,Marketing Manager,Media & Marketing,4,161875,0,New York,Writer.com,Very High,Entry,In-Office
+Thomas Owens,Financial Analyst,Healthcare,3,109260,6,New York,ChatGPT,High,Mid,In-Office
+Mark Campbell,Technical Recruiter,Healthcare,3,69875,12,Seattle,Scribe AI,Medium,Senior,In-Office
+Anthony Page,HR Manager,Human Resources,4,70745,17,Boston,Scribe AI,Medium,Senior,In-Office
+Benjamin Skinner,Teacher,Education,1,138213,2,Boston,ChatGPT,High,Entry,In-Office
+William Clayton,Marketing Manager,Media & Marketing,2,108181,33,Remote,Writer.com,High,Veteran,Remote
+Michael Velez,Doctor,Healthcare,2,63890,28,Seattle,Claude,Medium,Veteran,In-Office
+Christina Graves,Software Engineer,Tech,5,106336,18,San Francisco,Claude,High,Senior,In-Office
+Samantha Smith,Paralegal,Legal,5,100939,6,Boston,Claude,High,Mid,In-Office
+Thomas Garcia,Lawyer,Legal,5,196170,6,Chicago,Claude,Very High,Mid,In-Office
+Jessica Howard,Financial Analyst,Finance,3,44793,13,New York,ChatGPT,Low,Senior,In-Office
+Roger Walsh,Nurse,Healthcare,5,75803,26,Seattle,MedpaLM,Medium,Veteran,In-Office
+Andrea Solomon,Lawyer,Legal,5,109899,32,New York,Harvey,High,Veteran,In-Office
+Misty Brown,HR Manager,Human Resources,4,158128,29,Boston,Scribe AI,Very High,Veteran,In-Office
+Jennifer Payne,Teacher,Education,5,157167,14,Seattle,ChatGPT,Very High,Senior,In-Office
+Corey Zhang,Financial Analyst,Finance,5,116923,17,Boston,Perplexity AI,High,Senior,In-Office
+Dennis Reed,Customer Support Agent,Healthcare,4,50078,32,San Francisco,ChatGPT,Low,Veteran,In-Office
+Leslie Perry,Technical Recruiter,Healthcare,4,108074,21,Seattle,Scribe AI,High,Senior,In-Office
+Jillian Thomas,Teacher,Education,4,82819,22,Remote,Google Gemini,Medium,Senior,Remote
+Dr. Jerry Tapia,Data Analyst,Media & Marketing,2,187653,20,New York,ChatGPT,Very High,Senior,In-Office
+Teresa Williams,Copywriter,Media & Marketing,4,189994,15,San Francisco,ChatGPT,Very High,Senior,In-Office
+Monica Waller,Copywriter,Tech,4,174478,6,New York,Writer.com,Very High,Mid,In-Office
+Rachel Ramirez,Teacher,Education,2,195088,29,San Francisco,Google Gemini,Very High,Veteran,In-Office
+Brittany Hicks,Paralegal,Legal,1,188669,29,Seattle,Claude,Very High,Veteran,In-Office
+Andres Gardner,Paralegal,Legal,4,98854,26,New York,DoNotPay,Medium,Veteran,In-Office
+Derek Petersen,Radiologist,Healthcare,3,87595,15,Chicago,MedpaLM,Medium,Senior,In-Office
+Kim Middleton,HR Manager,Human Resources,3,64175,5,Chicago,Writer.com,Medium,Mid,In-Office
+Edward Franklin,HR Manager,Human Resources,3,150049,11,Austin,Scribe AI,Very High,Senior,In-Office
+Kenneth Scott,Marketing Manager,Media & Marketing,4,40523,24,Austin,Scribe AI,Low,Senior,In-Office
+Chad Cook,Marketing Manager,Media & Marketing,3,90222,13,Seattle,ChatGPT,Medium,Senior,In-Office
+Jill Klein,Data Analyst,Healthcare,5,196824,22,Seattle,ChatGPT,Very High,Senior,In-Office
+Paul Montes,Financial Analyst,Healthcare,4,78549,14,Chicago,Perplexity AI,Medium,Senior,In-Office
+James Rodriguez,Doctor,Healthcare,4,125756,0,Boston,MedpaLM,High,Entry,In-Office
+Stephanie Sexton,Copywriter,Media & Marketing,1,192837,10,Seattle,Writer.com,Very High,Senior,In-Office
+Angela Jackson,Lawyer,Legal,1,114093,15,Chicago,Claude,High,Senior,In-Office
+Sara Gordon,Copywriter,Tech,2,154637,13,Seattle,Writer.com,Very High,Senior,In-Office
+Lori Lee,Data Analyst,Healthcare,4,147093,35,Remote,ChatGPT,High,Veteran,Remote
+Jared Pollard,Radiologist,Healthcare,4,70045,24,San Francisco,MedpaLM,Medium,Senior,In-Office
+Douglas Wright,Doctor,Healthcare,1,44168,34,Austin,MedpaLM,Low,Veteran,In-Office
+William Glover,Nurse,Healthcare,5,117317,20,Remote,MedpaLM,High,Senior,Remote
+Amy Walker,Technical Recruiter,Media & Marketing,2,135548,1,Chicago,ChatGPT,High,Entry,In-Office
+Nathan Morales,Copywriter,Tech,2,147144,12,Chicago,Writer.com,High,Senior,In-Office
+Jane Meadows,HR Manager,Human Resources,4,150383,35,New York,Writer.com,Very High,Veteran,In-Office
+Daniel Ryan,Customer Support Agent,Healthcare,4,177843,31,Austin,Perplexity AI,Very High,Veteran,In-Office
+Justin Flores,Radiologist,Healthcare,5,47818,8,Austin,Claude,Low,Mid,In-Office
+Joshua Ochoa,Radiologist,Healthcare,5,150991,31,Boston,Claude,Very High,Veteran,In-Office
+Mary Jacobs,Teacher,Education,4,107490,14,Chicago,Google Gemini,High,Senior,In-Office
+Kristie Medina,Radiologist,Healthcare,1,160978,32,San Francisco,Claude,Very High,Veteran,In-Office
+Jonathan Smith,Radiologist,Healthcare,2,120098,5,Chicago,Claude,High,Mid,In-Office
+Raymond Walter,HR Manager,Human Resources,4,135101,4,Chicago,Writer.com,High,Mid,In-Office
+Anthony Thompson,Data Analyst,Finance,2,126065,4,Chicago,ChatGPT,High,Mid,In-Office
+Kendra Morales,Teacher,Education,3,103533,29,Remote,Claude,High,Veteran,Remote
+Taylor Jones,Marketing Manager,Media & Marketing,2,177643,29,Austin,Writer.com,Very High,Veteran,In-Office
+John Berg,Software Engineer,Tech,5,49006,35,Austin,Github Copilot,Low,Veteran,In-Office
+Craig Carlson,Doctor,Healthcare,5,171710,17,Remote,Claude,Very High,Senior,Remote
+Jane Gilmore DDS,Data Analyst,Finance,3,110258,2,Boston,ChatGPT,High,Entry,In-Office
+Eric Lawrence,Software Engineer,Tech,2,142744,8,Seattle,ChatGPT,High,Mid,In-Office
+Pamela Walker,Doctor,Healthcare,4,112929,18,Chicago,MedpaLM,High,Senior,In-Office
+Tonya Williams,Data Analyst,Media & Marketing,4,84722,4,Seattle,ChatGPT,Medium,Mid,In-Office
+Amber Kennedy,Data Analyst,Finance,4,63000,34,Seattle,Github Copilot,Medium,Veteran,In-Office
+Leah Palmer,Lawyer,Legal,3,191644,14,Boston,DoNotPay,Very High,Senior,In-Office
+Patricia Marshall,Radiologist,Healthcare,2,46558,19,Chicago,Claude,Low,Senior,In-Office
+Lisa Mcdaniel,Lawyer,Legal,1,148530,21,Chicago,Claude,High,Senior,In-Office
+Charles Gibson,HR Manager,Human Resources,2,165491,4,Boston,Scribe AI,Very High,Mid,In-Office
+Robert Morris,Marketing Manager,Media & Marketing,2,192568,27,Remote,ChatGPT,Very High,Veteran,Remote
+Ryan Dean,Radiologist,Healthcare,4,177912,33,Remote,MedpaLM,Very High,Veteran,Remote
+Brandon Sullivan,Doctor,Healthcare,2,76744,17,Seattle,Claude,Medium,Senior,In-Office
+Kayla White,Doctor,Healthcare,4,173662,17,Boston,MedpaLM,Very High,Senior,In-Office
+Justin Spears,Nurse,Healthcare,1,54913,27,Remote,Claude,Low,Veteran,Remote
+Francis Walker,HR Manager,Human Resources,4,160573,21,Boston,ChatGPT,Very High,Senior,In-Office
+Jose Silva,Technical Recruiter,Finance,4,86890,27,Austin,Scribe AI,Medium,Veteran,In-Office
+Laura Hunt DDS,Teacher,Education,1,144208,24,Seattle,Claude,High,Senior,In-Office
+Paige Allison,Copywriter,Media & Marketing,4,75010,32,New York,ChatGPT,Medium,Veteran,In-Office
+Ryan Smith,Customer Support Agent,Healthcare,1,105673,25,New York,Perplexity AI,High,Veteran,In-Office
+Jaime Phillips,Customer Support Agent,Tech,2,70076,15,San Francisco,ChatGPT,Medium,Senior,In-Office
+Karen Stone,Teacher,Education,5,112995,9,Boston,ChatGPT,High,Mid,In-Office
+Janice Parker,Customer Support Agent,Finance,5,86033,28,Boston,Perplexity AI,Medium,Veteran,In-Office
+Mark Rosales II,Lawyer,Legal,3,163598,27,New York,Harvey,Very High,Veteran,In-Office
+Jerry Weaver,Paralegal,Legal,2,110142,25,Seattle,Harvey,High,Veteran,In-Office
+Ryan Reed,Lawyer,Legal,1,195311,25,Austin,Claude,Very High,Veteran,In-Office
+Christina Sharp,Doctor,Healthcare,1,199436,24,San Francisco,MedpaLM,Very High,Senior,In-Office
+Cynthia Phillips,HR Manager,Human Resources,3,171202,27,Austin,Scribe AI,Very High,Veteran,In-Office
+Grant Schmidt,Radiologist,Healthcare,5,67560,18,Chicago,Claude,Medium,Senior,In-Office
+Luke Reed,Teacher,Education,2,124054,12,Chicago,Claude,High,Senior,In-Office
+Jennifer Harmon,Marketing Manager,Media & Marketing,4,90098,27,San Francisco,ChatGPT,Medium,Veteran,In-Office
+Charles Nichols,Marketing Manager,Media & Marketing,4,83918,24,Boston,ChatGPT,Medium,Senior,In-Office
+Nancy Thompson,Radiologist,Healthcare,3,138486,26,San Francisco,MedpaLM,High,Veteran,In-Office
+Jennifer Coleman,Software Engineer,Tech,2,88899,12,Chicago,ChatGPT,Medium,Senior,In-Office
+Benjamin Jones,Customer Support Agent,Media & Marketing,2,156381,0,Boston,ChatGPT,Very High,Entry,In-Office
+John Harris,Doctor,Healthcare,5,46620,13,San Francisco,MedpaLM,Low,Senior,In-Office
+Jimmy Kane,Radiologist,Healthcare,3,138681,33,San Francisco,MedpaLM,High,Veteran,In-Office
+Heather Scott,Lawyer,Legal,4,85538,21,Remote,DoNotPay,Medium,Senior,Remote
+Ricardo Olson,Nurse,Healthcare,5,180912,26,San Francisco,MedpaLM,Very High,Veteran,In-Office
+Jeremy Harris,Financial Analyst,Finance,4,163403,21,San Francisco,ChatGPT,Very High,Senior,In-Office
+James Guerrero,Financial Analyst,Healthcare,2,156712,33,Austin,ChatGPT,Very High,Veteran,In-Office
+Ann Welch,Data Analyst,Finance,1,79791,23,Boston,ChatGPT,Medium,Senior,In-Office
+Jonathan Martinez,Customer Support Agent,Healthcare,4,102312,20,New York,Perplexity AI,High,Senior,In-Office
+Richard Michael,Marketing Manager,Media & Marketing,5,53954,15,Chicago,ChatGPT,Low,Senior,In-Office
+Kenneth Schwartz MD,Financial Analyst,Finance,4,198608,18,Austin,Perplexity AI,Very High,Senior,In-Office
+Kevin Mitchell,HR Manager,Human Resources,4,85417,1,Austin,ChatGPT,Medium,Entry,In-Office
+Nancy Thomas,Software Engineer,Tech,2,128443,15,New York,ChatGPT,High,Senior,In-Office
+Timothy Hill,Nurse,Healthcare,5,117010,6,Seattle,Claude,High,Mid,In-Office
+Daniel Williams,Copywriter,Tech,5,172247,12,Seattle,ChatGPT,Very High,Senior,In-Office
+Alexis Tran,Financial Analyst,Healthcare,3,148089,15,Chicago,ChatGPT,High,Senior,In-Office
+Beth Jackson,Data Analyst,Healthcare,5,173980,23,Chicago,Claude,Very High,Senior,In-Office
+Alicia Jackson,Data Analyst,Healthcare,3,115650,28,New York,Claude,High,Veteran,In-Office
+Julie Singh,Paralegal,Legal,3,146715,18,New York,Harvey,High,Senior,In-Office
+Brian Kim,Nurse,Healthcare,4,58003,18,Chicago,Claude,Low,Senior,In-Office
+David Fields,Nurse,Healthcare,5,189242,3,Austin,MedpaLM,Very High,Mid,In-Office
+Leslie Bridges,Data Analyst,Tech,3,142863,32,Remote,Github Copilot,High,Veteran,Remote
+Veronica Gillespie,HR Manager,Human Resources,5,171088,10,New York,Scribe AI,Very High,Senior,In-Office
+Jennifer Morales,Teacher,Education,2,41567,18,Boston,Google Gemini,Low,Senior,In-Office
+Jennifer Thompson,Software Engineer,Tech,3,154635,21,Chicago,Claude,Very High,Senior,In-Office
+Shannon Campbell,Teacher,Education,4,146877,2,San Francisco,Claude,High,Entry,In-Office
+Cindy Mckinney,HR Manager,Human Resources,3,176450,4,Austin,Writer.com,Very High,Mid,In-Office
+Manuel Barnett,HR Manager,Human Resources,1,175115,15,Boston,Writer.com,Very High,Senior,In-Office
+Brian Anderson,Software Engineer,Tech,3,96027,9,San Francisco,ChatGPT,Medium,Mid,In-Office
+Diana Owens,HR Manager,Human Resources,4,87561,11,San Francisco,ChatGPT,Medium,Senior,In-Office
+Brian Juarez MD,Lawyer,Legal,3,113959,23,New York,Claude,High,Senior,In-Office
+Olivia Bowen,Doctor,Healthcare,4,89750,28,Boston,MedpaLM,Medium,Veteran,In-Office
+James Fuller,Paralegal,Legal,4,127095,17,Chicago,Harvey,High,Senior,In-Office
+Darlene Lee,Doctor,Healthcare,2,191218,30,Remote,MedpaLM,Very High,Veteran,Remote
+Alexandra Ware,Data Analyst,Finance,4,74968,5,New York,Claude,Medium,Mid,In-Office
+Casey Clark,Marketing Manager,Media & Marketing,1,111652,6,New York,Scribe AI,High,Mid,In-Office
+Michael Chaney,Paralegal,Legal,4,50202,29,Remote,DoNotPay,Low,Veteran,Remote
+Richard Thomas,HR Manager,Human Resources,4,94095,34,Boston,Writer.com,Medium,Veteran,In-Office
+Jose Giles,Lawyer,Legal,1,123170,17,San Francisco,Claude,High,Senior,In-Office
+Fernando Smith,Software Engineer,Tech,4,189188,9,Austin,Github Copilot,Very High,Mid,In-Office
+Stephanie Hernandez,Teacher,Education,1,85394,5,Seattle,Claude,Medium,Mid,In-Office
+Alison Hayes,Data Analyst,Media & Marketing,2,180775,27,Chicago,Github Copilot,Very High,Veteran,In-Office
+Monica Cardenas,Nurse,Healthcare,4,124967,15,Seattle,Claude,High,Senior,In-Office
+James Hicks,Software Engineer,Tech,3,192044,4,Chicago,Github Copilot,Very High,Mid,In-Office
+Joseph Murray,Doctor,Healthcare,4,147909,20,New York,Claude,High,Senior,In-Office
+Amy Walker,Paralegal,Legal,2,81897,29,Austin,Harvey,Medium,Veteran,In-Office
+Jeffrey Savage,Copywriter,Media & Marketing,5,85590,7,Remote,ChatGPT,Medium,Mid,Remote
+Michael Rodgers,Marketing Manager,Media & Marketing,5,63756,13,Remote,Writer.com,Medium,Senior,Remote
+Heidi Evans,Radiologist,Healthcare,5,108100,15,Austin,Claude,High,Senior,In-Office
+John Peterson,Lawyer,Legal,5,147078,32,Seattle,DoNotPay,High,Veteran,In-Office
+Emily Williams,Radiologist,Healthcare,1,176064,26,Seattle,Claude,Very High,Veteran,In-Office
+Michael Price,Customer Support Agent,Finance,5,60245,27,New York,ChatGPT,Medium,Veteran,In-Office
+Valerie Mitchell,Nurse,Healthcare,3,104806,20,Boston,MedpaLM,High,Senior,In-Office
+Melissa Stewart,Technical Recruiter,Human Resources,3,148744,15,Remote,Scribe AI,High,Senior,Remote
+David Macdonald,Lawyer,Legal,1,145932,32,Austin,Harvey,High,Veteran,In-Office
+Daniel Walsh,Data Analyst,Finance,2,64369,16,Remote,Github Copilot,Medium,Senior,Remote
+Manuel Paul,Doctor,Healthcare,1,133054,11,Boston,MedpaLM,High,Senior,In-Office
+Andrew Donaldson,Software Engineer,Tech,3,42067,8,New York,Github Copilot,Low,Mid,In-Office
+Joshua Duran,Software Engineer,Tech,4,176688,2,Seattle,Claude,Very High,Entry,In-Office
+Jamie Patterson,Nurse,Healthcare,1,85202,12,San Francisco,MedpaLM,Medium,Senior,In-Office
+Kevin Jackson,Copywriter,Media & Marketing,5,62027,16,Austin,Writer.com,Medium,Senior,In-Office
+Andrew Edwards,HR Manager,Human Resources,4,131925,10,Chicago,ChatGPT,High,Senior,In-Office
+Susan King,HR Manager,Human Resources,1,177480,5,New York,Scribe AI,Very High,Mid,In-Office
+Tina Martinez,Software Engineer,Tech,5,99773,0,Seattle,ChatGPT,Medium,Entry,In-Office
+Lindsey Garrett,Technical Recruiter,Media & Marketing,1,71557,35,San Francisco,ChatGPT,Medium,Veteran,In-Office
+Lisa Martinez,Financial Analyst,Healthcare,4,176812,19,Chicago,Perplexity AI,Very High,Senior,In-Office
+Andrew Clark,Doctor,Healthcare,5,46837,25,Remote,MedpaLM,Low,Veteran,Remote
+Ryan Hall,Nurse,Healthcare,2,154221,18,New York,Claude,Very High,Senior,In-Office
+Joseph Johnson,Doctor,Healthcare,5,151219,10,San Francisco,Claude,Very High,Senior,In-Office
+Timothy Odom,Doctor,Healthcare,4,53481,18,Remote,Claude,Low,Senior,Remote
+Rebecca Ross,Technical Recruiter,Finance,2,194033,10,Boston,Scribe AI,Very High,Senior,In-Office
+Annette Boyd,Radiologist,Healthcare,5,142463,19,Austin,Claude,High,Senior,In-Office
+Jackie Fuller,Lawyer,Legal,5,167486,9,Austin,Harvey,Very High,Mid,In-Office
+Ms. Jillian Mcdonald,Customer Support Agent,Media & Marketing,2,182341,15,Seattle,ChatGPT,Very High,Senior,In-Office
+Paul Buchanan,Customer Support Agent,Media & Marketing,1,48770,24,Remote,Perplexity AI,Low,Senior,Remote
+Patrick Hayes,HR Manager,Human Resources,5,116176,25,New York,Scribe AI,High,Veteran,In-Office
+Gregg Castro,Nurse,Healthcare,4,131937,10,San Francisco,MedpaLM,High,Senior,In-Office
+Ronald Santiago,Software Engineer,Tech,1,116002,28,New York,ChatGPT,High,Veteran,In-Office
+Donald Morgan,HR Manager,Human Resources,4,113813,15,Seattle,Writer.com,High,Senior,In-Office
+Mathew Andersen,Customer Support Agent,Media & Marketing,4,53835,23,Chicago,ChatGPT,Low,Senior,In-Office
+Gregory Thompson,Teacher,Education,2,182850,29,Austin,Google Gemini,Very High,Veteran,In-Office
+Jason Pena,Paralegal,Legal,5,132332,8,Chicago,DoNotPay,High,Mid,In-Office
+Bailey Jones,Software Engineer,Tech,4,196525,20,Chicago,Claude,Very High,Senior,In-Office
+Kimberly Haynes,Data Analyst,Finance,4,85194,6,Austin,Claude,Medium,Mid,In-Office
+Katherine Curry,Doctor,Healthcare,4,49340,16,Boston,Claude,Low,Senior,In-Office
+Andrew Ramos,Copywriter,Media & Marketing,1,171468,34,Seattle,Writer.com,Very High,Veteran,In-Office
+Charles King,HR Manager,Human Resources,4,115647,15,Seattle,Writer.com,High,Senior,In-Office
+John Taylor,Customer Support Agent,Finance,1,43641,33,Austin,Perplexity AI,Low,Veteran,In-Office
+Michael Mitchell,Teacher,Education,2,103023,21,Boston,ChatGPT,High,Senior,In-Office
+Joel Simmons,Paralegal,Legal,3,196266,24,Seattle,Claude,Very High,Senior,In-Office
+Amber Crawford,HR Manager,Human Resources,4,139156,21,Seattle,Writer.com,High,Senior,In-Office
+Angelica Barr,Nurse,Healthcare,2,183271,34,Chicago,Claude,Very High,Veteran,In-Office
+Jennifer Mueller,Radiologist,Healthcare,5,112202,32,San Francisco,MedpaLM,High,Veteran,In-Office
+Bobby Cantrell,Copywriter,Tech,1,109225,2,Chicago,Writer.com,High,Entry,In-Office
+Tyler Peck MD,Marketing Manager,Media & Marketing,2,41838,26,New York,Scribe AI,Low,Veteran,In-Office
+Brian Avila,Software Engineer,Tech,1,52680,3,Chicago,ChatGPT,Low,Mid,In-Office
+Michelle White,Paralegal,Legal,2,197122,11,San Francisco,Harvey,Very High,Senior,In-Office
+Caitlin Williams,Doctor,Healthcare,3,199407,25,Seattle,MedpaLM,Very High,Veteran,In-Office
+Dana Griffin,Data Analyst,Finance,3,141566,7,Boston,ChatGPT,High,Mid,In-Office
+Ashley Bender,Paralegal,Legal,3,43566,24,Seattle,DoNotPay,Low,Senior,In-Office
+Erin Ward,Radiologist,Healthcare,4,72412,18,Remote,Claude,Medium,Senior,Remote
+Rachael Peck,Radiologist,Healthcare,1,139472,24,Boston,MedpaLM,High,Senior,In-Office
+Douglas Thomas,Marketing Manager,Media & Marketing,1,111504,35,San Francisco,Writer.com,High,Veteran,In-Office
+Chelsey Huffman,Financial Analyst,Finance,4,103906,4,Chicago,Perplexity AI,High,Mid,In-Office
+Steven Rodriguez,Customer Support Agent,Healthcare,4,43013,30,Remote,Perplexity AI,Low,Veteran,Remote
+Emily Hernandez,Radiologist,Healthcare,3,48244,7,Boston,MedpaLM,Low,Mid,In-Office
+Kiara Le,Data Analyst,Media & Marketing,1,199137,28,Chicago,Claude,Very High,Veteran,In-Office
+Justin Marshall,Lawyer,Legal,5,197308,3,New York,Claude,Very High,Mid,In-Office
+Peggy Blanchard,Paralegal,Legal,2,199933,5,New York,Claude,Very High,Mid,In-Office
+Kyle Gutierrez,Marketing Manager,Media & Marketing,2,125145,11,Remote,ChatGPT,High,Senior,Remote
+Alison Nguyen,Software Engineer,Tech,5,159630,10,Seattle,ChatGPT,Very High,Senior,In-Office
+Jeffrey Malone,Marketing Manager,Media & Marketing,1,189575,13,Remote,Writer.com,Very High,Senior,Remote
+Carrie Shea,Technical Recruiter,Human Resources,4,104808,8,Remote,ChatGPT,High,Mid,Remote
+Sabrina Mayer,Software Engineer,Tech,5,141146,6,San Francisco,ChatGPT,High,Mid,In-Office
+Kathleen Ball,Nurse,Healthcare,3,139240,29,San Francisco,MedpaLM,High,Veteran,In-Office
+James Morris,Teacher,Education,1,186092,4,San Francisco,Google Gemini,Very High,Mid,In-Office
+Christopher Mccormick Jr.,Financial Analyst,Healthcare,3,190793,29,Chicago,Perplexity AI,Very High,Veteran,In-Office
+Brandon Turner,Lawyer,Legal,4,94282,25,Boston,DoNotPay,Medium,Veteran,In-Office
+Kelly Heath,Lawyer,Legal,5,60121,6,New York,Claude,Medium,Mid,In-Office
+Dana Savage,Copywriter,Media & Marketing,4,83693,18,San Francisco,Writer.com,Medium,Senior,In-Office
+Denise Morales,Software Engineer,Tech,4,79861,24,Boston,ChatGPT,Medium,Senior,In-Office
+Cameron Martinez,Paralegal,Legal,2,66301,34,San Francisco,DoNotPay,Medium,Veteran,In-Office
+Laura Wilson,Data Analyst,Media & Marketing,4,191076,1,Chicago,Claude,Very High,Entry,In-Office
+Laura Lee,HR Manager,Human Resources,5,179914,3,Seattle,Writer.com,Very High,Mid,In-Office
+Nicholas Rogers,Copywriter,Media & Marketing,2,82200,9,Seattle,ChatGPT,Medium,Mid,In-Office
+Ryan King,Copywriter,Media & Marketing,2,132277,28,Boston,Writer.com,High,Veteran,In-Office
+Nathaniel Jarvis,Customer Support Agent,Media & Marketing,3,185377,34,Austin,Perplexity AI,Very High,Veteran,In-Office
+Lisa Simpson,Financial Analyst,Healthcare,3,139065,12,Boston,Perplexity AI,High,Senior,In-Office
+John Garcia,Doctor,Healthcare,1,196268,33,Boston,MedpaLM,Very High,Veteran,In-Office
+Erica Marquez,Teacher,Education,1,61465,13,Seattle,Google Gemini,Medium,Senior,In-Office
+Tom Garza,Marketing Manager,Media & Marketing,2,149145,4,Chicago,Writer.com,High,Mid,In-Office
+Katherine Hughes,Doctor,Healthcare,1,84824,16,Boston,MedpaLM,Medium,Senior,In-Office
+Stephen Moore,Data Analyst,Healthcare,2,177053,10,San Francisco,Claude,Very High,Senior,In-Office
+Sarah Proctor,Lawyer,Legal,3,54060,24,Chicago,Claude,Low,Senior,In-Office
+Tara Sharp,Software Engineer,Tech,5,171395,14,San Francisco,ChatGPT,Very High,Senior,In-Office
+Ashley Shaffer,Lawyer,Legal,4,148667,34,New York,Harvey,High,Veteran,In-Office
+Alexander Lozano,Software Engineer,Tech,5,72801,24,Seattle,Claude,Medium,Senior,In-Office
+Jared Ellis,Lawyer,Legal,2,186487,26,Austin,DoNotPay,Very High,Veteran,In-Office
+Melinda Holmes,Data Analyst,Finance,3,141338,1,Boston,ChatGPT,High,Entry,In-Office
+Edgar Rodriguez,Paralegal,Legal,2,78842,16,New York,Harvey,Medium,Senior,In-Office
+Brett Owens,Radiologist,Healthcare,3,88736,7,Remote,MedpaLM,Medium,Mid,Remote
+Anthony Smith,Doctor,Healthcare,2,92031,19,Boston,Claude,Medium,Senior,In-Office
+Ashley Jones,Radiologist,Healthcare,5,93092,10,Remote,MedpaLM,Medium,Senior,Remote
+Austin Smith,Radiologist,Healthcare,5,115425,4,Seattle,MedpaLM,High,Mid,In-Office
+Wendy Green,Radiologist,Healthcare,4,95838,12,Seattle,MedpaLM,Medium,Senior,In-Office
+Angela Wilkinson,Teacher,Education,2,108057,7,Boston,Claude,High,Mid,In-Office
+Audrey Brown,Radiologist,Healthcare,4,119826,32,Austin,Claude,High,Veteran,In-Office
+Holly Lozano,Paralegal,Legal,2,82856,15,Seattle,Harvey,Medium,Senior,In-Office
+Joseph Johnson Jr.,Doctor,Healthcare,2,41297,0,Boston,MedpaLM,Low,Entry,In-Office
+Katie Smith,Technical Recruiter,Healthcare,1,131198,0,Austin,Scribe AI,High,Entry,In-Office
+Jordan Montgomery,Teacher,Education,5,76262,29,Austin,Claude,Medium,Veteran,In-Office
+Shawn Ruiz,Copywriter,Media & Marketing,4,156486,4,Boston,ChatGPT,Very High,Mid,In-Office
+Brittany Smith,Radiologist,Healthcare,3,165683,26,Austin,MedpaLM,Very High,Veteran,In-Office
+Patricia Sparks,Software Engineer,Tech,4,138660,17,Boston,Claude,High,Senior,In-Office
+Angela Chavez,Marketing Manager,Media & Marketing,4,167256,29,New York,ChatGPT,Very High,Veteran,In-Office
+Mathew Lozano,HR Manager,Human Resources,2,122867,21,Boston,Writer.com,High,Senior,In-Office
+Colin Russell,Lawyer,Legal,5,145786,28,San Francisco,DoNotPay,High,Veteran,In-Office
+Tony Lee,Technical Recruiter,Healthcare,3,173231,9,Boston,ChatGPT,Very High,Mid,In-Office
+Susan Reed,Financial Analyst,Healthcare,1,135815,6,Chicago,Perplexity AI,High,Mid,In-Office
+Clifford Diaz,Data Analyst,Finance,3,43868,21,New York,ChatGPT,Low,Senior,In-Office
+David Stephenson,Nurse,Healthcare,3,178578,33,Chicago,MedpaLM,Very High,Veteran,In-Office
+Robert Pearson,Teacher,Education,2,129706,9,Austin,Google Gemini,High,Mid,In-Office
+Darrell Reed,Copywriter,Media & Marketing,1,98675,8,Austin,Writer.com,Medium,Mid,In-Office
+Eric Bullock,Marketing Manager,Media & Marketing,3,179994,21,New York,ChatGPT,Very High,Senior,In-Office
+Kevin Ruiz,Radiologist,Healthcare,1,169724,16,Chicago,Claude,Very High,Senior,In-Office
+Tammy Berry PhD,Marketing Manager,Media & Marketing,5,154904,4,Seattle,Writer.com,Very High,Mid,In-Office
+Jonathan Patterson,Software Engineer,Tech,5,101169,15,Austin,Github Copilot,High,Senior,In-Office
+Steve White,HR Manager,Human Resources,5,69284,31,Seattle,Writer.com,Medium,Veteran,In-Office
+Caroline Young,Radiologist,Healthcare,1,186311,12,Seattle,Claude,Very High,Senior,In-Office
+Jessica Barnes,Radiologist,Healthcare,1,58179,9,Boston,Claude,Low,Mid,In-Office
+Natasha Lopez,Marketing Manager,Media & Marketing,3,95354,18,San Francisco,Writer.com,Medium,Senior,In-Office
+Mary Sims,Doctor,Healthcare,5,42767,7,Seattle,MedpaLM,Low,Mid,In-Office
+Carly Farmer,Doctor,Healthcare,4,159828,5,Chicago,MedpaLM,Very High,Mid,In-Office
+Richard Mccullough,Financial Analyst,Finance,1,193028,19,Seattle,Perplexity AI,Very High,Senior,In-Office
+Julian Johnson,Paralegal,Legal,3,159734,31,New York,Harvey,Very High,Veteran,In-Office
+Jessica Reynolds,Customer Support Agent,Tech,2,163819,12,Chicago,ChatGPT,Very High,Senior,In-Office
+Beverly Cannon,Teacher,Education,5,141085,31,Austin,ChatGPT,High,Veteran,In-Office
+William Taylor,HR Manager,Human Resources,2,142916,11,Chicago,ChatGPT,High,Senior,In-Office
+Anita Bradford,Teacher,Education,3,65366,2,Boston,ChatGPT,Medium,Entry,In-Office
+Michael Cooper,Doctor,Healthcare,5,82049,10,New York,MedpaLM,Medium,Senior,In-Office
+James Krause,Paralegal,Legal,3,115707,24,San Francisco,Claude,High,Senior,In-Office
+Matthew Carter,Doctor,Healthcare,3,88802,26,New York,Claude,Medium,Veteran,In-Office
+Krista Smith,Technical Recruiter,Tech,1,172481,28,Chicago,Scribe AI,Very High,Veteran,In-Office
+Ricardo Morris,Data Analyst,Finance,2,67528,19,New York,Github Copilot,Medium,Senior,In-Office
+Shannon Levine,Doctor,Healthcare,4,44655,26,New York,MedpaLM,Low,Veteran,In-Office
+David Burns MD,Radiologist,Healthcare,4,54824,17,New York,MedpaLM,Low,Senior,In-Office
+Stephanie Adkins,HR Manager,Human Resources,5,115291,27,Seattle,ChatGPT,High,Veteran,In-Office
+Miguel House,Technical Recruiter,Finance,5,93491,0,Remote,ChatGPT,Medium,Entry,Remote
+Adam Shaw,Copywriter,Tech,1,118569,25,San Francisco,ChatGPT,High,Veteran,In-Office
+Andrew Fletcher,Software Engineer,Tech,2,86646,22,Boston,ChatGPT,Medium,Senior,In-Office
+Bryan Jackson,Doctor,Healthcare,3,74078,10,Chicago,Claude,Medium,Senior,In-Office
+Fred Vasquez,Lawyer,Legal,3,112622,20,New York,DoNotPay,High,Senior,In-Office
+Paul Knight,Marketing Manager,Media & Marketing,5,106087,27,Chicago,Writer.com,High,Veteran,In-Office
+Kristi Williams,HR Manager,Human Resources,2,175508,8,New York,Writer.com,Very High,Mid,In-Office
+James Hogan,Marketing Manager,Media & Marketing,4,146549,10,Chicago,Scribe AI,High,Senior,In-Office
+Julie Clark,Copywriter,Tech,3,73412,8,Seattle,ChatGPT,Medium,Mid,In-Office
+Penny Meyers,Data Analyst,Media & Marketing,4,131346,6,Boston,Claude,High,Mid,In-Office
+Brianna Nolan,Teacher,Education,5,129675,35,Seattle,ChatGPT,High,Veteran,In-Office
+Austin Tucker,Technical Recruiter,Finance,1,112003,16,Chicago,ChatGPT,High,Senior,In-Office
+Ellen Luna,Paralegal,Legal,5,164982,7,Chicago,Claude,Very High,Mid,In-Office
+Hunter Collins,Doctor,Healthcare,3,137615,14,Chicago,Claude,High,Senior,In-Office
+Samuel George,Nurse,Healthcare,2,163833,22,Chicago,Claude,Very High,Senior,In-Office
+Amanda Chang,Teacher,Education,2,151824,10,New York,Claude,Very High,Senior,In-Office
+Sarah Morrison,Lawyer,Legal,2,164187,25,Remote,Claude,Very High,Veteran,Remote
+William Sparks,Doctor,Healthcare,1,196720,29,Austin,Claude,Very High,Veteran,In-Office
+Virginia Young,Copywriter,Media & Marketing,2,168888,19,Seattle,ChatGPT,Very High,Senior,In-Office
+Michelle Adams,Nurse,Healthcare,5,135414,16,San Francisco,MedpaLM,High,Senior,In-Office
+Kelly Hammond,HR Manager,Human Resources,3,92113,8,San Francisco,ChatGPT,Medium,Mid,In-Office
+Jessica Hopkins,HR Manager,Human Resources,3,184475,13,Boston,ChatGPT,Very High,Senior,In-Office
+Jason Heath,Copywriter,Media & Marketing,1,121158,27,Chicago,Writer.com,High,Veteran,In-Office
+Lisa Gentry,Lawyer,Legal,3,174322,27,Boston,DoNotPay,Very High,Veteran,In-Office
+Bradley Baker,Radiologist,Healthcare,2,90239,17,Chicago,MedpaLM,Medium,Senior,In-Office
+Jennifer Tucker,Marketing Manager,Media & Marketing,4,81152,29,Remote,ChatGPT,Medium,Veteran,Remote
+Donald Hudson,Doctor,Healthcare,1,146463,30,Chicago,MedpaLM,High,Veteran,In-Office
+Christy Castro,Customer Support Agent,Tech,3,90204,32,Boston,Perplexity AI,Medium,Veteran,In-Office
+James Newman,Radiologist,Healthcare,3,74334,14,Boston,MedpaLM,Medium,Senior,In-Office
+Alicia Jordan DVM,Nurse,Healthcare,4,127429,6,Chicago,MedpaLM,High,Mid,In-Office
+Cheryl Morton,Marketing Manager,Media & Marketing,3,192809,8,Remote,Scribe AI,Very High,Mid,Remote
+Amber White,Customer Support Agent,Tech,4,70824,5,New York,Perplexity AI,Medium,Mid,In-Office
+Melanie Medina,Marketing Manager,Media & Marketing,3,98264,6,San Francisco,Writer.com,Medium,Mid,In-Office
+Kristine Gonzalez,Data Analyst,Media & Marketing,2,62934,22,Chicago,ChatGPT,Medium,Senior,In-Office
+Stephen Wiley,Customer Support Agent,Healthcare,2,56632,4,San Francisco,ChatGPT,Low,Mid,In-Office
+Daniel Nelson,Paralegal,Legal,5,104575,33,San Francisco,Harvey,High,Veteran,In-Office
+Joe Jimenez,Software Engineer,Tech,5,79421,20,New York,Claude,Medium,Senior,In-Office
+Leah Richardson,Teacher,Education,1,95472,19,New York,Google Gemini,Medium,Senior,In-Office
+Francisco Wilson,Software Engineer,Tech,1,66795,1,Austin,Github Copilot,Medium,Entry,In-Office
+Mr. William Dean,Marketing Manager,Media & Marketing,4,198021,22,Austin,Scribe AI,Very High,Senior,In-Office
+Ronald Hill,Teacher,Education,4,183724,27,Chicago,Google Gemini,Very High,Veteran,In-Office
+Nicole Wood,Data Analyst,Healthcare,3,132903,18,Remote,Github Copilot,High,Senior,Remote
+Nathaniel Clark,Copywriter,Media & Marketing,2,159632,11,Seattle,ChatGPT,Very High,Senior,In-Office
+Maureen Giles,Lawyer,Legal,2,194902,11,New York,Harvey,Very High,Senior,In-Office
+Crystal Smith,Software Engineer,Tech,4,90649,13,Boston,Github Copilot,Medium,Senior,In-Office
+Sharon Orozco,HR Manager,Human Resources,5,43481,4,Chicago,Writer.com,Low,Mid,In-Office
+William King,Doctor,Healthcare,5,124064,16,Austin,Claude,High,Senior,In-Office
+Paul Smith,Lawyer,Legal,2,161214,4,Austin,Harvey,Very High,Mid,In-Office
+John Lee,Software Engineer,Tech,4,144795,27,San Francisco,ChatGPT,High,Veteran,In-Office
+Donna Bryant,Doctor,Healthcare,2,75732,17,Chicago,Claude,Medium,Senior,In-Office
+George Snyder,Radiologist,Healthcare,1,173202,1,Remote,Claude,Very High,Entry,Remote
+Michael Scott,Software Engineer,Tech,5,85172,23,Boston,Github Copilot,Medium,Senior,In-Office
+William Richards,Financial Analyst,Healthcare,3,193930,1,New York,ChatGPT,Very High,Entry,In-Office
+Evan Mitchell,Nurse,Healthcare,4,139225,34,Remote,MedpaLM,High,Veteran,Remote
+David Snyder,Technical Recruiter,Human Resources,5,85428,27,San Francisco,ChatGPT,Medium,Veteran,In-Office
+Angela Clark,Customer Support Agent,Media & Marketing,5,44407,33,Austin,Perplexity AI,Low,Veteran,In-Office
+Martin Cobb,Lawyer,Legal,5,76832,23,Seattle,Harvey,Medium,Senior,In-Office
+Ashley Yates,Doctor,Healthcare,3,167366,35,Remote,MedpaLM,Very High,Veteran,Remote
+Mr. Jordan Choi Jr.,Marketing Manager,Media & Marketing,1,186683,35,New York,Writer.com,Very High,Veteran,In-Office
+Edwin Moore,Paralegal,Legal,1,131887,18,New York,DoNotPay,High,Senior,In-Office
+Joshua Watson,Lawyer,Legal,2,117106,28,Boston,Harvey,High,Veteran,In-Office
+Crystal Villa,Nurse,Healthcare,2,60597,20,San Francisco,Claude,Medium,Senior,In-Office
+Linda Leon,Data Analyst,Tech,4,138365,13,Seattle,Claude,High,Senior,In-Office
+Stephen Howe,Customer Support Agent,Tech,5,97028,2,Seattle,Perplexity AI,Medium,Entry,In-Office
+Patricia Norton,Marketing Manager,Media & Marketing,4,49038,0,San Francisco,ChatGPT,Low,Entry,In-Office
+Nicholas Conley,Customer Support Agent,Healthcare,5,61523,8,Boston,ChatGPT,Medium,Mid,In-Office
+Deborah Greene,Paralegal,Legal,1,107396,30,San Francisco,Harvey,High,Veteran,In-Office
+Ralph Sullivan,Teacher,Education,1,128389,14,New York,Claude,High,Senior,In-Office
+Lance Ingram,Technical Recruiter,Human Resources,5,183329,25,Austin,ChatGPT,Very High,Veteran,In-Office
+Tammy Ewing,Copywriter,Media & Marketing,2,168789,0,Remote,ChatGPT,Very High,Entry,Remote
+Michelle Small,Nurse,Healthcare,4,184161,25,Chicago,MedpaLM,Very High,Veteran,In-Office
+Vincent Rogers,Lawyer,Legal,4,111052,15,San Francisco,Claude,High,Senior,In-Office
+Stephen Mccoy,HR Manager,Human Resources,2,78689,3,Seattle,Writer.com,Medium,Mid,In-Office
+Andrew Randall,Copywriter,Tech,1,132168,27,Chicago,Writer.com,High,Veteran,In-Office
+Ashley Parsons,Software Engineer,Tech,5,144159,13,San Francisco,Claude,High,Senior,In-Office
+Rachel Banks,Doctor,Healthcare,1,188804,7,Austin,Claude,Very High,Mid,In-Office
+Derek Huffman,Nurse,Healthcare,2,100491,34,San Francisco,Claude,High,Veteran,In-Office
+Brian Peterson,Doctor,Healthcare,2,101572,15,Austin,Claude,High,Senior,In-Office
+Christopher Smith,Paralegal,Legal,3,169179,17,Chicago,Harvey,Very High,Senior,In-Office
+Tiffany Olson,Software Engineer,Tech,5,130974,34,Chicago,ChatGPT,High,Veteran,In-Office
+Janet Morse,Radiologist,Healthcare,1,174901,15,Chicago,Claude,Very High,Senior,In-Office
+David Ferguson,Customer Support Agent,Healthcare,2,176469,5,New York,ChatGPT,Very High,Mid,In-Office
+Tammy Davis,Financial Analyst,Finance,4,56867,25,Austin,ChatGPT,Low,Veteran,In-Office
+Nicole Lee,Data Analyst,Finance,5,171553,33,Remote,Claude,Very High,Veteran,Remote
+Virginia Thomas,Copywriter,Tech,1,75126,34,Boston,ChatGPT,Medium,Veteran,In-Office
+Sarah Sullivan,Radiologist,Healthcare,4,67769,27,San Francisco,MedpaLM,Medium,Veteran,In-Office
+Shawn Becker,Financial Analyst,Finance,5,122893,11,Boston,ChatGPT,High,Senior,In-Office
+Darren Sherman,Financial Analyst,Healthcare,2,74875,10,New York,ChatGPT,Medium,Senior,In-Office
+Rebecca Simon,HR Manager,Human Resources,1,51642,6,San Francisco,ChatGPT,Low,Mid,In-Office
+Nicole Bradley,Data Analyst,Finance,5,56176,22,Seattle,ChatGPT,Low,Senior,In-Office
+Donald Freeman,Copywriter,Tech,1,80944,21,Austin,ChatGPT,Medium,Senior,In-Office
+Jeffery Miller,Doctor,Healthcare,2,74559,15,Chicago,Claude,Medium,Senior,In-Office
+Denise Day DVM,Doctor,Healthcare,5,91072,16,New York,MedpaLM,Medium,Senior,In-Office
+Vickie Soto,Radiologist,Healthcare,5,131624,20,Boston,Claude,High,Senior,In-Office
+Lori Hudson,Lawyer,Legal,4,157616,29,Remote,Claude,Very High,Veteran,Remote
+Chad Lopez,HR Manager,Human Resources,3,73391,32,New York,Writer.com,Medium,Veteran,In-Office
+Jason Wade,Financial Analyst,Healthcare,1,156068,15,San Francisco,ChatGPT,Very High,Senior,In-Office
+Jennifer Rodriguez,Data Analyst,Finance,2,53232,0,Remote,ChatGPT,Low,Entry,Remote
+Sandra Maxwell,HR Manager,Human Resources,2,93409,29,Chicago,Scribe AI,Medium,Veteran,In-Office
+Brian Mitchell,Lawyer,Legal,3,156362,33,San Francisco,DoNotPay,Very High,Veteran,In-Office
+Philip Mata,Financial Analyst,Healthcare,3,182037,18,Boston,Perplexity AI,Very High,Senior,In-Office
+James Castro,Software Engineer,Tech,2,127567,27,Austin,Github Copilot,High,Veteran,In-Office
+Jason Lopez,Financial Analyst,Healthcare,4,144441,14,Boston,Perplexity AI,High,Senior,In-Office
+Felicia Miles,Nurse,Healthcare,1,129528,10,New York,MedpaLM,High,Senior,In-Office
+Valerie Newman,Paralegal,Legal,1,137200,6,Chicago,DoNotPay,High,Mid,In-Office
+Katie Bailey,Data Analyst,Finance,2,157337,15,Boston,Github Copilot,Very High,Senior,In-Office
+Steven Brown,Copywriter,Tech,2,46261,13,Boston,ChatGPT,Low,Senior,In-Office
+Barbara Carr,Software Engineer,Tech,2,77195,29,Seattle,ChatGPT,Medium,Veteran,In-Office
+Shirley Brandt,HR Manager,Human Resources,4,139209,13,Chicago,ChatGPT,High,Senior,In-Office
+Nancy Johnson,Marketing Manager,Media & Marketing,1,97082,23,Chicago,ChatGPT,Medium,Senior,In-Office
+Lisa Alvarez,HR Manager,Human Resources,4,194024,31,Boston,Writer.com,Very High,Veteran,In-Office
+Timothy Frye,Teacher,Education,3,129059,18,New York,Google Gemini,High,Senior,In-Office
+Gerald Keith,Nurse,Healthcare,1,152147,21,San Francisco,Claude,Very High,Senior,In-Office
+Dennis Mitchell,Data Analyst,Finance,3,183941,19,Austin,Claude,Very High,Senior,In-Office
+Christopher Roberts,Financial Analyst,Finance,4,108578,23,Austin,Perplexity AI,High,Senior,In-Office
+Jennifer Wagner,Teacher,Education,4,146012,32,Austin,ChatGPT,High,Veteran,In-Office
+Robert Johnson,Data Analyst,Finance,1,180562,15,New York,ChatGPT,Very High,Senior,In-Office
+William Wilkerson,Paralegal,Legal,3,100065,13,San Francisco,Claude,High,Senior,In-Office
+Matthew Estrada,Teacher,Education,5,159907,3,Chicago,ChatGPT,Very High,Mid,In-Office
+David Jensen,Software Engineer,Tech,2,83703,18,Boston,Claude,Medium,Senior,In-Office
+Theresa Boone PhD,Radiologist,Healthcare,4,144591,15,Seattle,MedpaLM,High,Senior,In-Office
+Adam Hammond,Software Engineer,Tech,2,187026,8,Austin,Github Copilot,Very High,Mid,In-Office
+Mallory Miller,Copywriter,Media & Marketing,5,109842,18,Boston,Writer.com,High,Senior,In-Office
+Ricky Nelson,Teacher,Education,4,153764,18,San Francisco,Claude,Very High,Senior,In-Office
+Kenneth Lynn,Radiologist,Healthcare,3,146040,10,Chicago,Claude,High,Senior,In-Office
+Tamara Blair,Financial Analyst,Healthcare,2,192246,23,Austin,Perplexity AI,Very High,Senior,In-Office
+William Mcgee,Software Engineer,Tech,2,118220,17,San Francisco,Github Copilot,High,Senior,In-Office
+Anthony Nelson,Data Analyst,Tech,1,136122,31,Chicago,Github Copilot,High,Veteran,In-Office
+Kara Paul,Financial Analyst,Healthcare,5,48440,11,Remote,ChatGPT,Low,Senior,Remote
+Angel Brown,HR Manager,Human Resources,4,97623,31,Chicago,ChatGPT,Medium,Veteran,In-Office
+Lisa Evans,Lawyer,Legal,2,165231,0,New York,Claude,Very High,Entry,In-Office
+Sheena Myers,Paralegal,Legal,2,71980,5,Remote,Harvey,Medium,Mid,Remote
+Cody Chaney,Doctor,Healthcare,2,179134,18,Boston,Claude,Very High,Senior,In-Office
+Suzanne White,Marketing Manager,Media & Marketing,5,124170,20,New York,Writer.com,High,Senior,In-Office
+John Mercado,Software Engineer,Tech,3,98042,21,Seattle,ChatGPT,Medium,Senior,In-Office
+Tony Nicholson,Doctor,Healthcare,5,114517,9,Remote,MedpaLM,High,Mid,Remote
+Michael Sutton,Teacher,Education,4,101086,13,Remote,Claude,High,Senior,Remote
+Alyssa Douglas,Copywriter,Tech,1,127284,11,Chicago,Writer.com,High,Senior,In-Office
+John Sims,Marketing Manager,Media & Marketing,2,75864,35,Austin,Writer.com,Medium,Veteran,In-Office
+Mark Freeman,Doctor,Healthcare,5,88262,14,Austin,Claude,Medium,Senior,In-Office
+Melissa Bryan,Copywriter,Media & Marketing,1,144817,29,Chicago,ChatGPT,High,Veteran,In-Office
+Sarah Evans,HR Manager,Human Resources,2,157856,22,San Francisco,Scribe AI,Very High,Senior,In-Office
+Benjamin Ramirez,Copywriter,Media & Marketing,2,161745,35,Austin,ChatGPT,Very High,Veteran,In-Office
+Michael Silva,Doctor,Healthcare,4,182984,34,Remote,MedpaLM,Very High,Veteran,Remote
+Elizabeth Nunez,Financial Analyst,Healthcare,1,121923,16,New York,Perplexity AI,High,Senior,In-Office
+William Cruz,Radiologist,Healthcare,1,70059,33,Chicago,MedpaLM,Medium,Veteran,In-Office
+David Castro,Marketing Manager,Media & Marketing,5,67713,31,New York,Scribe AI,Medium,Veteran,In-Office
+Kimberly Juarez,Paralegal,Legal,3,162948,29,San Francisco,Harvey,Very High,Veteran,In-Office
+Stephen Luna,Copywriter,Media & Marketing,3,108914,5,Seattle,ChatGPT,High,Mid,In-Office
+Jonathan Anderson,Customer Support Agent,Tech,3,154174,4,Chicago,Perplexity AI,Very High,Mid,In-Office
+Christopher Larson,Customer Support Agent,Tech,1,151621,21,Austin,Perplexity AI,Very High,Senior,In-Office
+Kimberly Williams,Radiologist,Healthcare,2,199200,12,Seattle,MedpaLM,Very High,Senior,In-Office
+Amanda Morris MD,Lawyer,Legal,4,138425,26,New York,Claude,High,Veteran,In-Office
+Brianna Wood,Copywriter,Tech,2,157494,9,Austin,ChatGPT,Very High,Mid,In-Office
+Joseph Reese,Marketing Manager,Media & Marketing,4,58713,0,Remote,Writer.com,Low,Entry,Remote
+Tommy Byrd,Paralegal,Legal,3,66646,2,New York,DoNotPay,Medium,Entry,In-Office
+Ronald Dean,Customer Support Agent,Media & Marketing,1,138695,13,Boston,Perplexity AI,High,Senior,In-Office
+Matthew Anderson,Technical Recruiter,Tech,4,89758,3,New York,ChatGPT,Medium,Mid,In-Office
+Samantha Bowen,Teacher,Education,2,46183,2,Seattle,Google Gemini,Low,Entry,In-Office
+Elizabeth Rivera,Nurse,Healthcare,3,125372,14,San Francisco,MedpaLM,High,Senior,In-Office
+Traci Reid,Teacher,Education,3,59748,29,Remote,ChatGPT,Low,Veteran,Remote
+Nicole Parrish,Teacher,Education,1,92029,6,Chicago,Claude,Medium,Mid,In-Office
+Christian Hernandez,Data Analyst,Finance,3,188955,3,Chicago,ChatGPT,Very High,Mid,In-Office
+Kimberly Thornton,Lawyer,Legal,1,155232,1,Seattle,DoNotPay,Very High,Entry,In-Office
+Travis Parks,Copywriter,Media & Marketing,2,56962,9,Remote,ChatGPT,Low,Mid,Remote
+Nichole Jones,Copywriter,Media & Marketing,1,114645,13,Seattle,Writer.com,High,Senior,In-Office
+Taylor Parsons,Marketing Manager,Media & Marketing,3,176038,11,Chicago,Writer.com,Very High,Senior,In-Office
+Jennifer Anderson,Customer Support Agent,Healthcare,5,120782,33,Chicago,Perplexity AI,High,Veteran,In-Office
+Kevin Scott,Software Engineer,Tech,1,116159,5,Remote,Github Copilot,High,Mid,Remote
+Carol Ward,Lawyer,Legal,4,145518,6,Chicago,Harvey,High,Mid,In-Office
+Beth Rice,Software Engineer,Tech,5,136802,1,Remote,Github Copilot,High,Entry,Remote
+Jennifer Hart,Teacher,Education,5,41959,6,New York,Claude,Low,Mid,In-Office
+David Wolfe,Software Engineer,Tech,5,148281,20,Remote,ChatGPT,High,Senior,Remote
+Johnny Vang,Radiologist,Healthcare,5,98353,7,New York,MedpaLM,Medium,Mid,In-Office
+Douglas Sanchez,Radiologist,Healthcare,2,150556,23,Remote,Claude,Very High,Senior,Remote
+Casey Herring,Copywriter,Media & Marketing,5,129354,11,Seattle,ChatGPT,High,Senior,In-Office
+Brenda Schmidt,Software Engineer,Tech,4,123484,8,Remote,Github Copilot,High,Mid,Remote
+Tiffany Pena,Financial Analyst,Healthcare,4,45967,17,San Francisco,Perplexity AI,Low,Senior,In-Office
+Kelsey Ramirez,Nurse,Healthcare,1,124351,2,Boston,Claude,High,Entry,In-Office
+Joshua Burgess,Data Analyst,Media & Marketing,1,100669,18,Seattle,ChatGPT,High,Senior,In-Office
+Casey Schwartz,Nurse,Healthcare,1,123585,10,Seattle,MedpaLM,High,Senior,In-Office
+Morgan Li,Copywriter,Tech,5,128080,17,Remote,ChatGPT,High,Senior,Remote
+Emily Collins,Radiologist,Healthcare,5,109513,20,New York,Claude,High,Senior,In-Office
+Christopher Gordon,Customer Support Agent,Healthcare,3,186682,29,Boston,ChatGPT,Very High,Veteran,In-Office
+Lauren Williams DDS,Customer Support Agent,Healthcare,2,64251,7,San Francisco,Perplexity AI,Medium,Mid,In-Office
+Whitney Acosta,Doctor,Healthcare,1,110372,12,San Francisco,Claude,High,Senior,In-Office
+Todd Hernandez,Financial Analyst,Finance,1,195358,15,Seattle,Perplexity AI,Very High,Senior,In-Office
+Mr. Angel Espinoza,Copywriter,Tech,4,76080,30,Boston,Writer.com,Medium,Veteran,In-Office
+Lorraine Yoder,Teacher,Education,3,79951,22,New York,Claude,Medium,Senior,In-Office
+Shannon Lawrence,Nurse,Healthcare,1,76765,34,Remote,MedpaLM,Medium,Veteran,Remote
+Calvin Donovan,Doctor,Healthcare,3,132729,24,Austin,MedpaLM,High,Senior,In-Office
+Jacob Watkins,Copywriter,Tech,5,160216,28,Seattle,ChatGPT,Very High,Veteran,In-Office
+Dr. Charlene Ward,HR Manager,Human Resources,1,99800,27,Remote,Writer.com,Medium,Veteran,Remote
+Sherri Jones,Teacher,Education,5,95807,6,New York,ChatGPT,Medium,Mid,In-Office
+Tanya Martinez,Copywriter,Tech,4,179103,14,Remote,Writer.com,Very High,Senior,Remote
+Mrs. Brenda Duncan DVM,Copywriter,Tech,4,158624,22,Boston,Writer.com,Very High,Senior,In-Office
+Ryan Gonzalez,Customer Support Agent,Finance,2,182959,31,Remote,Perplexity AI,Very High,Veteran,Remote
+Kimberly Eaton,Software Engineer,Tech,3,78670,19,Austin,Github Copilot,Medium,Senior,In-Office
+Lisa Gay,Radiologist,Healthcare,1,189088,1,Chicago,Claude,Very High,Entry,In-Office
+Yvonne Baker,Teacher,Education,1,144346,23,Boston,Google Gemini,High,Senior,In-Office
+Dana Anderson,Paralegal,Legal,3,40323,15,Remote,DoNotPay,Low,Senior,Remote
+Edward Murphy,Copywriter,Tech,5,198837,11,Boston,ChatGPT,Very High,Senior,In-Office
+Melissa Wong,Data Analyst,Media & Marketing,1,94956,2,Seattle,Claude,Medium,Entry,In-Office
+Nina Perez,Marketing Manager,Media & Marketing,4,47442,14,New York,Scribe AI,Low,Senior,In-Office
+Alexandria Bass,Paralegal,Legal,1,156238,30,New York,DoNotPay,Very High,Veteran,In-Office
+Carol Williams,Nurse,Healthcare,2,171517,10,San Francisco,Claude,Very High,Senior,In-Office
+Kathleen Taylor,Copywriter,Media & Marketing,5,194545,12,Chicago,Writer.com,Very High,Senior,In-Office
+Megan Hill,Financial Analyst,Finance,4,156907,31,Remote,Perplexity AI,Very High,Veteran,Remote
+Charles Harmon,Doctor,Healthcare,2,62777,16,Boston,MedpaLM,Medium,Senior,In-Office
+Thomas Mooney,Teacher,Education,1,46592,0,New York,Google Gemini,Low,Entry,In-Office
+Steven Moss,Lawyer,Legal,1,74213,15,Boston,Claude,Medium,Senior,In-Office
+Lorraine Hernandez,Marketing Manager,Media & Marketing,5,157128,25,Chicago,Scribe AI,Very High,Veteran,In-Office
+Rodney Smith,Teacher,Education,1,44127,9,New York,Google Gemini,Low,Mid,In-Office
+Lori Robertson,Doctor,Healthcare,2,177179,14,Chicago,Claude,Very High,Senior,In-Office
+Bryan Costa,Doctor,Healthcare,5,127256,33,Boston,MedpaLM,High,Veteran,In-Office
+Ann Meadows,Data Analyst,Media & Marketing,2,151816,20,San Francisco,ChatGPT,Very High,Senior,In-Office
+Teresa Steele,HR Manager,Human Resources,5,168723,11,Austin,Scribe AI,Very High,Senior,In-Office
+Kathleen Welch,Teacher,Education,1,180718,25,San Francisco,Claude,Very High,Veteran,In-Office
+Jeffrey Taylor,Data Analyst,Healthcare,3,187805,8,Boston,Github Copilot,Very High,Mid,In-Office
+Michelle Hopkins,HR Manager,Human Resources,2,126539,34,Boston,Writer.com,High,Veteran,In-Office
+Frederick Evans,Copywriter,Media & Marketing,2,156541,6,Chicago,Writer.com,Very High,Mid,In-Office
+Kiara Kelly,HR Manager,Human Resources,5,68726,19,Seattle,Scribe AI,Medium,Senior,In-Office
+Anthony Stone,Copywriter,Media & Marketing,5,167358,12,Seattle,Writer.com,Very High,Senior,In-Office
+Crystal Vasquez,Lawyer,Legal,4,49791,11,New York,Claude,Low,Senior,In-Office
+Amy Brown,Software Engineer,Tech,1,196912,20,San Francisco,Github Copilot,Very High,Senior,In-Office
+Mr. Jacob Matthews,Teacher,Education,5,140469,31,Chicago,Claude,High,Veteran,In-Office
+Mikayla Turner,Copywriter,Tech,1,122272,26,Chicago,Writer.com,High,Veteran,In-Office
+Christopher Sandoval,Financial Analyst,Finance,5,121298,32,New York,ChatGPT,High,Veteran,In-Office
+Tom Farrell,Copywriter,Media & Marketing,5,62678,10,Remote,Writer.com,Medium,Senior,Remote
+Michele Turner,Lawyer,Legal,1,129730,21,Boston,DoNotPay,High,Senior,In-Office
+Deanna Gray,Marketing Manager,Media & Marketing,5,64203,21,Boston,ChatGPT,Medium,Senior,In-Office
+Ashley Valdez,Data Analyst,Healthcare,3,154202,28,Austin,Claude,Very High,Veteran,In-Office
+Scott Warren,HR Manager,Human Resources,5,109817,13,Remote,Scribe AI,High,Senior,Remote
+Taylor Wells,Radiologist,Healthcare,5,55734,29,Chicago,MedpaLM,Low,Veteran,In-Office
+Teresa Tran,HR Manager,Human Resources,3,182177,3,New York,ChatGPT,Very High,Mid,In-Office
+Jermaine Ross,Marketing Manager,Media & Marketing,4,157676,12,New York,Writer.com,Very High,Senior,In-Office
+Brian Guzman,Radiologist,Healthcare,2,94605,7,Seattle,Claude,Medium,Mid,In-Office
+Daniel Blair,Lawyer,Legal,2,174593,12,Boston,Harvey,Very High,Senior,In-Office
+Timothy Patterson,Teacher,Education,2,183356,34,Remote,ChatGPT,Very High,Veteran,Remote
+Benjamin Campos,Doctor,Healthcare,4,192210,30,San Francisco,MedpaLM,Very High,Veteran,In-Office
+Jasmine Parks,Lawyer,Legal,4,127177,15,San Francisco,DoNotPay,High,Senior,In-Office
+Jorge Heath,Technical Recruiter,Human Resources,1,153387,16,San Francisco,ChatGPT,Very High,Senior,In-Office
+Sabrina Sanchez,Paralegal,Legal,1,143591,12,San Francisco,Claude,High,Senior,In-Office
+Benjamin Kim,Paralegal,Legal,4,170350,32,Austin,Harvey,Very High,Veteran,In-Office
+Daniel Shepherd,HR Manager,Human Resources,4,114005,22,Remote,ChatGPT,High,Senior,Remote
+Richard Johnson,Software Engineer,Tech,4,143593,28,Austin,ChatGPT,High,Veteran,In-Office
+Amy Jones,Technical Recruiter,Human Resources,1,182124,27,Remote,Scribe AI,Very High,Veteran,Remote
+Tiffany Harris,Nurse,Healthcare,5,170709,20,Chicago,Claude,Very High,Senior,In-Office
+Donna Fuller,Teacher,Education,2,76395,16,Boston,Google Gemini,Medium,Senior,In-Office
+Katie Rios,Doctor,Healthcare,4,61976,33,Boston,Claude,Medium,Veteran,In-Office
+Katherine Morgan,Data Analyst,Media & Marketing,4,143739,22,New York,Claude,High,Senior,In-Office
+Andre Brown,Radiologist,Healthcare,5,105237,1,Austin,Claude,High,Entry,In-Office
+Mrs. Melanie Smith,Teacher,Education,1,118925,19,San Francisco,Google Gemini,High,Senior,In-Office
+Laura Oneal,Nurse,Healthcare,3,110307,13,Chicago,Claude,High,Senior,In-Office
+Kenneth Martinez,Radiologist,Healthcare,2,136894,1,San Francisco,Claude,High,Entry,In-Office
+Mrs. Wendy King,Teacher,Education,2,103004,12,San Francisco,Google Gemini,High,Senior,In-Office
+Benjamin Odonnell,Paralegal,Legal,1,130308,33,New York,Harvey,High,Veteran,In-Office
+Betty Wolfe,Doctor,Healthcare,1,91205,11,San Francisco,Claude,Medium,Senior,In-Office
+Lauren Dudley,Teacher,Education,2,92533,13,Austin,Google Gemini,Medium,Senior,In-Office
+April Atkinson,Software Engineer,Tech,1,81028,1,Austin,ChatGPT,Medium,Entry,In-Office
+Clayton Ortiz Jr.,Lawyer,Legal,4,52080,15,Remote,Claude,Low,Senior,Remote
+Matthew Chung,Radiologist,Healthcare,3,102211,18,Chicago,Claude,High,Senior,In-Office
+Ellen Thompson,Financial Analyst,Healthcare,1,56454,3,Boston,None,Low,Mid,In-Office
+Robert Kent,Financial Analyst,Finance,4,131665,10,Boston,Perplexity AI,High,Senior,In-Office
+Julie Hall,Radiologist,Healthcare,2,80770,35,Austin,Claude,Medium,Veteran,In-Office
+John Ward,Paralegal,Legal,1,73488,22,Remote,DoNotPay,Medium,Senior,Remote
+Anthony Walker,Marketing Manager,Media & Marketing,1,134263,35,Chicago,ChatGPT,High,Veteran,In-Office
+Lisa Clark,Software Engineer,Tech,2,129653,25,Boston,Claude,High,Veteran,In-Office
+Gregory Long,Technical Recruiter,Media & Marketing,3,42680,15,Remote,Scribe AI,Low,Senior,Remote
+Jessica Henry MD,Copywriter,Media & Marketing,5,122468,12,Austin,ChatGPT,High,Senior,In-Office
+Jennifer Sanchez,Marketing Manager,Media & Marketing,2,136632,30,Chicago,ChatGPT,High,Veteran,In-Office
+Carrie Garcia,Radiologist,Healthcare,5,192588,12,Remote,MedpaLM,Very High,Senior,Remote
+Jeremy Marshall,Software Engineer,Tech,1,45308,2,San Francisco,Github Copilot,Low,Entry,In-Office
+Richard Guerrero,HR Manager,Human Resources,3,159373,22,Boston,Scribe AI,Very High,Senior,In-Office
+Michael Pacheco,Teacher,Education,2,113156,23,New York,Claude,High,Senior,In-Office
+Kevin Delacruz,Data Analyst,Healthcare,4,54816,22,Seattle,Claude,Low,Senior,In-Office
+Mario Ferguson,Nurse,Healthcare,2,63549,11,Boston,Claude,Medium,Senior,In-Office
+Lori Barron,Radiologist,Healthcare,4,47870,13,Seattle,Claude,Low,Senior,In-Office
+Kerry Johnson,Teacher,Education,5,193530,13,Chicago,ChatGPT,Very High,Senior,In-Office
+Karen Gilbert,Software Engineer,Tech,2,197995,13,Austin,Github Copilot,Very High,Senior,In-Office
+Anthony Santos,Marketing Manager,Media & Marketing,3,69650,10,Boston,Scribe AI,Medium,Senior,In-Office
+Donna Stevens,Lawyer,Legal,1,167451,21,Chicago,DoNotPay,Very High,Senior,In-Office
+Jacqueline Parker,Paralegal,Legal,3,70533,8,Austin,Harvey,Medium,Mid,In-Office
+Monica Burch,Copywriter,Media & Marketing,1,199523,11,Boston,Writer.com,Very High,Senior,In-Office
+Vanessa Edwards,Teacher,Education,4,53490,22,New York,Claude,Low,Senior,In-Office
+Megan Nelson,Nurse,Healthcare,4,154869,21,Seattle,MedpaLM,Very High,Senior,In-Office
+Christopher Wagner,Customer Support Agent,Tech,5,150764,12,Boston,Perplexity AI,Very High,Senior,In-Office
+Danny Hamilton,Technical Recruiter,Media & Marketing,5,177213,13,Remote,ChatGPT,Very High,Senior,Remote
+David Hayden,Teacher,Education,4,86910,8,Chicago,Google Gemini,Medium,Mid,In-Office
+Henry Bailey,Radiologist,Healthcare,4,136202,27,Boston,MedpaLM,High,Veteran,In-Office
+Victor Nash,Financial Analyst,Finance,5,154063,27,Boston,ChatGPT,Very High,Veteran,In-Office
+Jose Hughes,Data Analyst,Healthcare,4,117963,23,Boston,ChatGPT,High,Senior,In-Office
+David Carter,Software Engineer,Tech,5,54032,6,Chicago,Claude,Low,Mid,In-Office
+Deborah Diaz,Technical Recruiter,Media & Marketing,3,136573,22,Boston,Scribe AI,High,Senior,In-Office
+Alyssa Nelson,Radiologist,Healthcare,3,197076,6,Seattle,Claude,Very High,Mid,In-Office
+Caleb Carr,Paralegal,Legal,2,84086,1,New York,Claude,Medium,Entry,In-Office
+John Williams,HR Manager,Human Resources,2,171973,13,New York,ChatGPT,Very High,Senior,In-Office
+Ryan Kelley,Nurse,Healthcare,4,194033,19,New York,Claude,Very High,Senior,In-Office
+Paul Moore,Paralegal,Legal,4,135939,3,New York,Harvey,High,Mid,In-Office
+Caitlyn Weiss,Lawyer,Legal,5,49743,13,Remote,DoNotPay,Low,Senior,Remote
+Jonathan Owens,Lawyer,Legal,2,169361,34,Chicago,Harvey,Very High,Veteran,In-Office
+Kristine Smith,Copywriter,Tech,5,40537,6,Seattle,ChatGPT,Low,Mid,In-Office
+David Lopez,Technical Recruiter,Finance,1,45558,26,Remote,Scribe AI,Low,Veteran,Remote
+Eric Lee,Doctor,Healthcare,1,124296,21,Boston,Claude,High,Senior,In-Office
+Douglas White,Customer Support Agent,Healthcare,3,178552,19,New York,Perplexity AI,Very High,Senior,In-Office
+Kyle Woods,Copywriter,Tech,1,152191,22,New York,Writer.com,Very High,Senior,In-Office
+Jill Carroll,Copywriter,Tech,3,124048,8,Seattle,Writer.com,High,Mid,In-Office
+Vicki Johns,Data Analyst,Tech,3,175365,2,Boston,Github Copilot,Very High,Entry,In-Office
+Grace Elliott,Doctor,Healthcare,4,105176,28,New York,MedpaLM,High,Veteran,In-Office
+Lonnie Davis,Doctor,Healthcare,3,176997,23,Remote,MedpaLM,Very High,Senior,Remote
+Barbara Stephens,Data Analyst,Tech,3,86954,9,New York,Github Copilot,Medium,Mid,In-Office
+Brandon Williams,Nurse,Healthcare,4,191463,11,Seattle,MedpaLM,Very High,Senior,In-Office
+Michael Adams,Data Analyst,Tech,4,199462,6,Remote,ChatGPT,Very High,Mid,Remote
+Patrick King,Doctor,Healthcare,4,150853,4,Boston,Claude,Very High,Mid,In-Office
+Todd Casey,Financial Analyst,Healthcare,3,132261,10,Austin,None,High,Senior,In-Office
+Janice Flores,Technical Recruiter,Finance,5,167446,19,Chicago,None,Very High,Senior,In-Office
+Melvin Ford,Financial Analyst,Finance,2,190047,19,Chicago,None,Very High,Senior,In-Office
+Bryan Ferguson,Customer Support Agent,Media & Marketing,5,181327,6,Austin,None,Very High,Mid,In-Office
+Keith Howard,Technical Recruiter,Healthcare,2,185370,20,New York,None,Very High,Senior,In-Office
+Roberta Crawford,Customer Support Agent,Healthcare,3,97501,2,Seattle,None,Medium,Entry,In-Office
+Brian Flores,Technical Recruiter,Tech,5,83281,16,New York,None,Medium,Senior,In-Office
+Amanda David,Customer Support Agent,Media & Marketing,5,111368,17,Austin,None,High,Senior,In-Office
+John Cruz,Customer Support Agent,Healthcare,4,124071,21,Boston,None,High,Senior,In-Office
+Alicia Hall,Customer Support Agent,Finance,4,151079,29,Boston,None,Very High,Veteran,In-Office
+Joseph Jones,Financial Analyst,Finance,2,168426,27,New York,None,Very High,Veteran,In-Office
+Erin Swanson,Financial Analyst,Finance,5,66409,10,Seattle,None,Medium,Senior,In-Office
+Melissa Bailey,Customer Support Agent,Healthcare,5,137664,31,Boston,None,High,Veteran,In-Office
+Jeffrey Powell,Financial Analyst,Healthcare,2,130110,9,Boston,None,High,Mid,In-Office
+Julie Joseph,Financial Analyst,Healthcare,4,195843,32,Seattle,None,Very High,Veteran,In-Office
+Jeremiah Koch,Customer Support Agent,Healthcare,2,68405,27,Chicago,None,Medium,Veteran,In-Office
+Terry Lee,Financial Analyst,Finance,4,119301,12,Remote,None,High,Senior,Remote
+Caitlin Hill,Customer Support Agent,Tech,1,91646,2,Boston,None,Medium,Entry,In-Office
+Nathan Preston,Financial Analyst,Finance,5,100418,31,Austin,None,High,Veteran,In-Office
+George Lewis,Financial Analyst,Finance,2,122237,2,Chicago,None,High,Entry,In-Office
+Jesus Bates,Customer Support Agent,Media & Marketing,4,173266,13,Chicago,None,Very High,Senior,In-Office
+Cynthia Macias,Technical Recruiter,Media & Marketing,4,56158,0,New York,None,Low,Entry,In-Office
+Mr. Stephen Frye,Financial Analyst,Finance,1,48841,24,San Francisco,None,Low,Senior,In-Office
+Anna Martinez,Customer Support Agent,Finance,5,165996,2,San Francisco,None,Very High,Entry,In-Office
+Claudia Green,Financial Analyst,Finance,4,160315,32,Boston,None,Very High,Veteran,In-Office
+Reginald Ritter,Financial Analyst,Healthcare,5,70437,11,Seattle,None,Medium,Senior,In-Office
+Megan Christensen,Financial Analyst,Finance,1,176967,24,Boston,None,Very High,Senior,In-Office
+Robert Reed,Customer Support Agent,Healthcare,4,69595,12,Boston,None,Medium,Senior,In-Office
+Megan Long DVM,Customer Support Agent,Finance,2,73051,3,Austin,None,Medium,Mid,In-Office
+Joshua Baker,Customer Support Agent,Healthcare,5,81190,34,San Francisco,None,Medium,Veteran,In-Office
+Anthony Davis,Customer Support Agent,Finance,5,123042,31,Boston,None,High,Veteran,In-Office
+Alyssa Cook,Financial Analyst,Finance,3,113182,27,Seattle,None,High,Veteran,In-Office
+George Neal,Technical Recruiter,Human Resources,2,167500,5,Chicago,None,Very High,Mid,In-Office
+Chad Jimenez,Financial Analyst,Healthcare,2,80035,2,Remote,None,Medium,Entry,Remote
+Gail Middleton,Financial Analyst,Finance,5,159896,7,Austin,None,Very High,Mid,In-Office
+Cory Young,Technical Recruiter,Media & Marketing,5,128758,11,Seattle,None,High,Senior,In-Office
+Mackenzie Stanley,Customer Support Agent,Healthcare,5,193052,22,Boston,None,Very High,Senior,In-Office
+Diane Thomas,Customer Support Agent,Healthcare,2,41345,30,New York,None,Low,Veteran,In-Office
+Jessica Woods,Technical Recruiter,Healthcare,2,158298,31,Remote,None,Very High,Veteran,Remote
+Brandi Brewer,Financial Analyst,Finance,5,133085,24,Seattle,None,High,Senior,In-Office
+Jamie Williams,Financial Analyst,Healthcare,5,58076,11,Remote,None,Low,Senior,Remote
+Teresa Liu,Customer Support Agent,Healthcare,2,72602,26,Austin,None,Medium,Veteran,In-Office
+Amy Martin,Customer Support Agent,Media & Marketing,3,57565,29,Seattle,None,Low,Veteran,In-Office
+Amanda Golden,Financial Analyst,Healthcare,5,134904,14,Boston,None,High,Senior,In-Office
+Matthew Sweeney,Customer Support Agent,Tech,1,54552,0,Remote,None,Low,Entry,Remote
+Carl Walker,Technical Recruiter,Finance,1,81572,10,Remote,None,Medium,Senior,Remote
+Kimberly Banks,Financial Analyst,Healthcare,3,57776,25,Chicago,None,Low,Veteran,In-Office
+Linda Richards,Customer Support Agent,Finance,3,128303,1,San Francisco,None,High,Entry,In-Office
+Manuel Hendrix,Financial Analyst,Healthcare,4,144399,7,Seattle,None,High,Mid,In-Office
+Peter Taylor,Financial Analyst,Finance,5,174705,20,New York,None,Very High,Senior,In-Office
+Christopher Levine,Financial Analyst,Healthcare,3,158944,22,Chicago,None,Very High,Senior,In-Office
+Kevin Parker,Customer Support Agent,Healthcare,3,154844,4,Remote,None,Very High,Mid,Remote
+Ryan Bailey,Financial Analyst,Finance,2,178261,14,New York,None,Very High,Senior,In-Office
+Kimberly Lopez,Customer Support Agent,Media & Marketing,2,123624,35,San Francisco,None,High,Veteran,In-Office
+Crystal Hansen,Financial Analyst,Finance,1,142667,1,New York,None,High,Entry,In-Office
+Joseph Miller,Technical Recruiter,Human Resources,3,142840,25,Remote,None,High,Veteran,Remote
+Julie Flores,Customer Support Agent,Finance,4,78013,17,San Francisco,None,Medium,Senior,In-Office
+Eric Thomas,Customer Support Agent,Media & Marketing,4,130429,14,New York,None,High,Senior,In-Office
+Eileen Bishop,Financial Analyst,Finance,5,166633,9,Seattle,None,Very High,Mid,In-Office
+Michelle Lam,Technical Recruiter,Human Resources,5,88140,30,San Francisco,None,Medium,Veteran,In-Office
+Tanya Fields,Technical Recruiter,Tech,5,85728,29,Chicago,None,Medium,Veteran,In-Office
+Erin Simmons,Customer Support Agent,Healthcare,2,128567,15,Remote,None,High,Senior,Remote
+Beverly Foster,Customer Support Agent,Tech,5,97817,13,New York,None,Medium,Senior,In-Office
+Victoria Bell,Financial Analyst,Healthcare,2,136840,13,Austin,None,High,Senior,In-Office
+Susan Collins,Financial Analyst,Finance,3,40175,26,Chicago,None,Low,Veteran,In-Office
+Courtney Jones,Financial Analyst,Finance,2,67239,31,Chicago,None,Medium,Veteran,In-Office
+Andrea Logan,Technical Recruiter,Human Resources,3,57420,22,Seattle,None,Low,Senior,In-Office
+Timothy Thomas,Technical Recruiter,Media & Marketing,3,82513,17,New York,None,Medium,Senior,In-Office

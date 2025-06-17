@@ -91,7 +91,9 @@ The pipeline uses synthetic job market data attempting to simulate a group being
 - **Development and Analysis**
   - <img src="https://cdn.simpleicons.org/jupyter/F37626" alt="Jupyter Logo" height="20"> *Jupyter Notebook*: Used for Python synthetic data generation
   - <img src="https://logo.svgcdn.com/l/microsoft-azure.svg" alt="Azure Logo" height="20" style="vertical-align:middle;margin-right:5px;"> *Azure Data Studio*: For SQL development, schema creation, and Python transformation and loading
-  - <img src="https://github.com/kevinprinsloo/data_icons/raw/master/icons/tableau/tableau-logo.svg" alt="Tableau Public Logo" height="20" style="vertical-align:middle;margin-right:5px;"> *Tableau Public*: Visualization and dashboarding 
+  - <img src="https://github.com/kevinprinsloo/data_icons/raw/master/icons/tableau/tableau-logo.svg" alt="Tableau Public Logo" height="20" style="vertical-align:middle;margin-right:5px;"> *Tableau Public*: Visualization and dashboarding
+  - <img src="https://logo.svgcdn.com/l/openai.svg" alt="OpenAI Logo" height="20" style="vertical-align:middle;margin-right:5px;"> *ChatGPT*: Assisted with hands-on learning, project guidance, and code review
     
 ## Links
 - **[Explore the Interactive AI Job Risk Dashboard](https://public.tableau.com/app/profile/christopher.kennedy4966/viz/Book1_17491403790390/AIExposureAcrossJobsandIndustries)**
+- **[Connect with me on LinkedIn](https://www.linkedin.com/in/christopher-akennedy/)**

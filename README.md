@@ -1,4 +1,14 @@
 # AI Job Risk Pipeline Project
+![SQL](https://img.shields.io/badge/SQL-PostgreSQL-blueviolet)
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Pandas](https://img.shields.io/badge/Pandas-data_manipulation-brightgreen)
+![Faker](https://img.shields.io/badge/Faker-synthetic_data-yellowgreen)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-DB_connector-lightgrey)
+![psycopg2](https://img.shields.io/badge/psycopg2-PostgreSQL_driver-blue)
+![Azure PostgreSQL](https://img.shields.io/badge/Azure-PostgreSQL-blue)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange)
+![Azure Data Studio](https://img.shields.io/badge/Azure_Data_Studio-IDE-informational)
+![Tableau Public](https://img.shields.io/badge/Tableau-Public-orange)
 
 ## Project Overview
 This project analyzes how artificial intelligence could impact job security across various jobs and industries using an end-to-end ETL (Extract, Transform, Load) pipeline which includes an interactive Tableau dashboard to showcase insights and results.
@@ -67,21 +77,21 @@ The pipeline uses synthetic job market data attempting to simulate a group being
     
 ## Tech Stack
 - **Languages and Libraries**
-  - *SQL*: Schema and Table creation, querying, aggregating
-  - *Python*: End-to-end scripting (generation, transformation, loading)
-  - *Pandas*: Python library for data manipulation and cleaning
+  - <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="SQL Logo" height="20"> *SQL*: Schema and Table creation, querying, aggregating
+  - <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python Logo" height="20"> *Python*: End-to-end scripting (generation, transformation, loading)
+  - <img src="https://cdn.simpleicons.org/pandas/150458" alt="Pandas Logo" height="20"> *Pandas*: Python library for data manipulation and cleaning
   - *Faker*: Python library for synthetic data generation
   - *SQLAlchemy*: Python library used to connect ADS to Azure-hosted database
-  - *psycopg2*: Database driver for PostgreSQL
+  - *psycopg2*: Database driver for PostgreSQL 
     
 - **Database and Cloud**
-  - *Azure PostgreSQL Flexible Server*: Cloud-based relational database service used to host all transformed job data
-  - *Azure Data Studio*: Database Management with SQL
+  - <img src="https://cdn.simpleicons.org/postgresql/336791" alt="PostgreSQL Logo" height="20"> *Azure PostgreSQL Flexible Server*: Cloud-based relational database service used to host all transformed job data
+  - <img src="https://logo.svgcdn.com/l/microsoft-azure.svg" alt="Azure Logo" height="20" style="vertical-align:middle;margin-right:5px;"> *Azure Data Studio*: Database Management with SQL 
     
 - **Development and Analysis**
-  - *Jupyter Notebook*: Used for Python synthetic data generation
-  - *Azure Data Studio*: For SQL development, schema creation, and Python transformation and loading
-  - *Tableau Public*: Visualization and dashboarding
+  - <img src="https://cdn.simpleicons.org/jupyter/F37626" alt="Jupyter Logo" height="20"> *Jupyter Notebook*: Used for Python synthetic data generation
+  - <img src="https://logo.svgcdn.com/l/microsoft-azure.svg" alt="Azure Logo" height="20" style="vertical-align:middle;margin-right:5px;"> *Azure Data Studio*: For SQL development, schema creation, and Python transformation and loading
+  - <img src="https://github.com/kevinprinsloo/data_icons/raw/master/icons/tableau/tableau-logo.svg" alt="Tableau Public Logo" height="20" style="vertical-align:middle;margin-right:5px;"> *Tableau Public*: Visualization and dashboarding 
     
 ## Links
 - **[Explore the Interactive AI Job Risk Dashboard](https://public.tableau.com/app/profile/christopher.kennedy4966/viz/Book1_17491403790390/AIExposureAcrossJobsandIndustries)**

@@ -84,4 +84,4 @@ The pipeline uses synthetic job market data attempting to simulate a group being
   - *Tableau Public*: Visualization and dashboarding
     
 ## Links
-- [Tableau Dashboard]([https://public.tableau.com/app/profile/christopher.kennedy4966/viz/Book1_17491403790390/AIExposureAcrossJobsandIndustries])
+- **[Explore the Interactive AI Job Risk Dashboard](https://public.tableau.com/app/profile/christopher.kennedy4966/viz/Book1_17491403790390/AIExposureAcrossJobsandIndustries)**

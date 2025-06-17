@@ -1,1 +1,1 @@
-Python & SQL scripts for ETL processing and database management
+Python & SQL Scripts for ETL Processing and Database Management
